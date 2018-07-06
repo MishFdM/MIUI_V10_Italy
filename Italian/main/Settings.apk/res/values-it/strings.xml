@@ -2750,7 +2750,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_lab_slogan">Impara. Esplora. Scopri.</string>
      <string name="miui_lab_super_resolution_desc">Make images crisper</string>
      <string name="miui_lab_super_resolution_title">Super resolution</string>
-     <string name="miui_master_clear_summary">Elimina tutti i dati sul telefono</string>
+     <string name="master_clear_summary">Elimina tutti i dati sul telefono</string>
      <string name="miui_touch_filtered_warning">"Se un'app blocca una finestra di permessi, trascina via l'elemento sovrapposto o chiudi l'app."</string>
      <string name="miui_updater">Aggiornamenti</string>
      <string name="miui_userguide">Guida utente</string>
