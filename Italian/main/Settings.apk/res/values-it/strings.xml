@@ -1641,6 +1641,7 @@ avviso"</string>
      <string name="doze_summary">Accende lo schermo quando sollevi il dispositivo o arrivano notifiche</string>
      <string name="doze_title">Schermo Ambient</string>
      <string name="draw_overlay">Disegno su altre app</string>
+	<string name="draw_overlay_title">App che possono disegnare su altre app</string>
      <string name="dtmf_tone_enable_title">Toni tastierino</string>
      <string name="dual_setting_simcard1">SIM 1</string>
      <string name="dual_setting_simcard2">SIM 2</string>
