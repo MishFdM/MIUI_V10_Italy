@@ -173,7 +173,6 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="add_device_admin_msg">Attivare amministratore dispositivo?</string>
      <string name="add_facerecoginition_text">Aggiungi dati viso</string>
      <string name="add_fingerprint_cancel_button_text">Indietro</string>
-     <string name="add_fingerprint_dirty_fingerprint">"Assicurati che la superficie dello schermo sia pulita. Prova a registrare nuovamente l'impronta digitale."</string>
      <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il dispositivo con le impronte digitali.</string>
      <string name="add_fingerprint_done_title">Finito.</string>
      <string name="add_fingerprint_edge_instruction_msg">Sposta il dito sul sensore così che possa leggere i dettagli della tua impronta digitale.</string>
@@ -4323,7 +4322,6 @@ Il PIN potrebbe essere errato."</string>
      <string name="sim_lock_settings_title">Blocco della SIM</string>
      <string name="sim_management_title">SIM e reti mobili</string>
      <string name="sim_management_title_singlesim">Scheda SIM e reti mobili</string>
-     <string name="sim_multi_sims_summary">Scegli la SIM preferita per connettersi alla rete dati.</string>
      <string name="sim_multi_sims_title">Trovate SIM multiple</string>
      <string name="sim_name_hint">Inserisci nome SIM</string>
      <string name="sim_no_inserted_msg">Nessuna SIM inserita</string>
