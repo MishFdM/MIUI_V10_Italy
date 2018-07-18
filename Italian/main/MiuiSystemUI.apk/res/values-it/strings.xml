@@ -165,12 +165,12 @@
      <string name="accessibility_quick_settings_data_saver_changed_on">Risparmio dati attivato.</string>
      <string name="accessibility_quick_settings_detail">Impostazioni rapide, %s.</string>
      <string name="accessibility_quick_settings_dnd">Non disturbare.</string>
-     <string name="accessibility_quick_settings_dnd_alarms_on">Modalità non disturbare attivata, solo sveglia.</string>
-     <string name="accessibility_quick_settings_dnd_changed_off">Modalità non disturbare disattivata.</string>
-     <string name="accessibility_quick_settings_dnd_changed_on">Modalità non disturbare attivata.</string>
-     <string name="accessibility_quick_settings_dnd_none_on">Modalità non disturbare attivata, silenzio totale.</string>
-     <string name="accessibility_quick_settings_dnd_off">Modalità non disturbare disattivata.</string>
-     <string name="accessibility_quick_settings_dnd_priority_on">Modalità non disturbare attivata, solo priorità.</string>
+     <string name="accessibility_quick_settings_dnd_alarms_on">Modalità Non disturbare attivata, solo sveglia.</string>
+     <string name="accessibility_quick_settings_dnd_changed_off">Modalità Non disturbare disattivata.</string>
+     <string name="accessibility_quick_settings_dnd_changed_on">Modalità Non disturbare attivata.</string>
+     <string name="accessibility_quick_settings_dnd_none_on">Modalità Non disturbare attivata, silenzio totale.</string>
+     <string name="accessibility_quick_settings_dnd_off">Modalità Non disturbare disattivata.</string>
+     <string name="accessibility_quick_settings_dnd_priority_on">Modalità Non disturbare attivata, solo priorità.</string>
      <string name="accessibility_quick_settings_edit">Modifica ordinamento impostazioni.</string>
      <string name="accessibility_quick_settings_expand">Apri impostazioni rapide.</string>
      <string name="accessibility_quick_settings_flashlight_changed_off">Torcia disattivata.</string>
@@ -528,7 +528,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="dlg_confirm_kill_storage_users_title">Attiva archivio USB</string>
      <string name="dlg_error_title">Operazione USB fallita</string>
      <string name="dlg_ok">OK</string>
-     <string name="dnd_is_off">Modalità DND disattivata</string>
+     <string name="dnd_is_off">Modalità Non disturbare disattivata</string>
      <string name="do_disclosure_generic">Questo dispositivo è gestito dalla tua organizzazione</string>
      <string name="do_disclosure_with_name">Questo dispositivo è gestito da %s</string>
      <string name="do_not_silence">Non silenziare</string>
@@ -1023,7 +1023,7 @@ Riprova tra %2$d secondi."</string>
      <string name="miui_ringer_count_down_time">Conto alla rovescia: %s</string>
      <string name="miui_ringer_standard">Silenzioso</string>
      <string name="miui_ringer_standard_description">Silenzia le suonerie per le chiamate in arrivo e le notifiche</string>
-     <string name="miui_ringer_total">DND</string>
+     <string name="miui_ringer_total">Non disturbare</string>
      <string name="miui_ringer_total_description">Silenzia i suoni e disattiva la vibrazione per tutti gli elementi tranne le sveglie</string>
      <string name="miui_toast_zen_dnd_to_off">Suoni e vibrazione ripristinati alla normalità</string>
      <string name="miui_toast_zen_standard_to_off">Suonerie ripristinate alla normalità</string>
@@ -1266,9 +1266,9 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="qs_customize_remove">Rimuovi</string>
      <string name="qs_customize_title">Modifica</string>
      <string name="qs_dnd_keep">Mantieni</string>
-     <string name="qs_dnd_prompt_app">"DND è stata attivata dall'app (%s)."</string>
-     <string name="qs_dnd_prompt_auto_rule">"DND è stata attivata da una regola automatica (%s)."</string>
-     <string name="qs_dnd_prompt_auto_rule_app">"DND è stata attivata da una regola autonatica o da un'app."</string>
+     <string name="qs_dnd_prompt_app">"La modalità Non disturbare è stata attivata dall'app (%s)."</string>
+     <string name="qs_dnd_prompt_auto_rule">"La modalità Non disturbare è stata attivata da una regola automatica (%s)."</string>
+     <string name="qs_dnd_prompt_auto_rule_app">"La modalità Non disturbare è stata attivata da una regola autonatica o da un'app."</string>
      <string name="qs_dnd_replace">Sostituisci</string>
      <string name="qs_dnd_until">Fino a %s</string>
      <string name="qs_edit">Modifica</string>
@@ -1344,7 +1344,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="quick_settings_notifications_label">Notifiche</string>
      <string name="quick_settings_papermode_label">Lettura</string>
      <string name="quick_settings_powermode_label">Modalità prestazioni</string>
-     <string name="quick_settings_quietmode_label">DND</string>
+     <string name="quick_settings_quietmode_label">Non disturbare</string>
      <string name="quick_settings_reset_confirmation_button">Nascondi</string>
      <string name="quick_settings_reset_confirmation_message">Riapparirà la prossima volta che verrà attivato dalle Impostazioni.</string>
      <string name="quick_settings_reset_confirmation_title">Nascondere %1$s?</string>
@@ -1761,7 +1761,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
      <string name="volume_stream_suppressed">%1$s silenzioso — %2$s</string>
      <string name="volume_stream_vibrate">%s vibrazione</string>
      <string name="volume_stream_vibrate_dnd">%s vibrazione — Solo priorità</string>
-     <string name="volume_up_silent">Uscità modalità DND con aumento volume</string>
+     <string name="volume_up_silent">Disattivo modalità Non disturbare e ripristino il volume</string>
      <string name="volume_zen_end_now">Disattiva ora</string>
      <string name="vpn_footer">La rete potrebbe essere monitorata</string>
      <string name="vpn_settings_not_available">Le opzioni VPN non sono disponibili per questo utente</string>
