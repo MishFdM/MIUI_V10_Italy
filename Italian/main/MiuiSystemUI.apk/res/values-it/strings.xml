@@ -208,7 +208,7 @@
      <string name="accessibility_recent_task_exit">Recenti chiusi</string>
      <string name="accessibility_recent_task_locked">Bloccato, scorri in basso per sbloccare.</string>
      <string name="accessibility_recent_task_locked_state">Bloccato</string>
-     <string name="accessibility_recent_task_memory_info">RAM totale: %2$s | RAM disponibile: %1$s. Doppio tap per liberare.</string>
+     <string name="accessibility_recent_task_memory_info">RAM utilizzata: %2$s | RAM disponibile: %1$s. Doppio tap per liberare.</string>
      <string name="accessibility_recent_task_unlocked">Sbloccato</string>
      <string name="accessibility_recent_task_unlocked_state">Sbloccato</string>
      <string name="accessibility_recents_all_items_dismissed">Tutte le app recenti chiuse.</string>
@@ -1477,7 +1477,7 @@ scorri in basso per bloccare"</string>
      <string name="status_bar_recent_guide_bottom">Scorri in basso per bloccare</string>
      <string name="status_bar_recent_guide_top">Scorri in alto per chiudere</string>
      <string name="status_bar_recent_inspect_item_title">Info app</string>
-     <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
+     <string name="status_bar_recent_memory_info1">RAM utilizzata: %1$sB | RAM totale: %2$sB</string>
      <string name="status_bar_recent_memory_info2" />
      <string name="status_bar_recent_remove_item_title">Rimuovi dalla lista</string>
      <string name="status_bar_recording_back">Premi per tornare al Registratore</string>
