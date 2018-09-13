@@ -46,7 +46,7 @@
      <string name="next">Avanti</string>
      <string name="next_fingerprint">Avanti</string>
      <string name="other_settings">Altro</string>
-     <string name="other_settings_ad_enable">Suggerimenti pubblicità consigliati</string>
+     <string name="other_settings_ad_enable">Suggerimenti pubblicità consigliate</string>
      <string name="other_settings_ad_enable_summary">Suggerisci pubblicità personalizzate basate sulle tue abitudini</string>
      <string name="other_settings_auto_update">Aggiorna automaticamente</string>
      <string name="other_settings_auto_update_summary">"MIUI sceglierà il tempo di attesa per scaricare ed installare gli aggiornamenti."</string>
