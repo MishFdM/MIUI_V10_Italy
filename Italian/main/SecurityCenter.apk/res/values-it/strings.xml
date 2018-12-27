@@ -1723,7 +1723,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="receive_now">Ricevi</string>
      <string name="recently_reject_message">%1$s richieste di installazione ed altre %2$d rifiutate</string>
      <string name="recently_reject_message_one">%1$s richieste di installazione rifiutate</string>
-     <string name="recommend_news">Fonti consigliate</string>
+     <string name="recommend_news">Mostra notizie consigliate</string>
      <string name="recommended">In evidenza</string>
      <string name="reject_all">Nega a tutte</string>
      <string name="reject_countdown">Nega (%d)</string>
