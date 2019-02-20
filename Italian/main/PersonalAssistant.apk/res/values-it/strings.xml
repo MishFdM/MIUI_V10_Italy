@@ -617,6 +617,10 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="locations">Posti frequentati</string>
      <string name="locations_preferences">Viaggi frequenti e impostazioni di viaggio</string>
      <string name="login_before_use">Devi accedere prima</string>
+     <string name="login_dialog_body">Attiva la sincronizzazione con Mi Cloud per accedere ai tuoi dati da altri dispositivi. Accedere ed attivare ora?</string>
+     <string name="login_dialog_negative">Non ora</string>
+     <string name="login_dialog_positive">Accedi e attiva</string>
+     <string name="login_dialog_title">Attiva sinc.</string>
      <string name="login_ok">Accedi</string>
      <string name="look_more">Vedi altro</string>
      <string name="main_add">Aggiungi</string>
