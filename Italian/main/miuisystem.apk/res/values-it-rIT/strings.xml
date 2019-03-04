@@ -30,7 +30,7 @@
      <string name="chord">Accordo</string>
      <string name="christmas_day">Natale</string>
      <string name="clank">Clank</string>
-     <string name="clear_and_bright">Qingming Festival</string>
+     <string name="clear_and_bright">Festival Qingming</string>
      <string name="cloud_state_disabled">Sincronizzazione Mi Cloud disattivata</string>
      <string name="cloud_state_finished">Sincronizzato con Mi Cloud</string>
      <string name="cloud_state_syncing">Sincronizzato con Mi Cloud</string>
@@ -56,7 +56,7 @@
      <string name="device_poco_india">POCO PHONE</string>
      <string name="device_redmi">Redmi</string>
      <string name="device_xiaomi">Mi Phone</string>
-     <string name="dewdrops">Dewdrops</string>
+     <string name="dewdrops">Condensa</string>
      <string name="double_seventh_day" />
      <string name="easter" />
      <string name="echo">Eco</string>
@@ -99,7 +99,7 @@
      <string name="lantern_festival" />
      <string name="leisure">Piacere</string>
      <string name="light_snow" />
-     <string name="lollipop">Lollipop</string>
+     <string name="lollipop">Lecca lecca</string>
      <string name="lunar_ba" />
      <string name="lunar_calendar" />
      <string name="lunar_chu" />
