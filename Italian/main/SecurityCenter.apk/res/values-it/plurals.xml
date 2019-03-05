@@ -248,12 +248,12 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Scaricato da %1$d persone</item>
      </plurals>
      <plurals name="power_center_battery_day">
-        <item quantity="other">"%d giorni "</item>
-        <item quantity="one">"%d giorno "</item>
+        <item quantity="other">"%d giorni, "</item>
+        <item quantity="one">"%d giorno, "</item>
      </plurals>
      <plurals name="power_center_battery_hour">
-        <item quantity="other">"%d ore "</item>
-        <item quantity="one">"%d ora "</item>
+        <item quantity="other">"%d ore e "</item>
+        <item quantity="one">"%d ora e "</item>
      </plurals>
      <plurals name="power_center_battery_minute">
         <item quantity="other">"%d minuti "</item>
