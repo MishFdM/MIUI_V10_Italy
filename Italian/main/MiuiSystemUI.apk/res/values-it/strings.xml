@@ -1058,6 +1058,7 @@ MMMM EEEE"</string>
      <string name="lockscreen_sim_error_message_short">Scheda non valida</string>
      <string name="lockscreen_unlock_left">Collegamento sinistro e sblocco</string>
      <string name="lockscreen_unlock_right">Collegamento destro e sblocco</string>
+     <string name="long_screenshot_guide_text">"Tocca per creare una schermata estesa</string>
      <string name="long_screenshot_not_support_msg">Questa app non supporta la schermata estesa.</string>
      <string name="long_screenshot_out_of_memory_error">"Creazione non riuscita a causa delle dimensioni troppo elevate dell'immagine"</string>
      <string name="long_screenshot_processing">Elaborazione…</string>
