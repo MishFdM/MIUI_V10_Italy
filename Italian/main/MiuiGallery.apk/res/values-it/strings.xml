@@ -106,7 +106,7 @@
      <string name="app_name">Galleria</string>
      <string name="app_name_view_picture">Mostra immagine</string>
      <string name="app_name_view_video">Mostra video</string>
-     <string name="assistant_page_label">Assistente</string>
+     <string name="assistant_page_label">Ricordi</string>
      <string name="associate_face_album">Scegli un album</string>
      <string name="auto_backup_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
      <string name="auto_download_media_title">Scarica automaticamente foto da Mi Cloud</string>
