@@ -1407,12 +1407,15 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione del dispositivo non funzionerà mentre questa opzione è attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire sblocco OEM?</string>
      <string name="confirm_erase">Elimina</string>
+     <string name="confirm_fingerprint">Verificare l'impronta digitale</string>
      <string name="confirm_fingerprint_icon_content_description">Usa la tua impronta per continuare.</string>
      <string name="confirm_fingerprint_msg">Appoggia il dito sul lettore di impronte</string>
      <string name="confirm_frp_credential_message">Il tuo dispositivo verrà ripristinato alle impostazioni di fabbrica, potrai sbloccarlo con i tuoi precedenti dati segreti.</string>
      <string name="confirm_frp_credential_skip_txt">UTILIZZA UN ACCOUNT GOOGLE INVECE</string>
      <string name="confirm_frp_credential_title">Protezione Reset di Fabbrica</string>
      <string name="confirm_new_backup_pw_prompt">"Digita nuovamente la nuova password di backup completo qui"</string>
+     <string name="confirm_password_with_fingerprint">Usa l'impronta digitale</string>
+     <string name="confirm_password_with_password">Inserisci la password</string>
      <string name="confirm_privacy_password">Inserisci la password di protezione privacy</string>
      <string name="confirm_privacy_password_fingerprint">"Scansiona l'impronta digitale o inserisci la Password di protezione privacy"</string>
      <string name="confirm_reset_aaid">OK</string>
