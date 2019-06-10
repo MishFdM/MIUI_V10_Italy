@@ -150,6 +150,8 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="international_details_uv_index_title">INDICE UV</string>
      <string name="international_details_wind_title">VENTO</string>
      <string name="it_is_going_to_rain">Sta iniziando a piovere</string>
+     <string name="item_city_list_region_no_data">-- / --</string>
+     <string name="item_city_list_temperature_no_data">--</string>
      <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
 Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="location_provider_btn_text">Attiva i servizi di localizzazione</string>
