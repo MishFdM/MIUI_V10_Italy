@@ -11,6 +11,9 @@
      <string name="back_up_task_unfinished">Backup incompleto</string>
      <string name="backing_up_to_micloud">Backup in corso…</string>
      <string name="backup_fail_wifi_needed">Impossibile eseguire il backup, è necessaria una connessione Wi-Fi.</string>
+     <string name="backup_failed_reason_cloud_space_not_enough">Not enough storage space in Mi Cloud. Upgrade your plan or free up storage space.</string>
+     <string name="backup_failed_reason_disk_space_not_enough">Not enough storage space. Free up storage first.</string>
+     <string name="backup_failed_reason_network_error">Network error. Wait a minute or two and try again.</string>
      <string name="backup_finished_notification_content">Backup eseguito per app schermate Home, impostazione di sistema, etc.</string>
      <string name="backup_now">Esegui backup adesso</string>
      <string name="backup_size">Dimensione: %s</string>
@@ -183,6 +186,8 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
      <string name="restore_detail_category_settings">Impostazioni</string>
      <string name="restore_detail_more">Altro</string>
      <string name="restore_detail_title">Seleziona gli elementi e ripristina</string>
+     <string name="restore_failed_reason_disk_space_not_enough">Not enough storage space. Free up storage first.</string>
+     <string name="restore_failed_reason_network_error">Network error. Wait a minute or two and try again.</string>
      <string name="restore_finish_description">Ripristino completato</string>
      <string name="restore_finished_notification_content">Ripristinati app home, impostazioni di sistema, etc.</string>
      <string name="restore_from_cloud">Ripristina da Mi Cloud</string>
@@ -194,6 +199,7 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
      <string name="restore_network_unconnect">%s (in attesa di connessione)</string>
      <string name="restore_task_cancelling">Annullamento…</string>
      <string name="restore_task_in_process">Ripristino…</string>
+     <string name="restore_task_unfinished">"Couldn't restore"</string>
      <string name="restore_unfinished">Ripristino incompleto, riprova più tardi</string>
      <string name="restoring_file_title_no_progress">Ripristino file…</string>
      <string name="restoring_settings">Ripristino impostazioni…</string>

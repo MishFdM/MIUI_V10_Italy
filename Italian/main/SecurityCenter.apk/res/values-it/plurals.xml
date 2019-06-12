@@ -253,6 +253,18 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d sapp tanno consumando la batteria</item>
         <item quantity="one">%d app sta consumando la batteria</item>
      </plurals>
+     <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s days</item>
+        <item quantity="one">%s day</item>
+     </plurals>
+     <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s hours</item>
+        <item quantity="one">%s hour</item>
+     </plurals>
+     <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minutes</item>
+        <item quantity="one">%s minute</item>
+     </plurals>
      <plurals name="people">
         <item quantity="other">Scaricato da %1$d persone</item>
      </plurals>

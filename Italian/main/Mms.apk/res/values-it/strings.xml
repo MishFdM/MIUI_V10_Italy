@@ -98,16 +98,7 @@
      <string name="cm_privacy_dialog_tips">"I servizi di messaggistica smart sono forniti dal tuo operatore. I messaggi necessitano di connessione internet e accesso alla tua posizione per fornire il servizio. Devi accettare %1s del tuo operatore per poter utilizzare questi servizi. Accetti?"</string>
      <string name="cm_privacy_dialog_title">Attenzione</string>
      <string name="cmcc_privacy">Accordo Privacy Operatore Cina Mobile</string>
-     <string name="complain_input_number">Inserisci il numero di telefono</string>
-     <string name="complain_jump">Salta</string>
      <string name="complain_message_title">Segnalazione</string>
-     <string name="complain_ok">OK</string>
-     <string name="complain_phone_number">numero di telefono</string>
-     <string name="complain_reason">Perché stai segnalando questo messaggio?</string>
-     <string name="complain_success">"Grazie per il tuo feedback. Ci stai aiutando a migliorare l\'app Messaggi!"</string>
-     <string name="complain_tips">"Il contenuto dell'ultimo messaggio segnalato verrà caricato sui nostri server insieme al numero di telefono che hai fornito. I nostri fornitori di servizi esamineranno il messaggio.
-"</string>
-     <string name="complain_upload">La segnalazione è stata inviata</string>
      <string name="compressing">Immagine troppo grande. Compressione in corso…</string>
      <string name="confirm">Conferma</string>
      <string name="confirm_add_blacklist_dialog_dspt">Aggiungere numero alla blacklist?</string>
@@ -171,6 +162,7 @@
      <string name="delete_wild_sims_title">Elimina numeri selezionati</string>
      <string name="delivery_report_activity">Conferma di recapito</string>
      <string name="delivery_toast_body">Messaggio correttamente inviato a %s</string>
+     <string name="dialog_complain_tips">Allow Messaging to connect to the network to be able to report items.</string>
      <string name="dialog_message_fake_cell_detect_error">Correggere le informazioni su questo messaggio? Per fare ciò, MIUI dovrà caricare il numero di telefono (%1$s), i contenuti del messaggio e le informazioni sulla posizione vicina ai suoi server.</string>
      <string name="dialog_message_mx">Mi Message consente di inviare messaggi ad altri dispositivi MIUI senza incorrere in addebiti. Per attivare Mi Message sarà necessario inviare un messaggio SMS. Il tuo operatore ti addebiterà il costo di questo messaggio. Dovrai inoltre accettare i nostri \"%1$s\" e \"%2$s\" prima di utilizzare Mi Message.</string>
      <string name="dialog_message_networking">Messaging needs to connect to the internet and access your location in order to provide Smart Messaging, Sender ID recognition, and other services. Agree?</string>

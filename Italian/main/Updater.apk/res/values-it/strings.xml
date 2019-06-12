@@ -41,7 +41,12 @@
      <string name="btn_stop">Ferma</string>
      <string name="btn_yes">Si</string>
      <string name="button_delay_update_reboot">Riavvia e aggiorna</string>
+     <string name="button_text_cancel">Cancel</string>
      <string name="button_text_check">Cerca</string>
+     <string name="button_text_next_step">Next</string>
+     <string name="button_text_next_step_timer">Next step (%d)</string>
+     <string name="button_text_ok">OK</string>
+     <string name="button_text_ok_timer">OK (%d)</string>
      <string name="button_text_reboot">Riavvia adesso</string>
      <string name="button_text_reboot_hm">Riavvia adesso</string>
      <string name="button_text_update">Aggiorna</string>
@@ -196,6 +201,7 @@ I dati non verranno cancellati."</string>
      <string name="log_share">Condividi</string>
      <string name="log_status_locked_info">Spiacente, Non hai i permessi per accedere al log di aggiornamento</string>
      <string name="log_status_locked_summary">Prova ad accedere al sistema con uno Xiaomi ID autorizzato</string>
+     <string name="master_clear_apply_title">Attention</string>
      <string name="menu_back_button">Indietro</string>
      <string name="menu_more_button">Menu</string>
      <string name="menu_title_apply_for_alpha">Accedi al programma di beta test</string>
@@ -207,6 +213,8 @@ I dati non verranno cancellati."</string>
      <string name="menu_title_pick_rom_file">Seleziona pacchetto di aggiornamento</string>
      <string name="menu_title_privacy">Informativa sulla Privacy</string>
      <string name="menu_title_recovery">Riavvia in Recovery</string>
+     <string name="menu_title_switch_dev">Switch to Beta</string>
+     <string name="menu_title_switch_stable">Switch to stable ROM</string>
      <string name="message_checkbox">Nascondi messaggi futuri dal team di Miui.it</string>
      <string name="message_title">NOTA!</string>
      <string name="miui_summary_has_new_version">" È disponibile un aggiornamento  "</string>
@@ -361,6 +369,8 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="space_not_enough_title">Spazio insufficiente</string>
      <string name="stable">stabile</string>
      <string name="stable_build">Stabile</string>
+     <string name="switch_version_cancel">Cancel switching</string>
+     <string name="switch_version_warning">Switching to a different ROM requires erasing data on your device. Erased items include photos, songs, notes, and other items. The items will be erased after you tap Reboot now when the new version is downloaded. Back up all important items to be able to restore them in the future.</string>
      <string name="test">Test</string>
      <string name="tip_drag_last_toast">"Dai un'occhiata alle novità della MIUI 10"</string>
      <string name="title_can_download_update">Opzioni disponibili</string>

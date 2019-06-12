@@ -91,7 +91,6 @@
      <string name="back_confirm">Tocca ancora per uscire</string>
      <string name="banner_op">Mi Music</string>
      <string name="bluetooth_device">Dispositivo Bluetooth</string>
-     <string name="browser_error">Temporaneamente non disponibile, riprova più tardi</string>
      <string name="buffering">Buffer in corso…</string>
      <string name="button_cancel_download">Annulla</string>
      <string name="button_download_now">Scarica adesso</string>
@@ -400,7 +399,6 @@ attendere o selezionare Musica Online."</string>
      <string name="language_preference_desc">Seleziona le tue lingue preferite per ricevere consigli più pertinenti</string>
      <string name="languages">Lingue</string>
      <string name="latest_song">Riproduci cronologia (%d).</string>
-     <string name="lc_id">en-us</string>
      <string name="like">Mi piace</string>
      <string name="list_item_play_all_tracks">Riproduci tutti i brani</string>
      <string name="load_shuffle">Caricamento</string>
@@ -630,7 +628,6 @@ E gioiscine"</string>
      <string name="selected_count">Selezionati %1$d di %2$d</string>
      <string name="send_to_title">Invia a (%1$s)</string>
      <string name="service_and_settings">Servizio e impostazioni</string>
-     <string name="session_create_error">Il server ha restituito un codice SESSION CREATE ERROR, contatta gli sviluppatori del SDK!</string>
      <string name="set_as_ring">Suoneria</string>
      <string name="set_ringtones_failed">Impossibile impostare suoneria.</string>
      <string name="set_ringtones_successful">%s impostato come suoneria.</string>
@@ -653,8 +650,6 @@ E gioiscine"</string>
      <string name="shuffle_music">Riproduzione casuale</string>
      <string name="shuffle_off_notif">Riproduzione casuale disattivata.</string>
      <string name="shuffle_on_notif">Riproduzione casuale attivata.</string>
-     <string name="signup_type_silent_default">silenzioso</string>
-     <string name="signup_type_user_default">Accesso SDK consumer</string>
      <string name="similar_albums">Album Similari</string>
      <string name="similar_playlists">Playlist Similari</string>
      <string name="similar_songs">Brani simili</string>
@@ -751,6 +746,7 @@ E gioiscine"</string>
      <string name="view_album">Visualizza album</string>
      <string name="vip_required">Spiacenti, è richiesto lo status VIP</string>
      <string name="vip_required_with_song">"Effettua l'iscrizione a Premium per ascoltare “%s”."</string>
+     <string name="voice_search_first_hint">Try voice search!</string>
      <string name="widget_small_text_separator">-</string>
      <string name="wifi_required_body" formatted="false">"Devi utilizzare la rete Wi-Fi per scaricare %s file. 
 

@@ -9,6 +9,9 @@
      <string name="button_queue_for_wifi">Coda</string>
      <string name="button_start_now">Download</string>
      <string name="call_record">Chiamate registrate</string>
+     <string name="call_record_list_group_all">All</string>
+     <string name="call_record_list_group_connected">Connected</string>
+     <string name="call_record_list_group_unconnected">Not connected</string>
      <string name="clear_records">Elimina le registrazioni sincronizzate</string>
      <string name="cloud_record_open">Sincronizza le registrazioni</string>
      <string name="cloud_record_tip">Sincronizza le registrazioni con Mi Cloud.</string>
@@ -139,6 +142,7 @@
      <string name="preference_record_scenes_dialog_title">Selezionare una scena di registrazione</string>
      <string name="preference_scenes">Impostazioni scene</string>
      <string name="preference_silent_mode">Silenzia durante registrazione</string>
+     <string name="preference_status_bar_indicator_prompt">Show status bar shortcut while recording</string>
      <string name="preference_tip_rename">"Rinomina al termine della registrazione"</string>
      <string name="privacy_policy_title">Informativa sulla Privacy</string>
      <string name="recognition_error_cancel">Annullato</string>
@@ -228,6 +232,9 @@
      <string name="service_instructions">Termini del servizio Ifly</string>
      <string name="share">Condividi</string>
      <string name="share_dialog_title">Condividi con</string>
+     <string name="shortcut_records">Recordings</string>
+     <string name="shortcut_start_record">Start recording</string>
+     <string name="shortcut_stop_record">Stop recording</string>
      <string name="sound_recorder_settings">Impostazioni di registrazione</string>
      <string name="speech_recognition_complete">completata</string>
      <string name="speech_recognition_running_tip">in esecuzione</string>

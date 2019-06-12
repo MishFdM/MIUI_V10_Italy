@@ -1035,6 +1035,7 @@ MMMM EEEE"</string>
      <string name="lock_screen_magazine_default_content">Immagini nuove tutti i giorni</string>
      <string name="lock_screen_magazine_default_title">Carousel Sfondi</string>
      <string name="lock_screen_magazine_global_button_text">altro</string>
+     <string name="lock_screen_magazine_label">Open Wallpaper Carousel</string>
      <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Altro</string>
      <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Avvia</string>
      <string name="lock_screen_no_sim_card_emergency_only">Solo chiamata di emergenza</string>
@@ -1058,6 +1059,8 @@ MMMM EEEE"</string>
      <string name="lockscreen_sim_error_message_short">Scheda non valida</string>
      <string name="lockscreen_unlock_left">Collegamento sinistro e sblocco</string>
      <string name="lockscreen_unlock_right">Collegamento destro e sblocco</string>
+     <string name="long_screenshot_guide_text">"Tap to make
+a scrolling screenshot"</string>
      <string name="long_screenshot_not_support_msg">Questa app non supporta la schermata estesa.</string>
      <string name="long_screenshot_out_of_memory_error">"Creazione non riuscita a causa delle dimensioni troppo elevate dell'immagine"</string>
      <string name="long_screenshot_processing">Elaborazione…</string>

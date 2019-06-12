@@ -40,6 +40,10 @@
         <item quantity="other">%d elementi valore app</item>
         <item quantity="one">%d elemento valore app</item>
      </plurals>
+     <plurals name="dirty_phrase_count">
+        <item quantity="other">%d frequent phrases</item>
+        <item quantity="one">%d frequent phrase</item>
+     </plurals>
      <plurals name="dirty_recorder_count">
         <item quantity="other">%d registrazioni</item>
         <item quantity="one">%d registrazione</item>

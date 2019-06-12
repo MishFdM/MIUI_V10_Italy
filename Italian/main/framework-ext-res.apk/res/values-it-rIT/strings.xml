@@ -27,7 +27,6 @@
      <string name="button_text_next_step">Avanti</string>
      <string name="button_text_next_step_timer">Avanti (%d)</string>
      <string name="call_record_or">" o "</string>
-     <string name="call_record_sample_prefix_miui">Chiama</string>
      <string name="caller_info_name_delimiter">" o "</string>
      <string name="cancel_action">Annulla</string>
      <string name="close">Off</string>

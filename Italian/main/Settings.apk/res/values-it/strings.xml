@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Accounts_settings_title">Account</string>
+     <string name="a11y_settings_label">Accessibility settings</string>
      <string name="abc_action_bar_home_description">Naviga nella home</string>
      <string name="abc_action_bar_up_description">"Vai verso l'alto"</string>
      <string name="abc_action_menu_overflow_description">Altre opzioni</string>
@@ -101,7 +102,12 @@ Se il dispositivo ha più utenti, l'utilizzo di questo collegamento sulla scherm
      <string name="accessibility_long_press_timeout_preference_title">Ritardo tocco e pressione</string>
      <string name="accessibility_manual_zen_less_time">Meno tempo.</string>
      <string name="accessibility_manual_zen_more_time">Più tempo.</string>
+     <string name="accessibility_menu_description">"Accessibility menu provides convenient shortcuts that allow you to control your device.
+
+Turn this feature on and tap the Accessibility button at the bottom of your screen to open the menu."</string>
      <string name="accessibility_menu_item_settings">Impostazioni</string>
+     <string name="accessibility_menu_service_name">Accessibility menu</string>
+     <string name="accessibility_menu_summary">Control your device using convenient shortcuts</string>
      <string name="accessibility_more_settings">Impostazioni addizionali</string>
      <string name="accessibility_no_service_selected">Nessun servizio selezionato</string>
      <string name="accessibility_no_services_installed">Nessun servizio installato</string>
@@ -610,6 +616,10 @@ Per limitare l'app, dovrai innanzitutto attivare l'ottimizzazione della batteria
      <string name="backup_set_enter_pw_title">Inserisci password di backupd</string>
      <string name="backup_set_error_pw">La password inserita non è corretta</string>
      <string name="backup_set_modify_title">Cambia password backup</string>
+     <string name="backup_set_new_continue">Continue</string>
+     <string name="backup_set_new_exit">Exit</string>
+     <string name="backup_set_new_pw_confirm_hint">Attention</string>
+     <string name="backup_set_new_pw_confirm_summary">Your items are backed up automatically now. Creating a backup password will stop automatic backups. Continue anyway?</string>
      <string name="backup_set_new_pw_title">Inserisci nuova password backup</string>
      <string name="backup_set_null_pw">Prima inserisci  la password</string>
      <string name="backup_set_pw_confirm_title">Conferma la nuova password di backup</string>
@@ -1317,6 +1327,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
      <string name="close_optimization_message">"La disposizione del testo, dell'account e di altre parti esterne alla MIUI potrebbero risultare compromesse dopo aver disattivato questa funzionalità."</string>
      <string name="close_optimization_option">Disattiva</string>
+     <string name="close_privacy_thumbnail_blur_title">"Previews aren't blurred"</string>
      <string name="cloud_backup_section_title">Backup Mi Cloud</string>
      <string name="cloud_backup_settings_section_title">Impostazioni backup</string>
      <string name="cloud_restore_section_summary">Ripristino app, disposizione Home e impostazioni di sistema</string>
@@ -1407,12 +1418,15 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione del dispositivo non funzionerà mentre questa opzione è attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire sblocco OEM?</string>
      <string name="confirm_erase">Elimina</string>
+     <string name="confirm_fingerprint">Verify your fingerprint</string>
      <string name="confirm_fingerprint_icon_content_description">Usa la tua impronta per continuare.</string>
      <string name="confirm_fingerprint_msg">Appoggia il dito sul lettore di impronte</string>
      <string name="confirm_frp_credential_message">Il tuo dispositivo verrà ripristinato alle impostazioni di fabbrica, potrai sbloccarlo con i tuoi precedenti dati segreti.</string>
      <string name="confirm_frp_credential_skip_txt">UTILIZZA UN ACCOUNT GOOGLE INVECE</string>
      <string name="confirm_frp_credential_title">Protezione Reset di Fabbrica</string>
      <string name="confirm_new_backup_pw_prompt">"Digita nuovamente la nuova password di backup completo qui"</string>
+     <string name="confirm_password_with_fingerprint">Use fingerprint</string>
+     <string name="confirm_password_with_password">Enter password</string>
      <string name="confirm_privacy_password">Inserisci la password di protezione privacy</string>
      <string name="confirm_privacy_password_fingerprint">"Scansiona l'impronta digitale o inserisci la Password di protezione privacy"</string>
      <string name="confirm_reset_aaid">OK</string>
@@ -1801,6 +1815,7 @@ avviso"</string>
      <string name="device_miui_more">Vedi altro</string>
      <string name="device_miui_version">Versione MIUI</string>
      <string name="device_miui_version_for_POCO">Versione MIUI (POCOPHONE)</string>
+     <string name="device_miui_version_parameters">MIUI version</string>
      <string name="device_miui_version_update">"E' disponibile un aggiornamento MIUI"</string>
      <string name="device_name">Nome dispositivo</string>
      <string name="device_name_input_error">Impossibile salvare il nome del dispositivo</string>
@@ -2064,6 +2079,8 @@ Puoi vedere i log generati in File Manager."</string>
      <string name="enable_service_pin_reason">Poiché attivare %1$s influenza la crittografia dei dati, devi confermare il PIN.</string>
      <string name="enable_service_title"> Il servizio eseguirà le seguenti azioni:</string>
      <string name="enable_snapshot_screenlock">Tieni premuto Indietro per scattare una foto</string>
+     <string name="enable_tcp_rtt_support">Display TCP RTT</string>
+     <string name="enable_tcp_rtt_support_summary">Evaluate the performance of network communication quality</string>
      <string name="enable_terminal_summary">"Abilita l'app Terminale che offre l'accesso alla shell locale"</string>
      <string name="enable_terminal_title">Terminale locale</string>
      <string name="enable_text">Attiva</string>
@@ -2455,6 +2472,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="global_locale_change_title">Cambia lingua</string>
      <string name="go_back_button_label">Vai indietro</string>
      <string name="go_to_sleep">Sospendi</string>
+     <string name="google_assistant_label">Google Assistant</string>
      <string name="google_backup_enable">Attiva backup</string>
      <string name="google_backup_section_title">Backup e ripristino di Google</string>
      <string name="google_title">Google</string>
@@ -3058,6 +3076,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lockscreen_glogin_checking_password">Verifica\u2026</string>
      <string name="lockscreen_glogin_password_hint">Password</string>
      <string name="lockscreen_glogin_submit_button">Accedi</string>
+     <string name="lockscreen_label">Lock screen</string>
      <string name="lockscreen_magazine">Sfondi Carousel</string>
      <string name="lockscreen_magazine_summary">Sequenza di sfondi in alta definizione</string>
      <string name="lockscreen_magazine_title">Sfondi Carousel</string>
@@ -3772,6 +3791,7 @@ ed esegui il software."</string>
      <string name="open_miui_optimization_title">Attiva ottimizzazione MIUI</string>
      <string name="open_optimization_message">"Attiva l'ottimizzazione e goditi una fluida, e veloce UI."</string>
      <string name="open_optimization_option">Attiva</string>
+     <string name="open_privacy_thumbnail_blur_title">Previews are blurred</string>
      <string name="open_wifi_connect_summary">Tocca per gestire</string>
      <string name="open_wifi_connect_title">Connettiti alla rete aperta %1$s</string>
      <string name="opening_paragraph_delete_profile_unknown_company">Questo profilo di lavoro è gestito da:</string>
@@ -3949,6 +3969,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
      <string name="power_key_how_start_detail">Tieni premuto il tsto accensione per 0.5s. Rilascia per parlare.</string>
      <string name="power_key_start_enjoy">"Scopri di più sull'Assistente Google"</string>
      <string name="power_key_start_guide">"Attivazione dell'Assistente Google utilizzando il tasto Accensione sui dispositivi a tutto schermo"</string>
+     <string name="power_label">Power</string>
      <string name="power_mgr">Batteria</string>
      <string name="power_mode">Impostazioni alimentazione</string>
      <string name="power_mode_balanced_title">Abilita alimentazione bilanciata</string>
@@ -4135,6 +4156,8 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
      <string name="privacy_relative">Relativi alla privacy</string>
      <string name="privacy_settings">Backup e ripristino</string>
      <string name="privacy_settings_title">Backup e ripristino</string>
+     <string name="privacy_thumbnail_blur_progress_message">Just a sec…</string>
+     <string name="privacy_thumbnail_blur_title">Blur app previews</string>
      <string name="private_dns_help_message"><annotation id="url">Per saperne di più</annotation>sulle funzionalità DNS private</string>
      <string name="private_dns_mode_off">Disattiva</string>
      <string name="private_dns_mode_opportunistic">Automatico</string>
@@ -4195,7 +4218,9 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
      <string name="proxy_warning_limited_support">Il proxy HTTP viene utilizzato dal browser ma potrebbe non essere utilizzato da altre applicazioni.</string>
      <string name="qtifeedback_settings_subtitle">Qualcomm Technologies Reporting</string>
      <string name="qtifeedback_settings_title">Hardware Feedback</string>
+     <string name="quick_reply_title">Quick replies</string>
      <string name="quick_settings_developer_tiles">Toggle opzioni di sviluppo</string>
+     <string name="quick_settings_label">Toggles</string>
      <string name="quiet">Non disturbare</string>
      <string name="quiet_group">Non disturbare</string>
      <string name="quiet_important_interruptions_mode">Consenti solo le eccezioni</string>
@@ -4282,6 +4307,7 @@ Interfaccia UT: %5$s"</string>
      <string name="rebootiing_for_updates">Riavvio in corso\u2026</string>
      <string name="receiver_clean">Libera spazio</string>
      <string name="recent_app_category_title">App aperte di recente</string>
+     <string name="recent_apps_label">Recents</string>
      <string name="recent_location_requests_summary">"Le seguenti app richiedono l'accesso alla tua posizione"</string>
      <string name="recent_location_requests_title">Accesso alla posizione</string>
      <string name="recent_notifications">Inviate di recente</string>
@@ -4564,6 +4590,7 @@ Come usare Mantieni su schermo:
      <string name="screensaver_settings_title">Daydream</string>
      <string name="screensaver_settings_when_to_dream">Quando attivare Daydream</string>
      <string name="screenshot">Screenshot</string>
+     <string name="screenshot_label">Screenshot</string>
      <string name="screenshot_three_gesture">"Scorri tre dita dall'alto verso il basso per screenshot"</string>
      <string name="screenshot_three_gesture_summary">Altre gesture con tre dita verranno disattivate</string>
      <string name="sd_card_settings_label">Archivio USB</string>
@@ -6142,6 +6169,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="volume_bluetooth_description">Bluetooth</string>
      <string name="volume_category_title">Volume</string>
      <string name="volume_hifi_description">Impostazioni Hi-Fi</string>
+     <string name="volume_label">Volume</string>
      <string name="volume_media_description">Musica, video, giochi e altri contenuti multimediali</string>
      <string name="volume_media_mute">Disattiva audio musica e altri contenuti multimediali</string>
      <string name="volume_notification_description">Notifiche</string>

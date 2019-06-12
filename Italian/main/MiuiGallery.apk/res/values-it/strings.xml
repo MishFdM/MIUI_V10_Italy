@@ -196,6 +196,14 @@
      <string name="begin_share_toast">Il sistema creerà un album bambino basato su questo per la condivisione. Continuare?</string>
      <string name="blank_app_name" />
      <string name="browse_category_title">Sfoglia</string>
+     <string name="burst_image_download_item_title" formatted="false">Download original (%s|%s)</string>
+     <string name="burst_preview_title">Burst shot</string>
+     <string name="burst_save_all">Save all</string>
+     <string name="burst_save_choice_title" formatted="false">Selected %d out of %d</string>
+     <string name="burst_save_confirm_dialog_title">Saving photos</string>
+     <string name="burst_save_error_msg">"Couldn't save"</string>
+     <string name="burst_save_processing">Processing…</string>
+     <string name="burst_transition_image_view">photo_view_burst</string>
      <string name="buy_member_tip">diventa un membro.</string>
      <string name="by_email">Email</string>
      <string name="by_others">Altro</string>
@@ -736,6 +744,8 @@
      <string name="custom_select_title_select_item">Seleziona elementi</string>
      <string name="debugging_info">Le info di debug sono state generate correttamente. Tocca su OK per aprire la cartella.</string>
      <string name="debugging_tip">Creazione rapporto debug</string>
+     <string name="decrypt_video_failed">"Couldn't prepare video"</string>
+     <string name="decrypting_video">Preparing video…</string>
      <string name="default_relation_name">Nuovo gruppo</string>
      <string name="define_by_user">Personalizza</string>
      <string name="delete">Elimina</string>
@@ -789,6 +799,10 @@
      <string name="downloading_dialog_message">Puoi scegliere la qualità delle immagini scaricate o disattivare i download automatici nelle Impostazioni.</string>
      <string name="downloading_title">Download foto da Mi Cloud</string>
      <string name="edit_baby_info">Mostra informazioni bambino</string>
+     <string name="editor_cancel">Cancel</string>
+     <string name="editor_export">Save</string>
+     <string name="editor_talkback_redo">Redo</string>
+     <string name="editor_talkback_undo">Undo</string>
      <string name="email_picker_title">Aggiungi email</string>
      <string name="empty_description_conditions">Ricorda le storie che contano</string>
      <string name="empty_description_no_cards">Ricorda le storie che contano</string>
@@ -985,6 +999,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="filter_sky_sunset">Tramonto</string>
      <string name="finish_create_baby_album_toast">Album creato su Mi Cloud per \"%s\"</string>
      <string name="finish_fill_baby">Crea</string>
+     <string name="first_time_add_video_to_secret_tips">Update Gallery to be able to hide videos</string>
      <string name="flash_off">Niente flash</string>
      <string name="flash_on">Usa flash</string>
      <string name="frame_not_support_image_ratio">Questo rapporto di aspetto non è supportato</string>
@@ -1305,6 +1320,7 @@ per personalizzare la Galleria"</string>
      <string name="photo_editor_navigator_module_downloading">Download di %s…</string>
      <string name="photo_editor_navigator_need_download">Connettiti ad internet per scaricare %s.</string>
      <string name="photo_editor_remove_watermark">Rimuovi la filigrana</string>
+     <string name="photo_editor_remove_watermark_on">Add watermark</string>
      <string name="photo_editor_remover">Cancella</string>
      <string name="photo_editor_rotate">Ruota</string>
      <string name="photo_editor_saving">Salvataggio</string>
@@ -1313,6 +1329,7 @@ per personalizzare la Galleria"</string>
      <string name="photo_editor_talkback_confirm">Conferma</string>
      <string name="photo_editor_talkback_crop_16_9">Sedici noni</string>
      <string name="photo_editor_talkback_crop_1_1">Uno ad Uno</string>
+     <string name="photo_editor_talkback_crop_2_3">Two to three</string>
      <string name="photo_editor_talkback_crop_3_4">Tre quarti</string>
      <string name="photo_editor_talkback_crop_4_3">Quattro terzi</string>
      <string name="photo_editor_talkback_crop_9_16">Nove sedicesimi</string>
@@ -1579,6 +1596,12 @@ per personalizzare la Galleria"</string>
      <string name="slim_running">Ottimizzazione…</string>
      <string name="slim_space">libera</string>
      <string name="slim_stop">Interrompi ottimizzazione</string>
+     <string name="special_type_eye_repair">Fixed closed eyes using AI</string>
+     <string name="special_type_hdr">HDR</string>
+     <string name="special_type_night_beauty">AI low light portrait</string>
+     <string name="special_type_night_mode">AI night mode</string>
+     <string name="special_type_portrait">AI light painting portrait</string>
+     <string name="special_type_wide_angle">AI ultra wide angle</string>
      <string name="start_debug">Debug Galleria</string>
      <string name="start_to_use_face_albumset">Attiva riconoscimento Volti</string>
      <string name="sticker_ad">Volantini</string>
@@ -1700,14 +1723,14 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_adjust">Enhance</string>
      <string name="video_editor_analyzing">Analisi video…</string>
      <string name="video_editor_audio">Audio</string>
+     <string name="video_editor_audio_antiquity">Retro</string>
      <string name="video_editor_audio_custom">Seleziona</string>
-     <string name="video_editor_audio_dynamic">Techno</string>
-     <string name="video_editor_audio_love">Romantico</string>
-     <string name="video_editor_audio_memory">Memoria</string>
+     <string name="video_editor_audio_dream">Dream</string>
+     <string name="video_editor_audio_electronics">Electro</string>
      <string name="video_editor_audio_none">Nessuno</string>
-     <string name="video_editor_audio_rock">Rock</string>
-     <string name="video_editor_audio_sad">Ballata</string>
-     <string name="video_editor_audio_young">Ukulele</string>
+     <string name="video_editor_audio_quiet">Zen</string>
+     <string name="video_editor_audio_summertime">Summer</string>
+     <string name="video_editor_audio_vitality">Vigor</string>
      <string name="video_editor_auto_trim">Ritaglia autom.</string>
      <string name="video_editor_auto_trim_tip">Ritaglio automatico…</string>
      <string name="video_editor_cancel">Annulla</string>

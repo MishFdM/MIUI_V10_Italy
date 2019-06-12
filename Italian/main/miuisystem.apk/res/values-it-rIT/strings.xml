@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="acousticguitar">Chitarra acustica</string>
-     <string name="add_frequent_phrases">Aggiungi frasi comuni</string>
      <string name="alarmclock">Sveglia</string>
      <string name="android_ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>
      <string name="android_ringtone_silent">Nessuno</string>
@@ -10,9 +9,11 @@
      <string name="anti_aggression_day" />
      <string name="arbor_day">Giornata degli alberi</string>
      <string name="armed_forces_day" />
+     <string name="asend">A Send</string>
      <string name="autumn_begins">Inizio autunno</string>
      <string name="autumn_equinox">"Equinozio d'autunno"</string>
      <string name="beep">Beep</string>
+     <string name="bells">Bells</string>
      <string name="blues">Blues</string>
      <string name="bottle">Bottiglia</string>
      <string name="breeze">Brezza</string>
@@ -22,6 +23,7 @@
      <string name="candy">Caramella</string>
      <string name="carousel">Carosello</string>
      <string name="celesta">Celesta</string>
+     <string name="child">Child</string>
      <string name="childhood">Infanzia</string>
      <string name="childrens_day">Giornata dei figli</string>
      <string name="chimes">Carillon</string>
@@ -29,6 +31,7 @@
      <string name="chirp">Cinguettio</string>
      <string name="chord">Accordo</string>
      <string name="christmas_day">Natale</string>
+     <string name="citylight">Citylight</string>
      <string name="clank">Clank</string>
      <string name="clear_and_bright">Qingming Festival</string>
      <string name="cloud_state_disabled">Sincronizzazione Mi Cloud disattivata</string>
@@ -36,6 +39,7 @@
      <string name="cloud_state_syncing">Sincronizzato con Mi Cloud</string>
      <string name="cold_dews">Giornata della rugiada fredda</string>
      <string name="country">Country</string>
+     <string name="countryside">Countryside</string>
      <string name="cowboy">Cowboy</string>
      <string name="crystal">Cristallo</string>
      <string name="cta_button_continue">Accetto</string>
@@ -46,10 +50,9 @@
      <string name="cta_permission_and"> e </string>
      <string name="cta_permission_delimiter">, </string>
      <string name="cta_title">Termini di Utilizzo</string>
+     <string name="dance">Dance</string>
      <string name="day_following_good_friday" />
      <string name="daydream">Daydream</string>
-     <string name="delete_frequent_phrases">Elimina frasi comuni</string>
-     <string name="delete_frequent_phrases_confirm">Eliminare le frasi comuni selezionate?</string>
      <string name="device_hongmi">Redmi</string>
      <string name="device_pad">Mi Pad</string>
      <string name="device_poco_global">POCOPHONE</string>
@@ -60,7 +63,7 @@
      <string name="double_seventh_day" />
      <string name="easter" />
      <string name="echo">Eco</string>
-     <string name="edit_frequent_phrases">Modifica le frasi comuni</string>
+     <string name="expect">Expect</string>
      <string name="fadein">Sfumatura in entrata</string>
      <string name="fadeout">Sfumatura in uscita</string>
      <string name="fairyland">Isola della fate</string>
@@ -69,24 +72,28 @@
      <string name="fireflies">Lucciole</string>
      <string name="flute">Flauto</string>
      <string name="fools_day">"Pesce d'aprile"</string>
-     <string name="frequent_phrases_des">Inserisci le frasi comune in pochi passaggi modificando il testo</string>
-     <string name="frequent_phrases_size_exceeded">Puoi aggiungere %1$d frasi frequenti. Elimina quelle non necessarie e aggiungine altre.</string>
+     <string name="frenchchic">French Chic</string>
      <string name="fresh">Fresco</string>
      <string name="frog">Rana</string>
+     <string name="game">Game</string>
      <string name="glee">Gioia</string>
      <string name="glockenspiel">Carillon 2</string>
+     <string name="glorious">Glorious</string>
      <string name="good_friday" />
      <string name="grain_buds" />
      <string name="grain_in_ear" />
      <string name="grain_rain" />
      <string name="great_cold" />
      <string name="great_heat" />
+     <string name="greenandblue">Green And Blue</string>
      <string name="group_name_contacts">Contatti</string>
      <string name="group_name_coworkers">Colleghi</string>
      <string name="group_name_family">Famiglia</string>
      <string name="group_name_friends">Amici</string>
      <string name="guitar">Chitarra</string>
+     <string name="hallofmemories">Hall Of Memories</string>
      <string name="harp">Arpa</string>
+     <string name="hawaii">Hawaii</string>
      <string name="heavy_snow" />
      <string name="hksar_establishment_day" />
      <string name="hoar_frost_falls" />
@@ -123,15 +130,15 @@
      <string name="lunar_yi" />
      <string name="lunar_yue" />
      <string name="lunar_zheng" />
-     <string name="menu_add_frequent_phrases">Aggiungi</string>
-     <string name="menu_delete">Elimina</string>
-     <string name="menu_edit">Modifica</string>
+     <string name="makewishes">Make Wishes</string>
+     <string name="martix">Martix</string>
      <string name="messagesent">Messaggio inviato</string>
      <string name="mi">Mi</string>
      <string name="miremix">Mi (Remix)</string>
      <string name="miui_device_name">Dispositivo MIUI</string>
      <string name="mix">MIX</string>
      <string name="moment">Momento</string>
+     <string name="monet">Monet</string>
      <string name="morning">Mattina</string>
      <string name="mountainspring">Montagna primaverile</string>
      <string name="national_day" />
@@ -142,6 +149,7 @@
      <string name="notificationxylophone">Notifica (Xylophone)</string>
      <string name="orange">Arancio</string>
      <string name="partys_day" />
+     <string name="passionflower">Passion Flower</string>
      <string name="peace_day">Giornata della pace</string>
      <string name="potion">Pozione</string>
      <string name="presentation_payphone">Telefono a gettoni</string>
@@ -150,6 +158,8 @@
      <string name="radar">Radar</string>
      <string name="raindrops">Pioggia</string>
      <string name="retrocession_day" />
+     <string name="robot">Robot</string>
+     <string name="secretgarden">Secret Garden</string>
      <string name="slight_cold" />
      <string name="slight_heat" />
      <string name="solar_calendar" />
@@ -160,6 +170,7 @@
      <string name="summer_begins">Inizio estate</string>
      <string name="summer_solstice">"Solstizio d'estate"</string>
      <string name="sunrise">Alba</string>
+     <string name="surprise">Surprise</string>
      <string name="swoosh">Swoosh</string>
      <string name="teachers_day" />
      <string name="the_armys_day" />
