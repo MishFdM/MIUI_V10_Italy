@@ -746,7 +746,7 @@ E gioiscine"</string>
      <string name="view_album">Visualizza album</string>
      <string name="vip_required">Spiacenti, è richiesto lo status VIP</string>
      <string name="vip_required_with_song">"Effettua l'iscrizione a Premium per ascoltare “%s”."</string>
-     <string name="voice_search_first_hint">Try voice search!</string>
+     <string name="voice_search_first_hint">Prova la ricerca vocale!</string>
      <string name="widget_small_text_separator">-</string>
      <string name="wifi_required_body" formatted="false">"Devi utilizzare la rete Wi-Fi per scaricare %s file. 
 

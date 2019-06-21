@@ -1172,7 +1172,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="network_info_message">Messaggio di rete</string>
      <string name="network_lte">LTE (consigliato)</string>
      <string name="network_message">Messaggio di rete</string>
-     <string name="network_mode_updating_title">Network Type</string>
+     <string name="network_mode_updating_title">NTipo di rete</string>
      <string name="network_operator_category">Rete</string>
      <string name="network_operator_settings_class">com.android.phone.settings.MobileNetworkSetting</string>
      <string name="network_query_error">Errore durante la ricerca reti.</string>
@@ -1431,13 +1431,13 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_type_pref_entries_4g_preferred">4G/LTE preferito</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferito 4G (CDMA)</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM auto</string>
-     <string name="preferred_network_type_pref_entries_5g_preferred">Prefer 5G</string>
+     <string name="preferred_network_type_pref_entries_5g_preferred">Preferibilmente 5G</string>
      <string name="preferred_network_type_pref_entries_auto">Automatico</string>
      <string name="preferred_network_type_pref_entries_global">Globale</string>
      <string name="preferred_network_type_pref_entries_only_2g">Solo reti 2G (risparmia batteria)</string>
-     <string name="preferred_network_type_pref_entries_only_2g_lm_cr">GSM only</string>
+     <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Solo GSM</string>
      <string name="preferred_network_type_pref_entries_only_3g">Solo reti 3G</string>
-     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">WCDMA only</string>
+     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Solo WCDMA</string>
      <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
      <string name="preferred_network_type_title">Tipologia di rete preferita</string>
      <string name="preferred_phone_account">Account chiamata preferito</string>

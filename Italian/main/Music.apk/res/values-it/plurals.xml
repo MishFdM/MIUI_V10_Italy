@@ -77,8 +77,8 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> scaricato</item>
      </plurals>
      <plurals name="free_downloads_num_hint">
-        <item quantity="other">%d free downloads left</item>
-        <item quantity="one">%d free download left</item>
+        <item quantity="other">%d download gratis rimanenti</item>
+        <item quantity="one">%d download gratis rimanente</item>
      </plurals>
      <plurals name="multichoice_title">
         <item quantity="other">%d elementi selezionati</item>
@@ -121,7 +121,7 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="one">%1$s visualizzazione</item>
      </plurals>
      <plurals name="vip_remain_days_hint">
-        <item quantity="other">%d days remaining</item>
-        <item quantity="one">%d day remaining</item>
+        <item quantity="other">%d giorni rimanenti</item>
+        <item quantity="one">%d giorno rimanente</item>
      </plurals>
 </resources>

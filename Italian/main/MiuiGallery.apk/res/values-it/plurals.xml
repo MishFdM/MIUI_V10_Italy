@@ -73,16 +73,16 @@
         <item quantity="one">%1$d foto o video</item>
      </plurals>
      <plurals name="burst_image_download_item_title_count">
-        <item quantity="other">%d photos</item>
-        <item quantity="one">%d photo</item>
+        <item quantity="other">%d foto</item>
+        <item quantity="one">%d foto</item>
      </plurals>
      <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">Save %d selected photos and delete the rest?</item>
-        <item quantity="one">Save %d selected photo and delete the rest?</item>
+        <item quantity="other">Salvare %d foto selezionate ed eliminare le restanti?</item>
+        <item quantity="one">Salvare %d foto selezionata ed eliminare le restanti?</item>
      </plurals>
      <plurals name="burst_save_selected">
-        <item quantity="other">Save %d selected photos</item>
-        <item quantity="one">Save %d selected photo</item>
+        <item quantity="other">Salva le %d foto selezionate</item>
+        <item quantity="one">Salva la foto selezionata</item>
      </plurals>
      <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d foto</item>
@@ -105,16 +105,16 @@
         <item quantity="one">%d elemento selezionato</item>
      </plurals>
      <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Delete %d burst shots from Mi Cloud and all synced devices?</item>
-        <item quantity="one">Delete %d burst shot from Mi Cloud and all synced devices?</item>
+        <item quantity="other">Eliminare %d foto multiple da Mi Cloud e da tutti i dispositivi sincronizzati?</item>
+        <item quantity="one">Eliminare %d foto multipla da Mi Cloud e da tutti i dispositivi sincronizzati?</item>
      </plurals>
      <plurals name="delete_burst_photo_from_local">
-        <item quantity="other">Delete %d burst shots?</item>
-        <item quantity="one">Delete %d burst shot?</item>
+        <item quantity="other">Eliminare %d foto multiple?</item>
+        <item quantity="one">Eliminare %d foto multipla?</item>
      </plurals>
      <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Delete %d burst shots from Mi Cloud and this device?</item>
-        <item quantity="one">Delete %d burst shot from Mi Cloud and this device?</item>
+        <item quantity="other">Eliminare %d foto multiple da Mi Cloud e da questo dispositivo?</item>
+        <item quantity="one">Eliminare %d foto multipla da Mi Cloud e da questo dispositivo?</item>
      </plurals>
      <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">Eliminare %d elementi da tutti i dispositivi e Mi Cloud?</item>
@@ -141,8 +141,8 @@
         <item quantity="one">Eliminare questa foto da questo album e da Mi Cloud?</item>
      </plurals>
      <plurals name="delete_third_party_burst_photo">
-        <item quantity="other">Delete %d burst shots from your device?</item>
-        <item quantity="one">Delete %d burst shot from your device?</item>
+        <item quantity="other">Eliminare %d foto multiple da questo dispositivo?</item>
+        <item quantity="one">Eliminare %d foto multipla da questo dispositivo?</item>
      </plurals>
      <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">Eliminare %d videoda tutti i dispositivi e da Mi Cloud?</item>

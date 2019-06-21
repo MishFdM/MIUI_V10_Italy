@@ -30,7 +30,7 @@
      <string name="announce_for_open_default_preview">Aprila pagina per la sclta della Home</string>
      <string name="announce_for_open_folder">Apri la cartella %1$s</string>
      <string name="announce_for_open_launcher_menu">Apri il menu</string>
-     <string name="announce_for_search_bar">Search bar</string>
+     <string name="announce_for_search_bar">Barra di ricerca</string>
      <string name="announce_for_show_uninstall_dialog">Messaggio di disinstallazione, seleziona annulla o conferma.</string>
      <string name="announce_for_unchecked">%1$s, non verificati</string>
      <string name="announce_for_widget_span">Larghezza %1$d, alatezza %2$d</string>
@@ -287,8 +287,8 @@
      <string name="preferences_general_title">Impostazioni generali</string>
      <string name="preferences_title">Impostazioni launcher</string>
      <string name="preferred_app_settings_not_selected">Non selezionato</string>
-     <string name="privacy_thumbnail_blur_summary">Blur app previews in Recents</string>
-     <string name="privacy_thumbnail_blur_title">Blur app previews</string>
+     <string name="privacy_thumbnail_blur_summary">Sfuma le anteprime delle app in Recenti</string>
+     <string name="privacy_thumbnail_blur_title">Sfuma le anteprime app</string>
      <string name="quick_app">App Veloci</string>
      <string name="recents_config_title">Recenti</string>
      <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>

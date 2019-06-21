@@ -189,9 +189,9 @@
      <string name="respond_via_sms_custom_message">Messaggio personalizzato…</string>
      <string name="select_audio_dialog_title">Scegli la modalità di risposta</string>
      <string name="select_one_sim_title">Puoi utilizzare solo la SIM %1$d</string>
-     <string name="select_one_sim_title_for_heduohao">Can only use SIM %1$d Sub %2$d</string>
+     <string name="select_one_sim_title_for_heduohao">Puoi sare solo la SIM %1$d Sub %2$d</string>
      <string name="select_sim_hint">Impossibile utilizzare la SIM %2$d mentre la SIM %1$d è in uso.</string>
-     <string name="select_sim_hint_for_heduohao">"Can't use other, while SIM %1$d Sub %2$d is in use."</string>
+     <string name="select_sim_hint_for_heduohao">"Non puoi isare l'altra, mentre SIM %1$d Sub %2$d è in uso."</string>
      <string name="select_voice_call_sim">Scegli SIM</string>
      <string name="separate_from_conference">Separa chiamata</string>
      <string name="sim1_description">SIM1</string>

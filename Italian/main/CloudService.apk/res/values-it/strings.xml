@@ -257,7 +257,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_request_permission_confirm">Ho capito</string>
      <string name="micloud_request_permission_content">Mi Cloud ha necessità dei permessi per la sincronizzazione dei dati. Consenti a Mi Cloud di accedere a Calendario, Contatti, Mi Account, stato SIM, registro chiamate e messaggi.</string>
      <string name="micloud_request_permission_title">Mi Cloud richiede i permessi</string>
-     <string name="micloud_request_sync_too_frequent">Too many requests. Wait a minute or two and try again.</string>
+     <string name="micloud_request_sync_too_frequent">Troppe richieste. Aspetta un minuto o due e prpova di nuovo.</string>
      <string name="micloud_sec_dspt">e condividere file con gli amici.</string>
      <string name="micloud_setting_antispam_summary">Eccezioni per Non disturbare e numeri di telefono bloccati.</string>
      <string name="micloud_setting_browser_summary">Segnalibri, cronologia e schede</string>
@@ -388,7 +388,7 @@ Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="sync_sub_1_sms_1_intl_sms">Verranno inviati un SMS internazionale e un SMS nazionale per associare la tua SIM a questo account. </string>
      <string name="sync_sub_2_intl_sms">Verranno inviati due SMS internazionali per associare la tua SIM a questo account. </string>
      <string name="sync_sub_2_sms">Verranno inviati due SMS per associare la tua SIM a questo account. </string>
-     <string name="system_busy_or_network_error">An error occurred. Wait a minute or two and try again.</string>
+     <string name="system_busy_or_network_error">Si è verificato un errore. Aspetta un minuto o due e prpova di nuovo.</string>
      <string name="title_back">Indietro</string>
      <string name="title_reg">Crea un account</string>
      <string name="trying_to_connect_to_network">Connessione alla rete…</string>
@@ -400,7 +400,7 @@ Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="user_detail_agreement">Accordo utente</string>
      <string name="user_detail_privacy_policy">Informativa sulla Privacy</string>
      <string name="user_storage_info_available_text_prefix">%s disponibile</string>
-     <string name="waiting_for_sync">Waiting…</string>
+     <string name="waiting_for_sync">In attesa…</string>
      <string name="warning_bar_action_add_short_cut">Aggiungi</string>
      <string name="warning_bar_action_close">Chiudi</string>
      <string name="warning_bar_action_turn_on_master_sync">Attiva</string>
