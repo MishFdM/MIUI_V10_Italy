@@ -82,7 +82,7 @@
      </plurals>
      <plurals name="burst_save_selected">
         <item quantity="other">Salva le %d foto selezionate</item>
-        <item quantity="one">Salva la foto selezionata</item>
+        <item quantity="one">Salva %d foto selezionata</item>
      </plurals>
      <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d foto</item>
