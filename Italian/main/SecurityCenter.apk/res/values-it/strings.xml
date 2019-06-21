@@ -480,6 +480,7 @@ se dimenticata"</string>
      <string name="button_background_connection">Consenti</string>
      <string name="button_block_calls_from_cantacts">Sblocca</string>
      <string name="button_block_calls_from_strangers">Sblocca</string>
+     <string name="button_dark_mode">Fix</string>
      <string name="button_do_not_disturb">Disattiva</string>
      <string name="button_eye_shield">Disattiva</string>
      <string name="button_first_aid_kit">Correggi ora</string>
@@ -1597,6 +1598,15 @@ dall'operatore"</string>
      <string name="pc_battery_history_show_imei">IMEI:</string>
      <string name="pc_install_manager">"Installa tramite USB"</string>
      <string name="pc_main_activity_back">Indietro</string>
+     <string name="pc_main_battery_text_day">Added %1$sm, about %2$sd remaining</string>
+     <string name="pc_main_battery_text_day_hour">Added %1$sm, about %2$sd %3$sh remaining</string>
+     <string name="pc_main_battery_text_hour">Added %1$sm, about %2$sh remaining</string>
+     <string name="pc_main_battery_text_hour_minute">Added %1$sm, about %2$sh %3$sm remaining</string>
+     <string name="pc_main_battery_text_minute">Added %1$sm, about %2$sm remaining</string>
+     <string name="pc_main_power_manager_day_hour">%1$sd %2$sh until fully charged</string>
+     <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm until fully charged</string>
+     <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh remaining</string>
+     <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm remaining</string>
      <string name="pc_settings_title">Impostazioni di utilizzo batteria</string>
      <string name="pc_to_phone_install">Installazione tramite USB di %s bloccata</string>
      <string name="per_month_pkg_traffic_settings">Imposta limite dati</string>
@@ -1682,6 +1692,8 @@ dall'operatore"</string>
      <string name="power_dialog_super_save_msg">"Il risparmio batteria ultra limita molte delle funzioni che consumano tanto, limitando le prestazioni del telefono per lasciare le funzioni base (es: chiamate, SMS e connesisone alla rete) disponibili il più possibile. Attiva reil risparmio batteria ultra?"</string>
      <string name="power_dialog_super_save_title">Risparmio batteria ultra</string>
      <string name="power_idle">Telefono inattivo</string>
+     <string name="power_main_battery_last_day_hour">%1$sd %2$sh remaining</string>
+     <string name="power_main_battery_last_hour_minute">%1$sh %2$sm remaining</string>
      <string name="power_optimize_auto_catagory_title">Problemi batteria</string>
      <string name="power_optimize_battery_save_idea">Ottimizza batteria</string>
      <string name="power_optimize_battery_save_more">Altro</string>
@@ -2167,6 +2179,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="summary_cloud_space_full">Ottieni altro spazio ed accedi a funzionalità aggiuntive</string>
      <string name="summary_cmcc_app_check">Alcune applicazioni non possono essere verificate</string>
      <string name="summary_consume_power">"Rilevato un problema di surriscaldamento, questo può influire sull'autonomia"</string>
+     <string name="summary_dark_mode">Some pages are rendered black because of third party services</string>
      <string name="summary_data_flow">Evita di superare la soglia dati mensile</string>
      <string name="summary_default_app">%s non è impostata come app di sistema predefinita</string>
      <string name="summary_dev">Evita i pericoli e protegge i dati personali</string>
@@ -2333,6 +2346,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="title_cloud_space_full">Archiviazione Mi Cloud piena, impossibile sincronizzare le foto</string>
      <string name="title_cmcc_app_check">Verifica non completa</string>
      <string name="title_consume_power_rank">Utilizzo batteria</string>
+     <string name="title_dark_mode">"Some items aren't displayed correctly"</string>
      <string name="title_data_flow">"Imposta avviso utilizzo dati"</string>
      <string name="title_data_flow_monitor">"Il controllo dell'utilizzo dei dati è attivo"</string>
      <string name="title_dev_model_off">Opzioni sviluppatore disattivate</string>
@@ -2388,6 +2402,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="toast_add_virus_white_list_no_need_repeat">Questa eccezione è già esistente!</string>
      <string name="toast_auto_traffic_correct">Il traffico dati viene regolato automaticamente</string>
      <string name="toast_cleaner_cloudscan">Lo Strumento di pulizia utilizzerà il database online</string>
+     <string name="toast_dark_mode_fixed">Fixed successfully. Leave this page to apply changes.</string>
      <string name="toast_flow_notification">Notifiche utilizzo dati attivate</string>
      <string name="toast_garbage_lib">Aggiornamenti automatici attivati per lo Strumento di pulizia</string>
      <string name="toast_keyword_blank">Devi inserire una parola chiave</string>

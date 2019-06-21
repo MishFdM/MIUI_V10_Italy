@@ -205,6 +205,7 @@
      <string name="toast_notes_hidden_edit">Questa nota è stata nascosta. Tira verso il basso per visualizzare le note nascoste.</string>
      <string name="toast_notes_hidden_home">Questa nota è stata nascosta. Tira verso il basso per visualizzare le note nascoste.</string>
      <string name="toast_notes_unhidden">Visualizzate correttamente</string>
+     <string name="toast_pic_is_not_really">Saving image…</string>
      <string name="toast_reach_text_limit_attachment">Il contenuto della nota è troppo lungo per aggiungere un altro allegato.</string>
      <string name="toast_reach_text_limit_checkbox">Impossibile aggiungere checkbox di spunta perché la nota è troppo lunga</string>
      <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perché troppo lungo.</string>

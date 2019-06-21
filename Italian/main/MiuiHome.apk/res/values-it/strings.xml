@@ -2,6 +2,7 @@
 <resources>
      <string name="action_add_to_workspace">Aggiungi allo spazio di lavoro</string>
      <string name="activity_not_found">Applicazione non installata sul dispositivo.</string>
+     <string name="activity_not_unlocked">Wait until your device is fully rebooted before opening apps</string>
      <string name="add_screen">Aggiungi tasto schermo</string>
      <string name="announce_for_app_move_in_folder">Spostato nella cartella %1$d</string>
      <string name="announce_for_checked">%1$s, verificati</string>
@@ -94,6 +95,7 @@
      <string name="defalut_launcher_title">Launcher predefinito</string>
      <string name="default_folder_title_claro">Claro</string>
      <string name="default_folder_title_game">Giochi</string>
+     <string name="default_folder_title_meitu">Meitu apps</string>
      <string name="default_folder_title_microsoft">Microsoft</string>
      <string name="default_folder_title_recommend">Preferiti</string>
      <string name="default_folder_title_security">Sistema</string>
@@ -316,6 +318,9 @@
      <string name="setting_wallpaper_tip">Sposta o ridimensiona</string>
      <string name="settings">Impostazioni</string>
      <string name="settings_shortcut">Impostazioni collegamenti</string>
+     <string name="shake_to_align_icons">Shake device to fill empty cells with icons</string>
+     <string name="shake_to_align_icons_summary">Shake your device while in editing mode to fill empty cells with icons automatically</string>
+     <string name="shake_to_align_icons_title">Shake to fill empty cells</string>
      <string name="share">Condividi</string>
      <string name="show_all">Mostra tutto</string>
      <string name="show_mem_info_title">Mostra stato memoria</string>
@@ -330,6 +335,7 @@
      <string name="status_installing">Installazione</string>
      <string name="status_paused">In pausa</string>
      <string name="status_pending">In attesa</string>
+     <string name="system_shortcuts_more_operation">App info</string>
      <string name="title_jeejen">Schermata Home Jeejen</string>
      <string name="title_select_live_folder">Seleziona cartella</string>
      <string name="title_select_shortcut">Seleziona collegamento</string>
