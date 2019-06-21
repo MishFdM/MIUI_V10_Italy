@@ -254,7 +254,7 @@ Le schede contatti sono disattivate"</string>
      <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
      <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
      <string name="contact_import_methods_dialog_title">Seleziona il metodo di importazione</string>
-     <string name="contact_is_deleted">Contact was deleted</string>
+     <string name="contact_is_deleted">Contatto eliminato</string>
      <string name="contact_is_readOnly">Non è possibile modificare i contatti in sola lettura</string>
      <string name="contact_list_loading">Caricamento…</string>
      <string name="contact_pick_photo">Immagine</string>
@@ -523,10 +523,10 @@ Motivo: \"%s\"</string>
      <string name="group_sms_progress_msg">Creazione gruppo…</string>
      <string name="groupsLabel">Gruppi</string>
      <string name="groups_list_empty">Nessun gruppo</string>
-     <string name="heduohao_fuhao_call_menu_title">Dial on sub%d</string>
+     <string name="heduohao_fuhao_call_menu_title">Chiama su sub%d</string>
      <string name="heduohao_fuhao_order">Sub%d</string>
      <string name="heduohao_label">HeDuoHao</string>
-     <string name="heduohao_main_call_menu_title">Dial on main</string>
+     <string name="heduohao_main_call_menu_title">Chiama su principale</string>
      <string name="heduohao_popup_txt">Sub%d</string>
      <string name="help_url_people_add" />
      <string name="help_url_people_edit" />

@@ -10,12 +10,12 @@
      <string name="abc_capital_on">ATTIVA</string>
      <string name="abc_menu_alt_shortcut_label">Alt+</string>
      <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-     <string name="abc_menu_delete_shortcut_label">delete</string>
-     <string name="abc_menu_enter_shortcut_label">enter</string>
+     <string name="abc_menu_delete_shortcut_label">cancella</string>
+     <string name="abc_menu_enter_shortcut_label">invio</string>
      <string name="abc_menu_function_shortcut_label">Function+</string>
      <string name="abc_menu_meta_shortcut_label">Meta+</string>
      <string name="abc_menu_shift_shortcut_label">Shift+</string>
-     <string name="abc_menu_space_shortcut_label">space</string>
+     <string name="abc_menu_space_shortcut_label">spazio</string>
      <string name="abc_menu_sym_shortcut_label">Sym+</string>
      <string name="abc_prepend_shortcut_label">Menu+</string>
      <string name="abc_search_hint">Ricerca…</string>
@@ -27,8 +27,8 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Riduci</string>
-     <string name="about_app_name">About Themes</string>
-     <string name="about_version_update">"What's new"</string>
+     <string name="about_app_name">Info sui Temi</string>
+     <string name="about_version_update">Novità</string>
      <string name="accessibility_setting_hint">"Tocca l'icona in alto a destra per attivare questo servizio.
 Temi rileverà quali app stai utilizzando e imposterà sfondi trasparenti nelle app da te selezionate.​"</string>
      <string name="accessibiliy_description_content_account">Profilo</string>
@@ -58,7 +58,7 @@ Temi rileverà quali app stai utilizzando e imposterà sfondi trasparenti nelle 
      <string name="ad_downloading_tip">Questo elemento è in download. Puoi vedere i progressi nel pannello delle notifiche.</string>
      <string name="add_resource_detail_fail">Impossibile aggiungere risorsa</string>
      <string name="all_resources">Tutto</string>
-     <string name="already_latest_version">Up to date</string>
+     <string name="already_latest_version">Aggiornato</string>
      <string name="app_ad_title">Suggerimenti giornaliere</string>
      <string name="app_disable_transparent_wallpaper">Senza sfondo trasparente</string>
      <string name="app_enable_transparent_wallpaper">Con sfondo trasparente</string>
@@ -88,15 +88,15 @@ Temi rileverà quali app stai utilizzando e imposterà sfondi trasparenti nelle 
      <string name="card_retry">Riprova</string>
      <string name="change_host_hint">cambia host</string>
      <string name="change_wallpaper">Sfondi</string>
-     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+     <string name="character_counter_content_description">Limimte caratteri sueprato %1$d di %2$d</string>
      <string name="character_counter_pattern">%1$d di %2$d</string>
-     <string name="check_has_new_version">Update is available</string>
+     <string name="check_has_new_version">Aggiornaemnto disponibile</string>
      <string name="classification_more_understand_you">Seleziona la tua categoria preferita</string>
      <string name="close">Chiudi</string>
-     <string name="common_applying">Applying…</string>
-     <string name="common_downloading">Downloading…</string>
+     <string name="common_applying">Instalalzione…</string>
+     <string name="common_downloading">Download…</string>
      <string name="common_format_date_no_year">MM/dd</string>
-     <string name="common_skip">Skip</string>
+     <string name="common_skip">Salta</string>
      <string name="component_backup_preference_title">Backup tema</string>
      <string name="component_category_finest_title">In evidenza</string>
      <string name="component_category_more_title">Altro</string>
@@ -107,7 +107,7 @@ Temi rileverà quali app stai utilizzando e imposterà sfondi trasparenti nelle 
      <string name="count_down_tip">%ds rimanente</string>
      <string name="current_using_desktop_wallpaper_text">Home</string>
      <string name="current_using_lockscreen_wallpaper_text">Schermata di blocco</string>
-     <string name="current_version">Current version: %1$s</string>
+     <string name="current_version">Versione attuale: %1$s</string>
      <string name="current_version_incompatible">Incompatibilità di versione</string>
      <string name="deleting">Eliminazione…</string>
      <string name="description_author">Autore:</string>
@@ -205,8 +205,8 @@ Temi rileverà quali app stai utilizzando e imposterà sfondi trasparenti nelle 
      <string name="gift_use_fail_dlg_title">Si è verificato un errore</string>
      <string name="gift_used">Inviato</string>
      <string name="go_accessibility_setting">Seleziona</string>
-     <string name="goto_purchased_list">View purchase history</string>
-     <string name="goto_wechat">Copied WeChat account \"%1$s\" to clipboard. Open WeChat now?</string>
+     <string name="goto_purchased_list">MOstra cronologia acquisti</string>
+     <string name="goto_wechat">Account WeChat \"%1$s\" copiato negli appunti. Aprire adesso WeChat?</string>
      <string name="hide_free">"Nascondi gratis %1$s "</string>
      <string name="hide_incompatible">"Nascondi incompatibili %1$s"</string>
      <string name="hide_pull_down_message">Nascondere il tab?</string>
@@ -244,7 +244,7 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="loading_resource_detail_info">Caricamento delle informazioni…</string>
      <string name="local_photos">Foto locali</string>
      <string name="local_resouce_creator_name">Sviluppatore: %1$s</string>
-     <string name="lock_screen_apply">Set as Lock screen</string>
+     <string name="lock_screen_apply">Imposta come Lockscreen</string>
      <string name="lockscreen_apply_failured">Impossibile applicare lo sfondo alla schermata di blocco</string>
      <string name="lockscreen_apply_failured_but_home_apply_success">Sfondo Home applicato ma non è stato possibile applicare lo sfondo della schermata di blocco</string>
      <string name="lockscreen_apply_success">Sfondo schermata blocco applicato</string>
@@ -285,7 +285,7 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="mix_icons_option_des">Icone in Home. Non spuntare questa casella usare le impostazioni predefinite.</string>
      <string name="mix_lockscreen_option_des">Sfondo e Orologio. Non spuntare questa casella usare le impostazioni predefinite.</string>
      <string name="mix_tip">Componenti temi</string>
-     <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
      <string name="multi_sim_mms_ringtone_settings_dialog_message">Questa suoneria verrà utilizzata per entrambe le SIM.</string>
      <string name="multi_sim_ringtone_settings_dialog_message">La suoneria viene applicata alla SIM 1 e alla SIM 2 allo stesso tempo.</string>
      <string name="multi_sim_ringtone_settings_dialog_ok">Ho capito</string>
@@ -294,7 +294,7 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="my_gifts">Regali</string>
      <string name="my_gifts_purchased">Acquistati</string>
      <string name="my_gifts_received">Ricevuti</string>
-     <string name="network_exception">"Couldn't connect to the network. Check your network settings and try again."</string>
+     <string name="network_exception">"Impossibile collegarsi alla rete. Controlla le impostazioni di rete e prova di nuovo."</string>
      <string name="no_data">Impossibile collegarsi alla rete</string>
      <string name="no_net_work_connection">Controlla le tue impostazioni di rete e prova di nuovo.</string>
      <string name="official_accounts">WeChat</string>
@@ -453,7 +453,7 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="resource_import_successful">Download completato.</string>
      <string name="resource_importing">Importazione</string>
      <string name="resource_is_off_shelf">Non disponibile</string>
-     <string name="resource_is_off_shelf_can_not_share">"Can't share. This item is no longer available."</string>
+     <string name="resource_is_off_shelf_can_not_share">"Impossibile condividere. Questo elemento non più disponibile."</string>
      <string name="resource_list_title">Ultime</string>
      <string name="resource_local_picker">Scegli una suoneria in locale</string>
      <string name="resource_menu_refresh">Aggiorna</string>
@@ -581,9 +581,9 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="theme_changed_failed_message">Cambio tema non riuscito</string>
      <string name="theme_changed_message">Applicato con successo</string>
      <string name="theme_changing_dialog_title">Installazione nuovo tema, attendere…</string>
-     <string name="theme_comment_dialog_cancel">Not now</string>
-     <string name="theme_comment_dialog_message">"Do you like the theme you're using now? We'd appreciate your feedback!"</string>
-     <string name="theme_comment_dialog_ok">Review</string>
+     <string name="theme_comment_dialog_cancel">Non adesso</string>
+     <string name="theme_comment_dialog_message">Ti piace il tema che stai utilizzando? Ci piacerebbe avere il tuo feedback!</string>
+     <string name="theme_comment_dialog_ok">Recensione</string>
      <string name="theme_component_title_alarm">Suonerie sveglia</string>
      <string name="theme_component_title_alarmstyle">Stili sveglia</string>
      <string name="theme_component_title_all">Temi</string>
@@ -699,7 +699,7 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="using_theme_next_automatic_update">Aggiornamenti automatici</string>
      <string name="using_theme_next_automatic_update_summary">Aggiorna automaticamente i temi scaricati tramite Wi-Fi quando lo schermo è bloccato</string>
      <string name="using_theme_show_ad">Mostra pubblicità</string>
-     <string name="version_update">Check for updates</string>
+     <string name="version_update">Controlla aggiornamenti</string>
      <string name="video_ad_click">Prova adesso</string>
      <string name="video_ad_try_for_free">Prova gratuita</string>
      <string name="video_ad_uncomplete_tip">Termina la visione del video per ricevere il tema.</string>
@@ -746,7 +746,7 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="wallpaper_settings_no_history">Nessuna cronologia</string>
      <string name="wallpaper_settings_pad_more_page_title">Altri sfondi</string>
      <string name="wallpaper_settings_page_title">Sfondo</string>
-     <string name="wechat_not_found">Install WeChat first</string>
+     <string name="wechat_not_found">Prima installa WeChat</string>
      <string name="weibo">Weibo</string>
      <string name="wifi_check_cancel">Annulla</string>
      <string name="wifi_check_confirm">Conferma</string>
@@ -756,13 +756,13 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="xiaoai_speech_not_installed_message">"Per continuare scarica ed installa l'assistente vocale Mi AI."</string>
      <string name="xiaoai_speech_not_installed_title">"L'assistente vocale Mi AI non è installato."</string>
      <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
-     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-     <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-     <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
-     <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
-     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione Download Manager fallita, controlla lo stato del Download Manager nel gestore applicazioni.</string>
+     <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s
+Dimensione: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_message_diff">"Presentazione versione %1$s
+Dimensione aggiornamento delta: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_title">%1$s aggiornato!</string>
+     <string name="xiaomi_update_sdk_external_storage_unavailable">memoria non disponibile, controlla la scheda SD.</string>
      <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
      <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
 </resources>
