@@ -884,6 +884,8 @@ App:
      <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Riavviare dispositivo?</string>
      <string name="bluetooth_disable_absolute_volume">Disattiva volume generale</string>
      <string name="bluetooth_disable_absolute_volume_summary">Disattiva il volume generale Bluetooth in caso di problemi con il volume con dispositivi remoti come volumi eccessivi o difficoltà di regolazione.</string>
+     <string name="bluetooth_disable_inband_ringing">Disable in-band ringing</string>
+     <string name="bluetooth_disable_inband_ringing_summary">Don’t play custom phone ringtones on Bluetooth headsets</string>
      <string name="bluetooth_disable_profile_message">Verrà disattivato:%1$s Da:%2$s</string>
      <string name="bluetooth_disable_profile_title">Disattivare il profilo?</string>
      <string name="bluetooth_disabled">Disattivato</string>
@@ -1548,6 +1550,7 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
      <string name="current_zone">(attuale)</string>
      <string name="custom_carrier_title">"Modifica il nome dell'operatore"</string>
      <string name="custom_wifi_name_title">Modifica il nome Wi-Fi</string>
+     <string name="customize_function">Available patterns</string>
      <string name="cutout_mode_always">Mostra sempre il notch</string>
      <string name="cutout_mode_default">Auto</string>
      <string name="cutout_mode_settings_title">Alcune app potrebbero non essere visualizzate correttamente se modifichi la modalità di visualizzazione del notch.</string>
@@ -2453,6 +2456,12 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="game_booster">Gioco;Giochi;Turbo;Gaming;Modalità Gioco</string>
      <string name="game_controller_settings_category">Controller di gioco</string>
      <string name="game_storage_settings">Giochi</string>
+     <string name="gesture_c">C pattern</string>
+     <string name="gesture_m">M pattern</string>
+     <string name="gesture_open_alipay">Open Alipay</string>
+     <string name="gesture_open_camera">Open Camera</string>
+     <string name="gesture_open_music">Open Music</string>
+     <string name="gesture_open_wechat">Open WeChat</string>
      <string name="gesture_preference_summary">Gesture veloci per controllare il telefono</string>
      <string name="gesture_preference_title">Gesture</string>
      <string name="gesture_prevent_ringing_screen_title">Previeni riproduzione sonora</string>
@@ -2460,7 +2469,9 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="gesture_prevent_ringing_title">Premi i pusanti Power e Volume+ in contemporanea</string>
      <string name="gesture_setting_off">Disattivato</string>
      <string name="gesture_setting_on">Attivato</string>
+     <string name="gesture_w">W pattern</string>
      <string name="gesture_wakeup_title">Doppio tocco per risvegliare</string>
+     <string name="gesture_z">Z pattern</string>
      <string name="getConfiguredNetworks">Reti configurate</string>
      <string name="getConnectionInfo">Informazioni connessione</string>
      <string name="giga_hertz">GHz</string>
@@ -3269,6 +3280,10 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_data_usage_menu_metered">Hotspot dati cellulare</string>
      <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
      <string name="miui_input_method_settings">Input method settings</string>
+     <string name="miui_lab_3d_gesture_desc">Open your Home screen and draw one of the patterns in the air with your phone to open selected apps</string>
+     <string name="miui_lab_3d_gesture_slogan">Draw a pattern in the air with your phone to open an app</string>
+     <string name="miui_lab_3d_gesture_summary">Draw a pattern in the air with your phone to open an app</string>
+     <string name="miui_lab_3d_gesture_title">3D patterns</string>
      <string name="miui_lab_ai_cloud_closed">Precaricamento AI non ancora disponibile.</string>
      <string name="miui_lab_ai_preload_desc">Il precaricamento AI aumenta la velocità di avvio delle app</string>
      <string name="miui_lab_ai_preload_title">Precaricamento AI</string>
@@ -3282,6 +3297,8 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_lab_gallery_search_title">Ricerca Galleria</string>
      <string name="miui_lab_gesture_desc">Disattiva tasti fisici e goditi le gesture a tutto schermo</string>
      <string name="miui_lab_gesture_title">Gesture a tutto schermo</string>
+     <string name="miui_lab_home_feed_desc">Bright ideas. Compelling stories.</string>
+     <string name="miui_lab_home_feed_title">Media Center</string>
      <string name="miui_lab_install_drive_mode_error">Impossibile installare, riprova.</string>
      <string name="miui_lab_install_drive_mode_summary">"Modalità Auto è un'app di sistema. L'installazione non richiederà una connessione ad Internet."</string>
      <string name="miui_lab_install_drive_mode_title">Installa Modalità Auto</string>
@@ -5505,6 +5522,7 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
      <string name="supl_not_set">Non impostato</string>
      <string name="supplicant_state_label">Stato supplicante:</string>
      <string name="support_country_format">%1$s - %2$s</string>
+     <string name="support_gesture_title">3D patterns</string>
      <string name="support_summary">Articoli di aiuto, supporto telefonico e chat</string>
      <string name="sure_sync_now">Sincronizzare adesso?</string>
      <string name="suwFontSecondary">google-sans</string>

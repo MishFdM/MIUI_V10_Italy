@@ -84,6 +84,7 @@
      <string name="dynamic_alarm_speech">Sveglia intelligente</string>
      <string name="edit_alarm">Modifica sveglia</string>
      <string name="edit_systemtime">"Modifica l'orario di sistema"</string>
+     <string name="edit_systemtime_setting_summary">Date, time, and Dual clock</string>
      <string name="every_day">tutti i giorni</string>
      <string name="expired_timers_dismissed">Timer chiuso</string>
      <string name="force_touch_add_alarm">Aggiungi sveglia</string>
@@ -203,6 +204,8 @@
      <string name="stat_repeat_self_define">Personalizzato</string>
      <string name="stat_repeat_weekdays">Lun - Ven</string>
      <string name="stat_repeat_weekends">Fine settimana</string>
+     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
+     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
      <string name="stopwatch_lap_empty_text">Nessun giro</string>
      <string name="stopwatch_title">Cronometro</string>
      <string name="system_time_setting">Impostazioni</string>
@@ -267,9 +270,12 @@
      <string name="workday_alarm_clock">Sveglia attiva dal Lun. al Ven.</string>
      <string name="worldclock_empty_text">Nessun orologio internazionale</string>
      <string name="worldclock_input_hint_text">Immetti regione o città</string>
+     <string name="worldclock_resident_city_text">Second clock: %s</string>
+     <string name="worldclock_resident_city_text_detail">Dual clock is on</string>
      <string name="worldclock_search_city">Seleziona città</string>
      <string name="worldclock_title">Orologio</string>
      <string name="worldclock_world_time">Fusi orari</string>
+     <string name="worldcolock_date_display_prefix">Current: </string>
      <string name="worldcolock_timezone_current">Attuale: %1$s</string>
      <string name="worldcolock_timezone_date">dd MMM</string>
      <string name="worldcolock_timezone_gap">%s O</string>
