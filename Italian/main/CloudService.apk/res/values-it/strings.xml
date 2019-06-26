@@ -173,7 +173,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_find_device_verify_close">Disattiva Trova dispositivo</string>
      <string name="micloud_find_device_verify_fail">Impossibile riattivare Trova dispositivo</string>
      <string name="micloud_find_device_verify_progress">Riattivazione Trova dispositivo…</string>
-     <string name="micloud_last_sync_canceled">Sync was canceled. Try again.</string>
+     <string name="micloud_last_sync_canceled">Sincronizzazione annullata. Prova di nuovo.</string>
      <string name="micloud_main_button_set_internet">Impostazioni</string>
      <string name="micloud_main_head_menu_cloud_backup">Backup cloud</string>
      <string name="micloud_main_head_menu_finddevice_unavailable">La funzione Trova Telefono non è disponibile nel Secondo Spazio, puoi utilizzarla nel Primo Spazio.</string>

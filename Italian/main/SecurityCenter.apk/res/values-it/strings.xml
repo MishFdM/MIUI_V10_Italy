@@ -642,7 +642,7 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
      <string name="deep_save_memory_clean_summary">"Svuota la cache quando il tuo dispositivo è bloccato per evitare che le app consumino batteria."</string>
      <string name="deep_save_ontime_boot_shutdown_summary">Orari in cui il dispositivo sarà attivo e disattivo</string>
      <string name="delete">Elimina</string>
-     <string name="delete_all_sms">Delete all</string>
+     <string name="delete_all_sms">Elimina tutto</string>
      <string name="delete_from_manual_item_white_list">Rimuovi dalle eccezioni</string>
      <string name="delete_input">Elimina</string>
      <string name="deleted_apps">App eliminate</string>
@@ -1996,7 +1996,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="sms_blacklist">Blacklist Messaggi</string>
      <string name="sms_cloud_block">Filtro cloud</string>
      <string name="sms_contact_block">Filtro contatti</string>
-     <string name="sms_delete_all_hint">Delete all messages now?</string>
+     <string name="sms_delete_all_hint">Eliminare adesso tutti i messaggi?</string>
      <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
      <string name="sms_delete_title">Rimuovi Messaggio</string>
      <string name="sms_detail_correct_success_text">"Ecco le statistiche sull'utilizzo dei dati della precedente calibrazione (%1$s):"</string>

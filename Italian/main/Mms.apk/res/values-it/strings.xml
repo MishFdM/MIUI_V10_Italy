@@ -405,7 +405,7 @@
      <string name="no_block_button_msg">Non bloccare messaggi</string>
      <string name="no_conversations">Nessuna conversazione.</string>
      <string name="no_delivery_report">Nessun rapporto di consegna</string>
-     <string name="no_longer_recommend">"Don't show again"</string>
+     <string name="no_longer_recommend">Non mostrare più</string>
      <string name="no_network_description">Impossibile collegarsi alla rete. Controlla le impostazioni di rete e prova di nuovo.</string>
      <string name="no_subject">(Nessun oggetto)</string>
      <string name="no_subject_view">(Nessun oggetto)</string>
@@ -421,13 +421,13 @@
      <string name="notification_channel_sim2_description">Notifica messaggio SIM2</string>
      <string name="notification_channel_sim2_name">Messaggio SIM2</string>
      <string name="notification_copy">Copia OTP</string>
-     <string name="notification_delete">Delete</string>
+     <string name="notification_delete">Elimina</string>
      <string name="notification_failed_multiple">%s messaggi potrebbe non essere inviati.</string>
      <string name="notification_failed_multiple_title">Messaggi non inviati</string>
      <string name="notification_group_name">Messaggistica</string>
      <string name="notification_multiple">[%s]</string>
      <string name="notification_multiple_title">Nuovi messaggi</string>
-     <string name="notification_seen">Mark as read</string>
+     <string name="notification_seen">Segna come letto</string>
      <string name="number_add_hint">Inserisci numero da aggiungere al Contatto Privato</string>
      <string name="number_recognition_partner">Partner Riconoscimento Numero</string>
      <string name="open_audio_record_panel">Apri pannello registrazione</string>

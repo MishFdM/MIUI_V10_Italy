@@ -76,13 +76,13 @@
      <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo più tardi</string>
      <string name="authorize_title">Autorizzazione</string>
      <string name="bind_facebook">Collega con il tuo account Facebook</string>
-     <string name="bind_google">Connect your Google Account</string>
+     <string name="bind_google">Collega il tuo Account Google</string>
      <string name="bind_qq">Collega con il tuo account QQ</string>
      <string name="bind_safe_phone_msg">Aggiungi un numero sicuro per il prossimo accesso</string>
      <string name="bind_sina_weibo">Autorizza Sina Weibo</string>
      <string name="bind_sns_description">Completa il tuo profilo utilizzando le informazioni personali su %s.</string>
      <string name="bind_weibo_description">Trova contatti telefono, amici ed altre informazioni direttamente dal tuo account</string>
-     <string name="bind_weixin">Connect your WeChat Account</string>
+     <string name="bind_weixin">Collega il tuo Account WeChat</string>
      <string name="binded">Collegato</string>
      <string name="binded_description" formatted="false">"%s collegato correttamente. Completa il tuo profilo utilizzando le informazioni personali su %s."</string>
      <string name="button_unbind">Scollega</string>
@@ -227,7 +227,7 @@ Invia questo codice ai tecnici."</string>
      <string name="multi_user_not_show_sync_activity_message_2">In questo caso, tutti i dati verranno sincronizzati con il tuo Secondo Spazio. Per evitare questo non attivare la sincronizzazione con Mi Cloud.</string>
      <string name="multi_user_not_show_sync_activity_title">Non attivare la sincronizzazione con Mi Cloud</string>
      <string name="my_device_title">Dispositivo attuale</string>
-     <string name="need_install_wechat">Install WeChat first</string>
+     <string name="need_install_wechat">Installa prima WeChat</string>
      <string name="no_network_btn">Aggiorna</string>
      <string name="no_network_title">Impossibile collegarsi alla rete</string>
      <string name="no_phone">Nessun numero di telefono</string>

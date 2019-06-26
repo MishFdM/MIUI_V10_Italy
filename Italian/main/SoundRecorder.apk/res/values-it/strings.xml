@@ -242,9 +242,9 @@
      <string name="status_bar_back">Premi per tornare al Registratore</string>
      <string name="status_bar_recording">Registrazione…</string>
      <string name="status_bar_recording_pause">Registrazione in pausa</string>
-     <string name="text_btn_backward_3_seconds">3 seconds back</string>
+     <string name="text_btn_backward_3_seconds">3 secondi indietro</string>
      <string name="text_btn_complete">Completa</string>
-     <string name="text_btn_forward_3_seconds">3 seconds forward</string>
+     <string name="text_btn_forward_3_seconds">3 secondi avanti</string>
      <string name="text_btn_list">Lista</string>
      <string name="text_btn_mark">Segna</string>
      <string name="text_btn_pause">Pausa</string>
@@ -254,10 +254,10 @@
      <string name="text_btn_recording">Registra</string>
      <string name="text_btn_wave">Onda</string>
      <string name="text_finish">Conferma</string>
-     <string name="text_play_speed_0_5">0.5X playback speed</string>
-     <string name="text_play_speed_1_0">Regular playback speed</string>
-     <string name="text_play_speed_1_5">1.5X playback speed</string>
-     <string name="text_play_speed_2_0">2X playback speed</string>
+     <string name="text_play_speed_0_5">Velocità di riproduzione 0.5X</string>
+     <string name="text_play_speed_1_0">Velocità di riproduzione normale</string>
+     <string name="text_play_speed_1_5">Velocità di riproduzione 1.5X</string>
+     <string name="text_play_speed_2_0">Velocità di riproduzione 2X</string>
      <string name="timer_format" formatted="false">%02d:%02d</string>
      <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
      <string name="toast_max_record_time">App: %1$s tempo di registrazione massima %2$s</string>
