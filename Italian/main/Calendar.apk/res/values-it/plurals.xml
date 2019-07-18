@@ -61,8 +61,8 @@
         <item quantity="one">%1$s anno fa</item>
      </plurals>
      <plurals name="countdown_day">
-        <item quantity="other">- %1$s giorni</item>
-        <item quantity="one">- %1$s giorno</item>
+        <item quantity="other">%1$s giorni</item>
+        <item quantity="one">%1$s giorno</item>
      </plurals>
      <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d giorni dopo</item>
