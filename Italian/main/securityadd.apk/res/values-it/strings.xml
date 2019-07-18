@@ -55,6 +55,7 @@
      <string name="no_network_btn">Riprova</string>
      <string name="ok_button">OK</string>
      <string name="open_browser">Apri nel browser</string>
+     <string name="password_toggle_content_description">Toggle password visibility</string>
      <string name="pc_activity_title">Ottimizza batteria</string>
      <string name="pm_lable_name">Informazioni sui permessi di root</string>
      <string name="privacy_declare_dialog_title">Termini del Servizio</string>

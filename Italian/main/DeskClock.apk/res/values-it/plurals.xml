@@ -32,6 +32,10 @@
         <item quantity="other">%d secondi</item>
         <item quantity="one">%d secondo</item>
      </plurals>
+     <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Changed the snooze interval to %d minutes</item>
+        <item quantity="one">Changed the snooze interval to %d minute</item>
+     </plurals>
      <plurals name="snooze_duration_summary">
         <item quantity="other">La sveglia verrà disattivata %2$s volte (%1$s min. ciascuna)</item>
         <item quantity="one">La sveglia verrà disattivata %2$s volte (%1$s min.)</item>

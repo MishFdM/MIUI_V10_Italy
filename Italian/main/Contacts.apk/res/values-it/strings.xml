@@ -1063,6 +1063,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="shortcutContact">Contatto</string>
      <string name="shortcutDialContact">Composizione diretta</string>
      <string name="shortcutMessageContact">Messaggio diretto</string>
+     <string name="shortcut_new_contact_label">New contact</string>
+     <string name="shortcut_scan_label">Scan business card</string>
      <string name="showAllContactsJoinItem">Mostra tutti i contatti</string>
      <string name="simContacts_airplaneMode">Per importare i contatti tramite la SIM, disattivare la modalità Aereo.</string>
      <string name="simContacts_empty">Nessun contatto sulla SIM</string>

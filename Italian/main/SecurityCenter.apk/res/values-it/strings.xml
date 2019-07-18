@@ -402,6 +402,7 @@ se dimenticata"</string>
      <string name="battery_charge_estimating">Calcolo…</string>
      <string name="battery_charge_full">Carica</string>
      <string name="battery_charging_prompt">In carica</string>
+     <string name="battery_desc_ambient_display">Power consumed by Ambient display</string>
      <string name="battery_desc_apps">Batteria utilizzata dalle app</string>
      <string name="battery_desc_bluetooth">Batteria utilizzata da Bluetooth</string>
      <string name="battery_desc_display">Batteria utilizzata dallo Schermo</string>
@@ -510,6 +511,7 @@ se dimenticata"</string>
      <string name="call_blacklist">Blacklist Chiamate</string>
      <string name="call_cloud_block">Blocca cloud</string>
      <string name="call_contact_block">Blocca contatti</string>
+     <string name="call_delete_all_hint">Delete all blocked calls?</string>
      <string name="call_delete_hint">Eliminare tutte le chiamate bloccate ricevute dai numeri selezionati?</string>
      <string name="call_delete_title">Rimuovi chiamata</string>
      <string name="call_oversea_block">Blocca chiamate internazionali</string>
@@ -926,6 +928,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="function_shield_summary">Limita la luminosità automatica, screenshot con tre dita e Modalità Lettura</string>
      <string name="function_shield_three_finger">Limita gli screenshot con gesture</string>
      <string name="function_shield_title">Esperienza migliorata</string>
+     <string name="function_shield_voice_trigger">"Don't wake Mi AI with voice"</string>
      <string name="fw_blocked">Blacklist</string>
      <string name="fw_blocked_count">"Bloccati "</string>
      <string name="fw_blocked_join">" e "</string>
@@ -1016,6 +1019,11 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="gb_description_image_button_answer">Rispondi</string>
      <string name="gb_description_image_button_reject">Rifiuta</string>
      <string name="gb_description_image_button_video_answer">Videochiamata</string>
+     <string name="gb_first_guide_function_shiled_title">Turn off system features when Game Turbo is on</string>
+     <string name="gb_first_guide_gamebox_des">Use shortcuts while playing games</string>
+     <string name="gb_first_guide_handsfree_des">Answer calls in the background</string>
+     <string name="gb_first_guide_shortcut_des">A Home screen shortcut for Game Turbo has been created</string>
+     <string name="gb_first_guide_title">Boost speed and performance on a system level</string>
      <string name="gb_first_window_antimsg_summary_quick_answer">Utilizza risposte rapide</string>
      <string name="gb_first_window_antimsg_summary_transparent_show">Visualizza testo su sfondo trasparente</string>
      <string name="gb_first_window_antimsg_title">Notifiche importanti</string>
@@ -1636,6 +1644,7 @@ dall'operatore"</string>
      <string name="pm_root_success_notification_infomation">Conferma di aver capito i rischi legati ai permessi di root</string>
      <string name="pm_root_success_notification_title">Permessi di root consentiti</string>
      <string name="power_20s_shutdown">Il dispositivo verrà spento tra %d secondi</string>
+     <string name="power_ambient_display">Ambient display</string>
      <string name="power_analysis_consume_title">Problemi batteria</string>
      <string name="power_analysis_suggestion_need_optimize">Problemi di utilizzo batteria rilevati.</string>
      <string name="power_autorun_apps_empty">Nessuna app in avvio automatico</string>
@@ -2073,6 +2082,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="st_antispam_title_contact_incoming">Chiamate dai Contatti</string>
      <string name="st_antispam_title_contact_sms">Messaggi dai Contatti</string>
      <string name="st_antispam_title_contactandanoy_group">Impostazioni</string>
+     <string name="st_antispam_title_mms">MMS</string>
      <string name="st_antispam_title_null_incoming">Numeri privati</string>
      <string name="st_antispam_title_service_sms">Notifiche di servizio</string>
      <string name="st_antispam_title_whitelist">Eccezioni</string>
@@ -2214,6 +2224,33 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="summary_virus_cloudscan">Carica nomi app e dettagli e controlla utilizzando le definizioni online</string>
      <string name="summary_virus_update">Aggiorna le definizioni dei virus automaticamente quando sei connesso ad una rete Wi-Fi</string>
      <string name="summary_xiaomi_roaming">0.01 yuan per MB per il traffico su rete internazionale.</string>
+     <string name="superpower_dialog_button_disable_dialog">"Don't show again"</string>
+     <string name="superpower_dialog_button_ok">OK</string>
+     <string name="superpower_dialog_massage">"Ultra battery saver restricts most power-consuming features and decreases your device's performance in order to leave basic functionality (e.g. calls, SMS, and connecting to the network) available as long as possible. Turn on Ultra battery saver?"</string>
+     <string name="superpower_dialog_title">Ultra battery saver</string>
+     <string name="superpower_notification_hint_enter">Turn on</string>
+     <string name="superpower_notification_summary">Turn on Ultra battery saver</string>
+     <string name="superpower_notification_time_12">MMMM dd, EEEE</string>
+     <string name="superpower_notification_time_24">MMMM dd, EEEE</string>
+     <string name="superpower_notification_title">Less than 10% of battery remaining</string>
+     <string name="superpower_progress_content">Turning on Ultra battery saver…</string>
+     <string name="superpower_progress_left_time">%1$dh %2$dm</string>
+     <string name="superpower_progress_switch_home">Switching to Dark theme</string>
+     <string name="superpower_progress_title">Remaining time</string>
+     <string name="superpower_progress_turndown_brightness">Decreasing screen brightness</string>
+     <string name="superpower_progress_turnoff_items">Restricting power-consuming activity</string>
+     <string name="superpower_progress_turnoff_process">Restrict background activity</string>
+     <string name="superpower_savemode_limit1">Dark theme</string>
+     <string name="superpower_savemode_limit2">Restrict background activity</string>
+     <string name="superpower_savemode_limit3">Restrict power-consuming activity (sync, GPS, vibration, Ambient display, etc.)</string>
+     <string name="superpower_savemode_limit4">Allow selected apps to work normally</string>
+     <string name="superpower_settings">Ultra battery saver</string>
+     <string name="superpower_settins_autoenter_summary">Turn on Ultra battery saver automatically when the battery is only 10% charged</string>
+     <string name="superpower_settins_autoenter_title">Turn on automatically</string>
+     <string name="superpower_settins_autoleave_summary">Turn off Ultra battery saver automatically when the battery is 50% charged</string>
+     <string name="superpower_settins_autoleave_title">Turn off automatically</string>
+     <string name="superpower_settins_other">Additional settings</string>
+     <string name="superpower_settins_switch_summary">Restricts most power-consuming features in order to leave basic functionality (e.g. calls, SMS, and selected apps) available as long as possible</string>
      <string name="support_game_booster_tips">"Aumenta la velocità e migliora l'esperienza di gioco"</string>
      <string name="sys_app_prot_cracked_confirm">Ho capito</string>
      <string name="sys_cpu_title">Utilizzo CPU</string>
@@ -2222,6 +2259,18 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="sys_title_gamebooster_unit_mb">M</string>
      <string name="system_app">App di sistema</string>
      <string name="system_application">App di sistema</string>
+     <string name="system_permission_declare_agree">Agree</string>
+     <string name="system_permission_declare_double_link"><Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using this feature.</Data></string>
+     <string name="system_permission_declare_main_purpose" formatted="false">Welcome to %1s! This app allows you to use the following feature: %2s.</string>
+     <string name="system_permission_declare_no_say_no">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work normally."</string>
+     <string name="system_permission_declare_privacy_declare">"We respect and protect your peivacy.
+Note that %1s needs to collect your data and requires the following permissions to work normally:"</string>
+     <string name="system_permission_declare_revoke_path">You can uninstall this app, sign out of your account, or manage your permissions and authorization in Security > Manage apps > Permissions > Other permissions.</string>
+     <string name="system_permission_declare_use_network">Connect to the network</string>
+     <string name="system_permission_perm_answer_call">Make calls</string>
+     <string name="system_permission_perm_read_mms">Read MMS</string>
+     <string name="system_permission_perm_read_numbers">Read phone numbers</string>
+     <string name="system_permission_perm_send_mms">Send MMS</string>
      <string name="tab_blacklist">Blacklist</string>
      <string name="tab_block_log_unKnowNumber">Numero sconosciuto</string>
      <string name="tab_call">Chiamate</string>

@@ -51,6 +51,10 @@
         <item>Messaggi più vecchi</item>
         <item>Lista conversazioni</item>
      </string-array>
+     <string-array name="prefEntries_contact_add">
+        <item>All</item>
+        <item>Only receivers</item>
+     </string-array>
      <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Sito:</item>

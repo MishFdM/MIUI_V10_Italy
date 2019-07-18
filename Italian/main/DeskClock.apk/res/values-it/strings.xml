@@ -156,10 +156,14 @@
      <string name="module_download_success">Scaricamento audio addizionali riuscito</string>
      <string name="module_download_title">Audio addizionali richiesti</string>
      <string name="module_downloading">Scaricamento audio addizionali…</string>
+     <string name="module_update_success">Updated audio for MIUI smart alarms was downloaded successfully. You can set MIUI smart alarms in the Clock settings.</string>
+     <string name="module_update_success_control">Got it</string>
      <string name="monday_to_friday">da lunedì a venerdì</string>
      <string name="more_setting">Altre impostazioni</string>
      <string name="more_settings">Altre impostazioni</string>
      <string name="never">Mai</string>
+     <string name="no_alarm_setting">No alarms here</string>
+     <string name="no_worldclock">No clocks here</string>
      <string name="oneshot_alarm">Elimina dopo che ha suonato</string>
      <string name="open_keep_screen">La schermata sarà mantenuta attiva</string>
      <string name="other_category_title">Altro</string>

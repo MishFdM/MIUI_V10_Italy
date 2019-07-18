@@ -43,6 +43,10 @@
         <item quantity="other">%1$s messaggi</item>
         <item quantity="one">%1$s messaggio</item>
      </plurals>
+     <plurals name="notification_multiple">
+        <item quantity="other">"%s messages | "</item>
+        <item quantity="one">"%s message | "</item>
+     </plurals>
      <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Hai ricevuto %d inviti a chat di gruppo</item>
         <item quantity="one">Hai ricevuto %d invito a chat di gruppo</item>

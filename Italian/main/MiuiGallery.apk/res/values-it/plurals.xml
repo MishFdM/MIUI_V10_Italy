@@ -280,6 +280,10 @@
         <item quantity="other">"Impossibile condividere. %d foto ancora in elaborazione…"</item>
         <item quantity="one">"Impossibile condividere. %d foto ancora in elaborazione…"</item>
      </plurals>
+     <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d seconds</item>
+        <item quantity="one">%1$d second</item>
+     </plurals>
      <plurals name="slim_complete_photo_count">
         <item quantity="other">%d foto ottimizzate</item>
         <item quantity="one">%d foto ottimizzata</item>

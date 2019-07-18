@@ -312,6 +312,8 @@ Invia questo codice ai tecnici."</string>
      <string name="document_open_message">"Per migliorare la tua esperienza di lettura e garantire la sicurezza, si consiglia l'utilizzo di versioni WPS personalizzate ufficialmente"</string>
      <string name="document_open_other">Altre app</string>
      <string name="document_open_title">Apri con</string>
+     <string name="document_open_txt_message">To improve your reading experience and ensure security，use Bookshelf</string>
+     <string name="document_open_txt_start_read">Start reading</string>
      <string name="dont_remind_again">Ricorda la mia scelta</string>
      <string name="download_btn_select_all">Seleziona tutto</string>
      <string name="download_btn_select_none">Deseleziona tutto</string>
@@ -659,8 +661,8 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dati rete mobile) Resetta le tue %s2 impostazioni APN %s1.</string>
      <string name="mw_miuichromium_error_page_suggestion_check_url">Controlla la URL inserita.</string>
      <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Controlla le tue %s2 impostazioni proxy %s1.</string>
-     <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Cancella cache.</string>
-     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Cancella cache e cookie (le informazioni del tuo account potrebbero andare perdute).</string>
+     <string name="mw_miuichromium_error_page_suggestion_clear_cache">Cancella cache.</string>
+     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Cancella cache e cookie (le informazioni del tuo account potrebbero andare perdute).</string>
      <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Ricarica dopo la connessione ad Internet</string>
      <string name="mw_miuichromium_error_page_suggestion_contact_admin">"Contatta l'amministratore di sistema."</string>
      <string name="mw_miuichromium_error_page_suggestion_correct_url">"Controlla l'indirizzo inserito e prova di nuovo con la URL corretta."</string>

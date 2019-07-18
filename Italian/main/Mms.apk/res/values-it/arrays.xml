@@ -26,10 +26,39 @@
         <item>1 giorno</item>
         <item>Massimo</item>
      </string-array>
+     <string-array name="message_sending_method">
+        <item>Proposed Messaging Service</item>
+        <item>SMS, MMS</item>
+        <item>RCS chat, RCS File Transfer</item>
+     </string-array>
+     <string-array name="message_type">
+        <item>RCS</item>
+        <item>SMS/MMS</item>
+     </string-array>
      <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
         <item>Solo se silenzioso</item>
         <item>Mai</item>
+     </string-array>
+     <string-array name="rcs_ft_fallback">
+        <item>Never ask and always send as SMS Link</item>
+        <item>Never ask and never send as SMS Link</item>
+        <item>Always ask</item>
+     </string-array>
+     <string-array name="rcs_message_fallback">
+        <item>Never ask and always send as SMS</item>
+        <item>Never ask and never send as SMS</item>
+        <item>Always ask</item>
+     </string-array>
+     <string-array name="rcs_picture_quality_setting">
+        <item>always ask</item>
+        <item>never resize</item>
+        <item>always resize a selected option which is then stored as default value</item>
+     </string-array>
+     <string-array name="rcs_video_quality_setting">
+        <item>always ask</item>
+        <item>never resize</item>
+        <item>always resize a selected option which is then stored as default value</item>
      </string-array>
      <string-array name="resent_via_entries_mms">
         <item>SMS</item>

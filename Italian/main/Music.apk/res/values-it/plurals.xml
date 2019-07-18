@@ -46,6 +46,10 @@ Desideri aiuto per il rinnovo?"</item>
         <item quantity="other">%d commenti</item>
         <item quantity="one">%d commento</item>
      </plurals>
+     <plurals name="days_ago">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">%d day ago</item>
+     </plurals>
      <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Eliminare %d elementi?</item>
         <item quantity="one">Eliminare %d elemento?</item>

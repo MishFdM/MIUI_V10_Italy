@@ -66,7 +66,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      </plurals>
      <plurals name="found_apps_title">
         <item quantity="other">%d app trovate</item>
-        <item quantity="zero">0 app trovate</item>
         <item quantity="one">%d app trovata</item>
      </plurals>
      <plurals name="function_shield_num">
@@ -291,9 +290,11 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      </plurals>
      <plurals name="people">
         <item quantity="other">Scaricato da %1$d persone</item>
+		<item quantity="one">Scaricato da %1$d persona</item>
      </plurals>
      <plurals name="people_million">
         <item quantity="other">Scaricato da %1$d persone</item>
+		<item quantity="one">Scaricato da %1$d persona</item>
      </plurals>
      <plurals name="power_center_battery_day">
         <item quantity="other">"%d giorni "</item>
@@ -433,11 +434,7 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      </plurals>
      <plurals name="view_num">
         <item quantity="other">%1$d visualizzazioni</item>
-        <item quantity="zero">%1$d visualizzazioni</item>
         <item quantity="one">%1$d visualizzazione</item>
-        <item quantity="two">%1$d visualizzazioni</item>
-        <item quantity="few">%1$d visualizzazioni</item>
-        <item quantity="many">%1$d visualizzazioni</item>
      </plurals>
      <plurals name="white_list_risk_app_header">
         <item quantity="other">App pericolose: %d</item>

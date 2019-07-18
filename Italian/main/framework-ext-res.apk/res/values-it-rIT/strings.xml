@@ -21,6 +21,10 @@
      <string name="auto_start_warning_deny">Nega</string>
      <string name="auto_start_warning_title">"Consentire l'avvio automatico di %s in futuro?"</string>
      <string name="autofill">Riempimento automatico</string>
+     <string name="autofill_save_message">Allow MIUI to save your accounts and passwords?</string>
+     <string name="autofill_save_ok">Allow</string>
+     <string name="autofill_save_sub_message">"You'll be able to manage saved passwords in Settings > Additional settings > Privacy > Manage passwords."</string>
+     <string name="autofill_save_title">Save passwords automatically</string>
      <string name="button_text_cancel">Annulla</string>
      <string name="button_text_delete">Elimina</string>
      <string name="button_text_delete_timer">Elimina (%d)</string>
@@ -31,6 +35,11 @@
      <string name="cancel_action">Annulla</string>
      <string name="close">Off</string>
      <string name="configure_input_methods">Scegli tastiere</string>
+     <string name="content_description_dial">Call</string>
+     <string name="content_description_search">Search</string>
+     <string name="content_description_share">Share</string>
+     <string name="content_description_translate">Translate</string>
+     <string name="content_description_web_url">Browse</string>
      <string name="copy">Copia</string>
      <string name="cut">Taglia</string>
      <string name="default_name">Predefinito</string>
@@ -98,9 +107,12 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="popup_camera_calibrate_failed">"Impossibile calibrare. Porta il dispositivo in un Mi Store vicino per diagnnosticare il problema."</string>
      <string name="popup_camera_calibrate_now">Calibra</string>
      <string name="popup_camera_calibrate_success">Calibrato correttamente. Adesso puoi avviare la fotocamera frontale.</string>
+     <string name="popup_camera_cancel_popup">Cancel</string>
+     <string name="popup_camera_continue_popup">Open Camera</string>
      <string name="popup_camera_front_failed">Impossibile aprire la fotocamera frontale. PRova di nuovo.</string>
      <string name="popup_camera_front_when_use">""L'app Fotocamera deve aprire la fotocamera frontale di nuovo. Aprire adesso?"</string>
      <string name="popup_camera_popup_falied_times_calibrate">Impossibile aprire la fotocamera frontale più di una volta. Prova a ricalibrare la fotocamera.</string>
+     <string name="popup_camera_remove_hid_device">Looks like your device is connected to a game controller. You might not be able to open the front camera when a game controller is connected.</string>
      <string name="popup_camera_sure">Ho capito</string>
      <string name="popup_camera_sure_wait">Ho capito (%ds)</string>
      <string name="popup_camera_takeback_falied_times_calibrate">Impossibile chiudere la fotocamera frontale più di una volta. Prova a ricalibrare la fotocamera.</string>
@@ -199,6 +211,8 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="turn_off">Spegni</string>
      <string name="twohours">1 ora</string>
      <string name="unknown_caller">Numero sconosciuto</string>
+     <string name="user_switching_dialog_switch_into_kid_space">Switching to Kid space…</string>
+     <string name="user_switching_dialog_switch_out_kid_space">Leaving Kid space…</string>
      <string name="user_switching_dialog_text">Cambio…</string>
      <string name="voice_begin">Cosa stai cercando?</string>
      <string name="voice_button_action_down">Rilascia per cercare</string>

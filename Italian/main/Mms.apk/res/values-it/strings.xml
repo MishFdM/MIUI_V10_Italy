@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="action_firewall_setting">Blacklist</string>
+     <string name="action_get_otp">Get OTP</string>
+     <string name="action_sign_in">Login</string>
+     <string name="action_sign_in_short">Login</string>
      <string name="activity_not_found">Applicazione non installata sul telefono.</string>
      <string name="activity_not_found_uri">Impossibile trovare programmi per questo</string>
      <string name="addBlackList">Blacklist</string>
@@ -29,6 +32,8 @@
      <string name="app_label">Messaggi</string>
      <string name="app_name">Gestione dispositivo</string>
      <string name="application_list_title">Mini app</string>
+     <string name="area_code_hot">FREQUENTLY USED</string>
+     <string name="area_code_title">Country code</string>
      <string name="attach_group_chat">Chat di gruppo</string>
      <string name="attach_image">Immagini</string>
      <string name="attach_rcs_file">File</string>
@@ -57,7 +62,9 @@
      <string name="batch_deleting_progress_message">Eliminazione conversazioni selezionate</string>
      <string name="bcc_label">"Ccn: "</string>
      <string name="block_messaging_entry_title">SMS bloccati</string>
+     <string name="block_number_message">This phone number will be added to blocklist. All messages sent from this number will be blocked.</string>
      <string name="block_support_text">Supportato da Antiy.</string>
+     <string name="block_tag_message">All messages sent from %s will be blocked. You might not be able to receive verification codes or bills sent by this service.</string>
      <string name="bookmark">Preferiti</string>
      <string name="bookmark_confirm_delete_message">Gli elementi selezionati saranno eliminati</string>
      <string name="bookmark_empty">Nessun modello</string>
@@ -88,6 +95,7 @@
      <string name="check_all">Seleziona tutto</string>
      <string name="class_0_message_activity">Messaggio classe 0</string>
      <string name="click_to_update">Tocca per controllare gli aggiornamenti</string>
+     <string name="click_to_view">Tap to view</string>
      <string name="close">Chiudi</string>
      <string name="cloud_state_disabled">Sincronizzazione Mi Cloud disattivata</string>
      <string name="cloud_state_sync_finished">Sincronizzato con Mi Cloud</string>
@@ -124,6 +132,7 @@
      <string name="confirm_restore_positive">Ripristina</string>
      <string name="confirm_restore_title">Ripristinare tutti i messaggi selezionati?</string>
      <string name="confirm_send_mms">"Uno dei destinatari include un indirizzo email. Questo messaggio verrà inviato come MMS, verranno applicate le tariffe previste dall'operatore."</string>
+     <string name="confirm_upload_sms">Upload messages to improve blocklist functionality</string>
      <string name="contact_not_exists">Questa persona non è tra i tuoi contatti"</string>
      <string name="context_menu_add_calendar">Mostra nel calendario</string>
      <string name="context_menu_add_contact">Aggiungi a Contatti</string>
@@ -151,6 +160,7 @@
      <string name="copy_to_sdcard_success">Allegato salvato come %s</string>
      <string name="current_data_version">Versione Mi Message</string>
      <string name="delete">Elimina</string>
+     <string name="delete_block_conversation">Delete this conversation</string>
      <string name="delete_bookmark">Elimina messaggio</string>
      <string name="delete_message">Elimina</string>
      <string name="delete_phrase">Elimina modello</string>
@@ -198,6 +208,11 @@
      <string name="english_subject_limit">Limite di 40 caratteri</string>
      <string name="enter_edit_mode">Elimina</string>
      <string name="error_code_label">"Codice errore: "</string>
+     <string name="error_field_required">Required</string>
+     <string name="error_incorrect_otp">Incorrect OTP</string>
+     <string name="error_invalid_otp">Invalid OTP</string>
+     <string name="error_invalid_phone">Invalid phone number</string>
+     <string name="error_login">login failed</string>
      <string name="error_state">Errore di incoerenza</string>
      <string name="error_state_text">Lo stato delle conversazioni e dei destinatari è incoerente. Raccogli un rapporto ed invialo a http://go/droidanizer</string>
      <string name="error_timed_msg">Impossibile programmare un orario antecedente</string>
@@ -236,6 +251,9 @@
      <string name="found_wild_messages_title">Scarica messaggi</string>
      <string name="from_label">"Da: "</string>
      <string name="from_pkg_name">"Dall'app:"</string>
+     <string name="ft_cfs_dialog_content">There are undelivered rcs files, do you want to resend them as SMS links?</string>
+     <string name="ft_cfs_dialog_title">RCS files fallback</string>
+     <string name="group_member_is_composing">group member is typing...</string>
      <string name="group_message">Messaggio di Gruppo</string>
      <string name="group_resend_message">Nuovo invio (%d)</string>
      <string name="group_verification_codes_summary">Raggruppa automaticamente i messaggi contenenti OTP</string>
@@ -267,6 +285,7 @@
      <string name="invalid_destination">Indirizzo di destinazione non valido.</string>
      <string name="invalid_private_contact">Contatto privato non valido</string>
      <string name="invalid_recipient_message">Correggi i destinatari o il messaggio non verrà recapitato.</string>
+     <string name="is_composing">typing...</string>
      <string name="kilobyte">KB</string>
      <string name="layout_selector_title">"Layout presentazione "</string>
      <string name="loading_all_messages">Caricamento di tutti i messaggi…</string>
@@ -292,6 +311,7 @@
      <string name="menu_pick_from_contact">Seleziona dai contatti</string>
      <string name="menu_preferences">Impostazioni</string>
      <string name="menu_send_as_common">Invia come SMS</string>
+     <string name="menu_sms_block">Blocklist</string>
      <string name="menu_traffic_destination">Destinazione</string>
      <string name="menu_unlock">Sblocca messaggio</string>
      <string name="menu_view_contact">Visualizza contatto</string>
@@ -425,7 +445,6 @@
      <string name="notification_failed_multiple">%s messaggi potrebbe non essere inviati.</string>
      <string name="notification_failed_multiple_title">Messaggi non inviati</string>
      <string name="notification_group_name">Messaggistica</string>
-     <string name="notification_multiple">[%s]</string>
      <string name="notification_multiple_title">Nuovi messaggi</string>
      <string name="notification_seen">Segna come letto</string>
      <string name="number_add_hint">Inserisci numero da aggiungere al Contatto Privato</string>
@@ -528,6 +547,11 @@
      <string name="private_protect">Protezione Privata</string>
      <string name="private_settings">Impostazioni Private</string>
      <string name="processing">Elaborazione…</string>
+     <string name="prompt_otp">OTP</string>
+     <string name="prompt_phone">Phone</string>
+     <string name="prompt_summary">Open RCS service, you can send SMS, pictures, videos and other messages free of charge through the network, and you can also establish group chats with your friends.</string>
+     <string name="prompt_title">Log in to use the RCS service</string>
+     <string name="prompt_user_agreement">Landing means to agree with the RCS User Agreement and Privacy Policy</string>
      <string name="prvate_contact">Contatto Privato</string>
      <string name="quick_reply">Rispondi</string>
      <string name="rate_limit_surpassed">Conferma</string>
@@ -538,10 +562,14 @@
      <string name="rcs_auto_resend_sms">Converti ad SMS</string>
      <string name="rcs_auto_resume">Riprendi automaticamente gli upload interrotti</string>
      <string name="rcs_auto_resume_only_by_wifi">Riprendi gli upload solo quando connesso al Wi-Fi</string>
+     <string name="rcs_cfs_dialog_content">There are undelivered rcs messages, do you want to resend them as SMS?</string>
+     <string name="rcs_cfs_dialog_title">RCS messages fallback</string>
      <string name="rcs_dspt">Dopo aver avuto accesso agli utenti Cina Mobile, potrai inviare messaggi in maniera predefinita tramite Wi-Fi o rete mobile.</string>
      <string name="rcs_dspt_unavailable">"Non puoi utilizzare questa funzionalità ora. La scheda SIM Cina Mobile non è impostata come scheda dati predefinita."</string>
+     <string name="rcs_file_link_as_sms">please visit %s to visit the file details</string>
      <string name="rcs_forward_faild">Impossibile inoltrare</string>
      <string name="rcs_forward_successful">Inoltro riuscito</string>
+     <string name="rcs_group_chat_closed">( Closed )</string>
      <string name="rcs_hello_from_pc">Accedi a Fetion sul computer per trasferire i file.</string>
      <string name="rcs_message">Messaggistica Cina Mobile</string>
      <string name="rcs_message_disable">Impossibile visualizzare questo messaggio sul Secondo Spazio</string>
@@ -549,8 +577,27 @@
      <string name="rcs_not_online">Impossibile utilizzare il servizio di messaggistica di Cina Mobile. Verifica le impostazioni di rete e riprova.</string>
      <string name="rcs_offline">"No hai eseguito l'accesso a UC. Aspetta un minuto o due e riprova."</string>
      <string name="rcs_offline_hint">Il servizio di messaggistica di Cina Mobile è offline. Impossibile inoltrare il messaggio.</string>
+     <string name="rcs_pref_button_login">Login</string>
+     <string name="rcs_pref_button_logout">Logout</string>
+     <string name="rcs_pref_category_rcs">RCS message</string>
+     <string name="rcs_pref_category_rcs_message">RCS Message</string>
+     <string name="rcs_pref_category_set_alias">Show alias to the other user when using RCS communication</string>
+     <string name="rcs_pref_cfs">RCS message fallback</string>
+     <string name="rcs_pref_default_sending_method">Default sending method</string>
+     <string name="rcs_pref_ft_auto_download">Auto download files</string>
+     <string name="rcs_pref_ft_auto_download_details">Auto download when file size is not too big</string>
+     <string name="rcs_pref_ft_auto_download_roaming">Auto download files when roaming if file size is not too big</string>
+     <string name="rcs_pref_ft_cfs">RCS file transfer fallback</string>
+     <string name="rcs_pref_login_rcs">RCS message</string>
+     <string name="rcs_pref_picture_message_default_quality">Image resizing options</string>
+     <string name="rcs_pref_send_display_report">Send display report to the sender</string>
+     <string name="rcs_pref_send_display_report_detail">when sender will see an the read status</string>
+     <string name="rcs_pref_setting_entrance">RCS settings</string>
+     <string name="rcs_pref_user_alias_title">Alias</string>
+     <string name="rcs_pref_video_message_default_quality">Video resizing options</string>
      <string name="rcs_recipient_type_contact">Inoltra ai contatti</string>
      <string name="rcs_recipient_type_pc">Inoltra al computer</string>
+     <string name="rcs_remember_my_choice">remember my choice</string>
      <string name="rcs_resend_not_online">Impossibile utilizzare il servizio di messaggistica di Cina Mobile</string>
      <string name="rcs_resend_sim_card_not_insert">Sembra che la tua scheda SIM non sia installata</string>
      <string name="rcs_send_rms_remind_change">Impostazioni</string>
@@ -558,11 +605,13 @@
      <string name="rcs_send_rms_remind_title">Invia messaggio utilizzando il servizio di messaggistica di Cina Mobile</string>
      <string name="rcs_service_agreement">Condizioni di servizio</string>
      <string name="rcs_setting">Impostazioni Messagistica Cina Mobile</string>
+     <string name="rcs_setting_tips">You can change the setting in Messaging setting at any time</string>
      <string name="rcs_silence_message">Silenzia le notifiche dei messaggi</string>
      <string name="rcs_summary_auto_resend_mms">Converti i messaggi multimediali Cina Mobile in SMS dopo che il messaggio originale non potrà essere inviato. Il tuo operatore ti addebiterà il costo di questo messaggio.</string>
      <string name="rcs_summary_auto_resend_sms">Converti i messaggi multimediali Cina Mobile in SMS dopo che il messaggio originale non potrà essere inviato. Il tuo operatore ti addebiterà il costo di questo messaggio.</string>
      <string name="rcs_summary_silence_message">"Silenzia i messaggi di notifica quando l'applicazione desktop risulta funzionante"</string>
      <string name="rcs_unavailable">"Impossibile utilizzare la Messaggistica di Cina Mobile ora. La schrda SIM Cina Mobile non è la tua scheda dati predefinita."</string>
+     <string name="rcs_up_not_online">RCS is not online, please check the network status</string>
      <string name="rcs_wait_for_retry_text">In attesa…</string>
      <string name="received_at_time">Ricevuto alle: %1s</string>
      <string name="received_label">"Ricevuto: "</string>
@@ -602,6 +651,7 @@
      <string name="restored_to_phone_memory">Ripristinato nella memoria telefono</string>
      <string name="rms_audio_file_duration_too_long">Impossibile inviare file audio più lungo di 180 secondi</string>
      <string name="rms_audio_file_length_too_large">Impossibile inviare file audio più grande di %1$dMB</string>
+     <string name="rms_editor_hints">Chat</string>
      <string name="rms_file_not_exist">Il file non esiste</string>
      <string name="rms_file_not_exist_to_view">Questo file è stato spostato o eliminato</string>
      <string name="rms_illegal_extension">Formato file non valido</string>
@@ -737,6 +787,7 @@
      <string name="subject_hint">Oggetto</string>
      <string name="subject_label">"Soggetto: "</string>
      <string name="subscribe">Iscriviti</string>
+     <string name="success_login">login success</string>
      <string name="summary_pref_cm_smart_sms">Modelli schede, numeri di servizio  SMS ed altro.</string>
      <string name="switch_to_editor">Modalità editor</string>
      <string name="switch_to_menu">Modalità menu</string>
@@ -744,6 +795,8 @@
      <string name="text_message">Messaggio di testo</string>
      <string name="timed_message_expired_title_2">Vuoi inviarli adesso?</string>
      <string name="timed_message_to">a</string>
+     <string name="title_activity_rcs_login">Login</string>
+     <string name="title_activity_rcs_maps">Location</string>
      <string name="title_allow_network_access">Aggiorna automaticamente le informazioni</string>
      <string name="title_collapse_sp_messages">Raccogli i messaggi del provider</string>
      <string name="title_hide_verification_code">Nascondi automaticamente le OTP sulla schermata di blocco</string>
@@ -805,4 +858,5 @@
      <string name="yellowpage_recommend_msg">Prova le funzionalità SMS di MIUI</string>
      <string name="yes">OK</string>
      <string name="yesterday">Ieri</string>
+     <string name="you_have_new_message">You have new messages</string>
 </resources>
