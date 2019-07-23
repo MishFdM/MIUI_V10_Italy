@@ -312,8 +312,8 @@ Invia questo codice ai tecnici."</string>
      <string name="document_open_message">"Per migliorare la tua esperienza di lettura e garantire la sicurezza, si consiglia l'utilizzo di versioni WPS personalizzate ufficialmente"</string>
      <string name="document_open_other">Altre app</string>
      <string name="document_open_title">Apri con</string>
-     <string name="document_open_txt_message">To improve your reading experience and ensure security，use Bookshelf</string>
-     <string name="document_open_txt_start_read">Start reading</string>
+     <string name="document_open_txt_message">Per migliorare la tua esperienza di lettura e la sicurezza，usa Bookshelf</string>
+     <string name="document_open_txt_start_read">Inizio lettura</string>
      <string name="dont_remind_again">Ricorda la mia scelta</string>
      <string name="download_btn_select_all">Seleziona tutto</string>
      <string name="download_btn_select_none">Deseleziona tutto</string>

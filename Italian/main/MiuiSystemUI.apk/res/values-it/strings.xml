@@ -825,7 +825,7 @@ Una volta raffreddato, funzionerà normalmente."</string>
      <string name="input_password_after_boot_msg">Inserisci la password per sbloccare il dispositivo</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Impossibile passare fra gli spazi quando il controllo parentale è attivo</string>
-     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Can't switch between spaces when Ultra battery saver is on"</string>
+     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Non è possibile passare tra gli spazi quando la funzione Risparmio Batteria Ultra è attiva"</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Bisogna riavviare il dispositivo prima di poter inserire il Primo Spazio</string>
      <string name="input_password_hint_text">Inserisci password</string>
      <string name="input_pattern_hint_text">Disegna la sequenza di sblocco</string>
@@ -1467,13 +1467,13 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="recents_accessibility_split_screen_top">"Schermo diviso verso l'alto"</string>
      <string name="recents_app_info_button_label">Info applicazione</string>
      <string name="recents_caption_resize">Seleziona disposizione per nuovi compiti</string>
-     <string name="recents_dimiss_task">Clear</string>
+     <string name="recents_dimiss_task">Cancella</string>
      <string name="recents_drag_hint_message">Sposta qui per utilizzare lo schermo diviso</string>
      <string name="recents_empty_message">Nessun elemento recente</string>
      <string name="recents_empty_message_dismissed_all">Hai ripulito tutto</string>
      <string name="recents_empty_message_multi_window">"Prego vai sulla home per aprire un'applicazione"</string>
      <string name="recents_exit_multi_window_mode">Esci da modalità schermo diviso</string>
-     <string name="recents_forbid_dock_when_screening_toast_text">"Can't use Split screen while casting"</string>
+     <string name="recents_forbid_dock_when_screening_toast_text">"Non è possibile usare lo schermo coniviso durante la trasmissione"</string>
      <string name="recents_incompatible_app_message">"L'app non supporta la modalità a schermo diviso"</string>
      <string name="recents_launch_disabled_message">%s è disabilita in modalità sicura.</string>
      <string name="recents_launch_error_message">Impossibile avviare %s.</string>
@@ -1484,7 +1484,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="recents_multistack_add_stack_dialog_split_vertical">Divisione verticale</string>
      <string name="recents_search_bar_label">cerca</string>
      <string name="recents_stack_action_button_label">Cancella tutto</string>
-     <string name="recents_task_screening">Casting</string>
+     <string name="recents_task_screening">Trasmissione</string>
      <string name="recents_title_app_manager">Gestisci app</string>
      <string name="recents_title_game">Giochi</string>
      <string name="recents_title_garbage_cleanup">Pulizia</string>

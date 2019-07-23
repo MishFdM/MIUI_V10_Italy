@@ -27,7 +27,7 @@
         <item>Massimo</item>
      </string-array>
      <string-array name="message_sending_method">
-        <item>Proposed Messaging Service</item>
+        <item>Servizi Messaggistica Proposti</item>
         <item>SMS, MMS</item>
         <item>RCS chat, RCS File Transfer</item>
      </string-array>
@@ -41,24 +41,24 @@
         <item>Mai</item>
      </string-array>
      <string-array name="rcs_ft_fallback">
-        <item>Never ask and always send as SMS Link</item>
-        <item>Never ask and never send as SMS Link</item>
-        <item>Always ask</item>
+        <item>Non chiedere mai e invia sempre come link SMS</item>
+        <item>Non chiedere mai e non inviare mai come link SMS</item>
+        <item>Chiedi sempre</item>
      </string-array>
      <string-array name="rcs_message_fallback">
-        <item>Never ask and always send as SMS</item>
-        <item>Never ask and never send as SMS</item>
-        <item>Always ask</item>
+        <item>Non chiedere mai e invia sempre come SMS</item>
+        <item>Non chiedere mai e non inviare mai come SMS</item>
+        <item>Chiedi sempre</item>
      </string-array>
      <string-array name="rcs_picture_quality_setting">
-        <item>always ask</item>
-        <item>never resize</item>
-        <item>always resize a selected option which is then stored as default value</item>
+        <item>chiedi sempre</item>
+        <item>non ridimensionare mai</item>
+        <item>"ridimensiona sempre un'opzione che viene archiviata come valore predefinito"</item>
      </string-array>
      <string-array name="rcs_video_quality_setting">
-        <item>always ask</item>
-        <item>never resize</item>
-        <item>always resize a selected option which is then stored as default value</item>
+        <item>chiedi sempre</item>
+        <item>non ridimensionare mai</item>
+        <item>ridimensiona sempre un'opzione che viene archiviata come valore predefinito</item>
      </string-array>
      <string-array name="resent_via_entries_mms">
         <item>SMS</item>

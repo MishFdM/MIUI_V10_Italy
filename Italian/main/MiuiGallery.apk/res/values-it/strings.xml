@@ -106,9 +106,9 @@
      <string name="app_name">Galleria</string>
      <string name="app_name_view_picture">Mostra immagine</string>
      <string name="app_name_view_video">Mostra video</string>
-     <string name="assistant_page_discovery">Discover</string>
+     <string name="assistant_page_discovery">Scopri</string>
      <string name="assistant_page_label">Assistente</string>
-     <string name="assistant_page_server_error">Check your network settings</string>
+     <string name="assistant_page_server_error">Controlla le tue impostazioni di rete</string>
      <string name="associate_face_album">Scegli un album</string>
      <string name="auto_backup_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
      <string name="auto_download_media_title">Scarica automaticamente foto da Mi Cloud</string>
@@ -1148,7 +1148,7 @@ per personalizzare la Galleria"</string>
      <string name="movie_content_describe_delete">Elimina foto</string>
      <string name="movie_content_describe_pause">Pausa</string>
      <string name="movie_content_describe_play">Riproduci</string>
-     <string name="movie_customer_unsupport_audio_file">Unsupport audio file</string>
+     <string name="movie_customer_unsupport_audio_file">File audio non supportato</string>
      <string name="movie_delete_disable">Ti servono almeno 3 per creare un video.</string>
      <string name="movie_download">Scarica</string>
      <string name="movie_download_failed">Impossibile scaricare</string>

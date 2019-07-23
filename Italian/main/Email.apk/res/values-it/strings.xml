@@ -296,9 +296,9 @@
      <string name="confirm_send_message_with_no_body">Nessun testo presente nel corpo del messaggio.</string>
      <string name="confirm_send_message_with_no_subject">"Nessun testo presente nell'oggetto del messaggio."</string>
      <string name="confirm_send_title">Inviare il messaggio?</string>
-     <string name="contact_add_options">Add to contacts</string>
-     <string name="contact_add_options_details1">All</string>
-     <string name="contact_add_options_details2">Only receivers</string>
+     <string name="contact_add_options">Aggiungi ai contatti</string>
+     <string name="contact_add_options_details1">Tutti</string>
+     <string name="contact_add_options_details2">Solo riceventi</string>
      <string name="contact_edit_set_black_list_from">Elimina tutte le email da questo mittente</string>
      <string name="contact_edit_set_black_list_receive">Elimina tutte le email con questo destinatario</string>
      <string name="contact_edit_set_black_list_receive_summary">Elimina tutte le mail che contengono questo destinatario, anche nel campo Cc</string>
@@ -528,7 +528,7 @@
      <string name="general_preference_text_zoom_tiny">Testo molto piccolo</string>
      <string name="generic_attachment_problem">Impossibile allegare il file.</string>
      <string name="get_database_exception">"Per pulire i dati di questa applicazione andare in Impostazioni > Applicazioni di sistema e riprovare."</string>
-     <string name="get_oauth_code">Get code</string>
+     <string name="get_oauth_code">Ottieni codice</string>
      <string name="gmail_acceleration">"Utilizza un server di proxy per l'account di Gmail"</string>
      <string name="gmail_login_confirm_to_use_proxy">Vuoi utilizzare un server di proxy per accedere al tuo account di Gmail?</string>
      <string name="gmail_login_failed_non_proxy_title">Impossibile accedere ai server Gmail</string>
@@ -541,7 +541,7 @@
      <string name="header_label_general_preferences">Generali</string>
      <string name="help_and_info">Guida</string>
      <string name="help_me_get_qq_auth">Aiuto con il codice di autorizzaizone QQ</string>
-     <string name="help_weixin_title">"If you have any questions, feel free to drop us a line in our official WeChat account: "</string>
+     <string name="help_weixin_title">"Per ogni domanda, scrivi due righe al nostro account WeChat ufficiale: "</string>
      <string name="hide_elided">▼ Nascondi testo citato</string>
      <string name="hide_password">hide password</string>
      <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -578,7 +578,7 @@
      <string name="login_failed_ticker">Accesso a %s non riuscito.</string>
      <string name="login_failed_title">Accesso non riuscito</string>
      <string name="login_mail">Autenticazione Mail</string>
-     <string name="login_qq_psw">Sign in using QQ password/authenticator/verification code</string>
+     <string name="login_qq_psw">Accedi usando password/autenticatore/codice di verifica QQ</string>
      <string name="login_support_tip_text">Supporta il login agli account email più utilizzati</string>
      <string name="long_press_to_select_tip">Tieni premuto per selezionare una conversazione, quindi tocca per sceglierne altre.</string>
      <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
@@ -664,8 +664,8 @@
      <string name="message_invite_title">Invito calendario</string>
      <string name="message_saved">Messaggio salvato come bozza.</string>
      <string name="message_view_attachment_background_load">"Prima dell'invio verranno scaricati uno o più allegati del messaggio inoltrato."</string>
-     <string name="mi_sync_erroe_toast">"A network error occurred: "</string>
-     <string name="mi_sync_erroe_toast_other">"A server error occurred: "</string>
+     <string name="mi_sync_erroe_toast">"Si è verificato un errore di reteacdeghlnoqt: "</string>
+     <string name="mi_sync_erroe_toast_other">"Si è verificato un errore del server: "</string>
      <string name="mi_sync_erroe_toast_other_details">-ERR:unknown_error</string>
      <string name="mibill_privacy_policy_button1">Non adesso</string>
      <string name="mibill_privacy_policy_button2">OK</string>
@@ -699,10 +699,10 @@ Prova a passare ad un diverso account email."</string>
      <string name="no_filtrable_email_account">Nessun account da filtrare</string>
      <string name="no_mails">Nessuna mail</string>
      <string name="no_matched_attachment">Nessun allegato corrispondente.</string>
-     <string name="no_more_mail">No more messages</string>
+     <string name="no_more_mail">Nessun altro messaggio</string>
      <string name="no_recognize_describe">"Impossibile trovare email contenenti biglietti o prenotazioni.
 Prova con una diverso account."</string>
-     <string name="no_search_results">"Couldn't find results"</string>
+     <string name="no_search_results">Impossibile trovar ei risultati</string>
      <string name="not_subject">(Nessun oggetto)</string>
      <string name="not_synced_title">Account non sincronizzato</string>
      <string name="note_text">Possibile tramite la rete di China Mobile o verifica SMS, potrebbero generare costi aggiuntivi per traffico o SMS.</string>
@@ -853,7 +853,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
      <string name="prompt_title">Avviso</string>
      <string name="protocol_setting_toast">"Tocca l'angolo in alto a destra per entrare nelle impostazioni dopo aver accettato"</string>
-     <string name="pull_load_more">Pull up to load more</string>
+     <string name="pull_load_more">Trascina in alto per altri risultati</string>
      <string name="pull_to_refresh">Trascina per aggiornare</string>
      <string name="push_wps_better_confirm_download">Scarica</string>
      <string name="push_wps_better_confirm_exit">Altre app da aprire</string>
@@ -960,8 +960,8 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="refreshing_done">Sincronizzazione completata</string>
      <string name="release_to_refresh">Rilascia per aggiornare</string>
      <string name="remind_attachment_size_limit">La dimensione delle email deve essere inferiore a %sMB</string>
-     <string name="remote_search_body_too_large_prompt">"This email is too long.
-Wait until it's fully synced or view the message on your computer."</string>
+     <string name="remote_search_body_too_large_prompt">"Questa email è troppo lunga.
+Attendi finché non sarà sincronizzata completamente o leggi il messaggio sul tuo computer."</string>
      <string name="remove_account">Rimuovi account</string>
      <string name="remove_folder">Rimuovi da %1$s</string>
      <string name="remove_star">Non preferito</string>
@@ -988,7 +988,7 @@ Wait until it's fully synced or view the message on your computer."</string>
      <string name="sdcard_cannot_use">Scheda di memoria non utilizzabile</string>
      <string name="search_bar_text">Cerca email, mittente</string>
      <string name="search_hint">Cerca email</string>
-     <string name="search_remote_again">Network unavailable, click Retry</string>
+     <string name="search_remote_again">Rete non disponibile, tocca Riprova</string>
      <string name="search_result">"Risultati "</string>
      <string name="search_tabs_name_all">Tutti</string>
      <string name="search_tabs_name_recipient">Destinatario</string>
@@ -1069,7 +1069,7 @@ Wait until it's fully synced or view the message on your computer."</string>
      <string name="sync_contacts_req_per_ignored">Il contatto non è aperto e non può sincronizzare i contatti</string>
      <string name="sync_error">Impossibile sincronizzare</string>
      <string name="sync_error_message">Spazio insufficiente per la sincronizzazione</string>
-     <string name="sync_failed_mi_authority_view_detail">View details</string>
+     <string name="sync_failed_mi_authority_view_detail">Mostra dettagli</string>
      <string name="syncing_wait_restart">Tocca Riprova</string>
      <string name="syncing_wait_restart_title">"Connessione al server scaduta 
  impossibile caricare il messaggio"</string>
