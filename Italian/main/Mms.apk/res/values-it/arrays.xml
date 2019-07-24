@@ -58,7 +58,7 @@
      <string-array name="rcs_video_quality_setting">
         <item>chiedi sempre</item>
         <item>non ridimensionare mai</item>
-        <item>ridimensiona sempre un'opzione che viene archiviata come valore predefinito</item>
+        <item>"ridimensiona sempre un'opzione che viene archiviata come valore predefinito"</item>
      </string-array>
      <string-array name="resent_via_entries_mms">
         <item>SMS</item>
