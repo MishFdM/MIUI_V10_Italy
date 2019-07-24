@@ -581,7 +581,7 @@
      <string name="rcs_pref_button_logout">Esci</string>
      <string name="rcs_pref_category_rcs">Messaggio RCS</string>
      <string name="rcs_pref_category_rcs_message">Messaggio RCS</string>
-     <string name="rcs_pref_category_set_alias">Mostra l'alias all'altro utente quando stai utilizzando la comunicaizone RCS</string>
+     <string name="rcs_pref_category_set_alias">"Mostra l'alias all'altro utente quando stai utilizzando la comunicaizone RCS"</string>
      <string name="rcs_pref_cfs">Recupero messaggi RCS</string>
      <string name="rcs_pref_default_sending_method">Metodo di invio predefinito</string>
      <string name="rcs_pref_ft_auto_download">Scarica file automaticamente</string>
