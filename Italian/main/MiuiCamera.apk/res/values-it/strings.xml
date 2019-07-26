@@ -535,7 +535,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="pref_camera_snap_entry_take_picture">Foto</string>
      <string name="pref_camera_snap_label_take_movie">Video</string>
      <string name="pref_camera_snap_label_take_picture">Foto</string>
-     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Impossibile utilizzare la modalità Quick Snap mentre la funzionlità \"Utilizza i tasti volume per attivare\" è attiva.</string>
      <string name="pref_camera_sound_title">"Suoni nell'applicazione"</string>
      <string name="pref_camera_square_mode_title">Quadrato</string>
      <string name="pref_camera_stereo_mode_title">Stereo</string>

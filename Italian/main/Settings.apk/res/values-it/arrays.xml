@@ -270,6 +270,28 @@
         <item>Ottimizzato per Qualità Connessione (330kbps/303kbps)</item>
         <item>Migliore possibile (Bit Rate adattivo)</item>
      </string-array>
+     <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Short latency</item>
+        <item>Middle latency</item>
+        <item>Long latency</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Short latency (50~100ms)</item>
+        <item>Middle latency (150~200ms)</item>
+        <item>Long latency (300~500ms)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimized for Connection Quality</item>
+        <item>Balanced Audio And Connection Quality</item>
+        <item>Optimized for Audio Quality</item>
+        <item>Best Effort (Auto Bit Rate)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimized for Connection Quality (400kbps)</item>
+        <item>Balanced Audio And Connection Quality (500/560kbps)</item>
+        <item>Optimized for Audio Quality (900kbps)</item>
+        <item>Best Effort (Auto Bit Rate)</item>
+     </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Usa selezione di sistema (predefinito)</item>
         <item>44.1 kHz</item>
@@ -292,6 +314,7 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>LHDC</item>
         <item>Attiva Codec Opzionali</item>
         <item>Disattiva Codec Opzionali</item>
      </string-array>
@@ -303,6 +326,7 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>LHDC</item>
         <item>Attiva Codec Opzionali</item>
         <item>Disattiva Codec Opzionali</item>
      </string-array>
@@ -1205,7 +1229,7 @@
      <string-array name="notch_battery_indicator_style_entries">
         <item>Grafico</item>
         <item>Percentuale</item>
-		<item>"Percentuale (Dopo l'icona dei collegamenti notifiche)"</item>
+        <item>"Percentuale (Dopo l'icona dei collegamenti notifiche)"</item>
      </string-array>
      <string-array name="notification_shade_shortcut_entries">
         <item>Cerca</item>

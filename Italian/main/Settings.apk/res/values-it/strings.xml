@@ -890,6 +890,8 @@ App:
      <string name="bluetooth_disable_absolute_volume_summary">Disattiva il volume generale Bluetooth in caso di problemi con il volume con dispositivi remoti come volumi eccessivi o difficoltà di regolazione.</string>
      <string name="bluetooth_disable_inband_ringing">Disattiva la suoneria interna</string>
      <string name="bluetooth_disable_inband_ringing_summary">Non riprodurre suonerie interne con le cuffie Bluetooth</string>
+     <string name="bluetooth_disable_mi_fast_connect">Disable Mi Fast Connect</string>
+     <string name="bluetooth_disable_mi_fast_connect_summary">Disable Mi Fast Connect Feature</string>
      <string name="bluetooth_disable_profile_message">Verrà disattivato:%1$s Da:%2$s</string>
      <string name="bluetooth_disable_profile_title">Disattivare il profilo?</string>
      <string name="bluetooth_disabled">Disattivato</string>
@@ -1040,6 +1042,12 @@ Modalità Canale"</string>
      <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec LDAC Audio Bluetooth: Qualità di Riproduzione</string>
      <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleziona Codec Bluetooth Audio LDAC Codec:
 Qualità di Riproduzione"</string>
+     <string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth Audio LHDC Codec: Latency</string>
+     <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Select Bluetooth Audio LHDC Codec:
+Latency"</string>
+     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth Audio LHDC Codec: Playback Quality</string>
+     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Select Bluetooth Audio LHDC Codec:
+Playback Quality"</string>
      <string name="bluetooth_select_a2dp_codec_sample_rate">Frequenza Campione Audio Bluetooth</string>
      <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleziona Codec Audio Bluetooth:
 Frequenza Campione"</string>
@@ -1176,6 +1184,14 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="bt_ldac_open_dialog_title">Sei sicuro di voler attivare la funzionalità LDAC?</string>
      <string name="bt_ldac_pre_title">LDAC</string>
      <string name="bt_ldac_property">Attributi</string>
+     <string name="bt_lhdc_declaration">When a Bluetooth device supports LHDC, it will be connected by default. LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
+     <string name="bt_lhdc_dialog_summary">"LHDC provides a high-quality audio experience and also brings higher power consumption
+This feature can be turned off in [Settings]"</string>
+     <string name="bt_lhdc_dialog_title">The current device supports LHDC, which has been connected by default:</string>
+     <string name="bt_lhdc_open_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
+     <string name="bt_lhdc_open_dialog_title">Turn on LHDC?</string>
+     <string name="bt_lhdc_pre_title">LHDC</string>
+     <string name="bt_lhdc_property">Attributes</string>
      <string name="bt_pre_summary">Provide a high-quality audio experience</string>
      <string name="bt_rarely_used_device_title">Dispositivi utilizzati raramente (%d)</string>
      <string name="bt_trace_log">Abilita trace log del Bluetooth</string>
@@ -2501,6 +2517,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="google_title">Google</string>
      <string name="got_it">OK</string>
      <string name="gsm_to_wifi_connect_type_title">Da rete cellulare a Wi-Fi</string>
+     <string name="gxzw_add_fingerprint_area">Fingerprint scanner</string>
      <string name="gxzw_add_fingerprint_continue">Continua</string>
      <string name="gxzw_add_fingerprint_edge_message">"Muovi il dito in modo che il sensore possa registrare i bordi dell'impronta digitale."</string>
      <string name="gxzw_add_fingerprint_edge_title">Muovi leggermente il dito</string>

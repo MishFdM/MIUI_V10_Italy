@@ -85,6 +85,7 @@
      <string name="after_the_lock_screen">"L'app verrà bloccata dopo aver spento lo schermo, potrai modificare questa scelta nelle impostazioni"</string>
      <string name="alert_back_diving_mode_summary">Disattivare adesso la modalità Immersiva?</string>
      <string name="alert_back_diving_mode_title">Modalità Immersiva</string>
+     <string name="alert_back_milink_hangup_tips_content">"Casting won't be interrupted while you're ending a call. You can press the Power button to wake the screen."</string>
      <string name="all_address_choose_hint">Tutte le posizioni</string>
      <string name="already_close_gamebooster">Turbo videogiochi è stata disattivata</string>
      <string name="anti_disturb_msg_detail">Disattiva tutte le notifiche tranne quelle per le chiamate in entrata</string>
@@ -977,6 +978,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="gamebox_immersion_tips_content">La modalità Immersiva limita tutte lel funzioni della SIM ad esclusione della connessione dati. Non verrai disturbato da chiamate e non riceverai notifiche per le chiamate perse. Tutte le funzioni della SIM verranno riattivate quando la modalità Immersiva viene disattivata. Attivare la modalità Immersiva?</string>
      <string name="gamebox_immersion_tips_title">Attenzione</string>
      <string name="gamebox_immerson_open">"Attivazione modalità Immersiva, non cambiare rete…"</string>
+     <string name="gamebox_milink">Cast</string>
      <string name="gamebox_positive_button_text">OK (%1$ds)</string>
      <string name="gamebox_qq_not_find">Installa QQ e riprova.</string>
      <string name="gamebox_recent_task_expand_fail">Nessuna app instalalta che funzioni con collegamento</string>
@@ -1579,6 +1581,7 @@ dall'operatore"</string>
      <string name="other">Altre impostazioni</string>
      <string name="other_exception_summary">"Non hai una connessione internet"</string>
      <string name="other_exception_title">In cerca di altri problemi</string>
+     <string name="other_milink_connect">"Can't cast. Another feature is being cast now."</string>
      <string name="package_change_notification_summary">Tocca per altre informazioni.</string>
      <string name="package_change_notification_title">Regola limite dei dati manualmente</string>
      <string name="package_setted_error_notification_summary">"Tocca per vedere i dettagli sull'utilizzo dei dati."</string>
@@ -1829,6 +1832,8 @@ dall'operatore"</string>
      <string name="preferred_app_entries_messaging">Messaggi</string>
      <string name="preferred_app_entries_music">Musica</string>
      <string name="privacy_apps">App nascoste</string>
+     <string name="privacy_apps_begin_use">Start</string>
+     <string name="privacy_apps_button_know">Got it</string>
      <string name="privacy_apps_category_title">App nascoste</string>
      <string name="privacy_apps_checkbox_remind_choice">Non mostrare nuovamente</string>
      <string name="privacy_apps_close">Chiudi</string>
@@ -1837,7 +1842,11 @@ dall'operatore"</string>
      <string name="privacy_apps_manage">Gestisci app nascoste</string>
      <string name="privacy_apps_manage_dialog_title">A proposito delle app nascoste</string>
      <string name="privacy_apps_manager_dialog_message">"Per nascondere le app sarà necessario impostare un blocco schermo. Le notifiche per le app nascoste verranno disattivate. Intendi nascondere quest'app?"</string>
+     <string name="privacy_apps_next_stup">Next</string>
+     <string name="privacy_apps_shield_message_summary">"Don't show notifications for protected apps"</string>
+     <string name="privacy_apps_shield_message_title">"Don't show notifications"</string>
      <string name="privacy_apps_tutorial">Guida</string>
+     <string name="privacy_apps_tutorial_dlg_title">How to find hidden apps</string>
      <string name="privacy_apps_tutorial_prompt_pageone">"Quando nascondi un'app, questa viene spostata in una cartella nascosta. Ed il collegamento della schermata Home verrà nascosto bene.
 Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="privacy_apps_tutorial_prompt_pagethree">Dopo aver immesso la password, verrà visualizzata la cartella con le app nascoste.</string>
@@ -2175,6 +2184,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="status_bar_network_flow_purchase">"   Acquista &gt;"</string>
      <string name="status_bar_network_flow_setup_data_plan">"   Imposta piano dati &gt;"</string>
      <string name="still_retain_btn">Mantieni</string>
+     <string name="stop_milink_connect">Stopped casting</string>
      <string name="suggest_app_tolock">Suggerimenti</string>
      <string name="suggest_app_tolock_masked">Nascoste</string>
      <string name="suggest_app_tolock_unmasked">Notifiche visibili</string>
@@ -2260,13 +2270,20 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="system_app">App di sistema</string>
      <string name="system_application">App di sistema</string>
      <string name="system_permission_declare_agree">Agree</string>
+     <string name="system_permission_declare_disagree">Disagree</string>
      <string name="system_permission_declare_double_link"><Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using this feature.</Data></string>
      <string name="system_permission_declare_main_purpose" formatted="false">Welcome to %1s! This app allows you to use the following feature: %2s.</string>
      <string name="system_permission_declare_no_say_no">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work normally."</string>
      <string name="system_permission_declare_privacy_declare">"We respect and protect your peivacy.
 Note that %1s needs to collect your data and requires the following permissions to work normally:"</string>
-     <string name="system_permission_declare_revoke_path">You can uninstall this app, sign out of your account, or manage your permissions and authorization in Security > Manage apps > Permissions > Other permissions.</string>
+     <string name="system_permission_declare_privacy_no_permission">"Note that %1s needs to collect your data to work normally.
+We respect and protect your privacy."</string>
+     <string name="system_permission_declare_privacy_policy"><Data>Read and agree to our &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using this feature.</Data></string>
+     <string name="system_permission_declare_revoke_system">You can exit this app.</string>
+     <string name="system_permission_declare_revoke_uninstallable">You can uninstall this app or manage your permissions and authorization in Security > Manage apps > Permissions > Other permissions.</string>
      <string name="system_permission_declare_use_network">Connect to the network</string>
+     <string name="system_permission_declare_use_network_no_permission">Connect to the network</string>
+     <string name="system_permission_declare_user_agreement"><Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> before using this feature.</Data></string>
      <string name="system_permission_perm_answer_call">Make calls</string>
      <string name="system_permission_perm_read_mms">Read MMS</string>
      <string name="system_permission_perm_read_numbers">Read phone numbers</string>

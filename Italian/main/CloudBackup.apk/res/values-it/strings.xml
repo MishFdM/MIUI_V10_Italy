@@ -160,7 +160,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="provision_restore_data">Ripristino elementi</string>
      <string name="query_restore_description">"Ripristina le app sulla Schermata Home e le impostazioni con questo backup. Verranno sovrascritti i dati delle app già installate. Le app non incluse in questo backup verranno spostate nell'ultima schermata."</string>
      <string name="query_restore_summary">Trovato un backup su Mi Cloud per questo dispositivo. Vuoi utilizzare il backup o vuoi continuare configurando il dispositivo come nuovo e cancellare i backup precedenti su Mi Cloud?</string>
-     <string name="recover_from_micloud">Ripristina utilizzando Mi Cloud</string>
      <string name="recover_home_settings">Ripristino impostazioni Home</string>
      <string name="recover_miui_settings">Ripristina le impostazioni di sistema MIUI</string>
      <string name="recover_settings_description">Non spegnere il dispositivo</string>
@@ -201,6 +200,7 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
      <string name="restore_task_in_process">Ripristino…</string>
      <string name="restore_task_unfinished">Impossibile ripristinare</string>
      <string name="restore_unfinished">Ripristino incompleto, riprova più tardi</string>
+     <string name="restoring_data">Restoring data…</string>
      <string name="restoring_file_title_no_progress">Ripristino file…</string>
      <string name="restoring_settings">Ripristino impostazioni…</string>
      <string name="retry">Riprova</string>
