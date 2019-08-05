@@ -875,7 +875,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="preload_empty">Ancora nessun elemento. Trascina in basso per aggiornare.</string>
      <string name="qq_new">Nuovo stato</string>
      <string name="qq_qzone">Qzone</string>
-     <string name="quick_app_setting_brief">Scorri in basso nell'Asisstente App per vedere le app rapide usate di recente</string>
+     <string name="quick_app_setting_brief">"Scorri in basso nell'Assistente App per vedere le app rapide usate di recente"</string>
      <string name="quick_app_setting_brief_detail">Mostra tutte le app rapide usate di recente</string>
      <string name="quick_app_title">App rapide recenti</string>
      <string name="quickstart_accessibility_description">Il servizio di Smart Assistant serve per fornire un supporto alle applicazioni di terzi, disattivandolo il servizio non funzionerà più correttamente.</string>
@@ -1030,7 +1030,6 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="sport">Sport</string>
      <string name="sport_headline">Attività del giorno</string>
      <string name="sport_open">Mostra scheda Mi Fit</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="step_cal_unit">Cal.</string>
      <string name="step_km">km</string>
      <string name="step_setting_tip">Origine informazioni passi</string>

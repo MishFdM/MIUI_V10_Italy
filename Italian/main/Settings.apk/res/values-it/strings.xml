@@ -1184,7 +1184,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="bt_ldac_open_dialog_title">Sei sicuro di voler attivare la funzionalità LDAC?</string>
      <string name="bt_ldac_pre_title">LDAC</string>
      <string name="bt_ldac_property">Attributi</string>
-     <string name="bt_lhdc_declaration">Quando un dispositivo Bluetooth supporta LHDC, verrà collegato automaticamente. LHDC fornisce un'esperienza audio di alta qualità, ma aumenta anche il consumo di batteria. Si potrebbero verificare errori durante la riproduzione a causa delle limitazioni hardware del Bluetooth.</string>
+     <string name="bt_lhdc_declaration">"Quando un dispositivo Bluetooth supporta LHDC, verrà collegato automaticamente. LHDC fornisce un'esperienza audio di alta qualità, ma aumenta anche il consumo di batteria. Si potrebbero verificare errori durante la riproduzione a causa delle limitazioni hardware del Bluetooth."</string>
      <string name="bt_lhdc_dialog_summary">"LHDC fornisce un'esperienza audio di alta qualità e comporta un maggiore consumo di batteria.
 Questa funzione può essere disattivata in [Settings]"</string>
      <string name="bt_lhdc_dialog_title">Il dispositivo corrente supporta LHDC, che è stato collegato automaticamente:</string>
