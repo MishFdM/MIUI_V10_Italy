@@ -1594,8 +1594,8 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
      <string name="dangerous_option_switch_title">Notifica funzionalità ad alto rischio</string>
      <string name="dark_color_mode">Modalità scura</string>
      <string name="dark_color_summary">Utilizza tavolozza di colori scuri per lo sfondo di sistema e le app compatibili</string>
-     <string name="dark_color_summary_lcd">"Usa una palette di colori più scura per gli sfondi di sistema e app compatibili. La modalità Scura diminuisce l'affaticaemnto della vista quando usi il dispositivo in ambiente non illuminato."</string>
-     <string name="dark_color_summary_oled">"Usa una palette di colori più scura per gli sfondi di sistema e app compatibili. La modalità Scura riduce il consmo e aiuta a diminuire l'affaticamento degli occhi."</string>
+     <string name="dark_color_summary_lcd">"Usa una palette di colori più scura per gli sfondi di sistema e app compatibili. La modalità Scura diminuisce l'affaticamento della vista quando usi il dispositivo in ambiente non illuminato."</string>
+     <string name="dark_color_summary_oled">"Usa una palette di colori più scura per gli sfondi di sistema e app compatibili. La modalità Scura riduce il consumo e aiuta a diminuire l'affaticamento degli occhi."</string>
      <string name="dark_ui_mode">Modalità notturna</string>
      <string name="dark_ui_mode_title">Imposta modalità notturna</string>
      <string name="dashboard_suggestion_condition_footer_content_description">Raggruppa</string>
