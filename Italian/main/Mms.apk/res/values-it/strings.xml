@@ -179,8 +179,8 @@
      <string name="dialog_message_rcs">China Mobile Messaging allows you to send messages to other China Mobile users without incurring charges. You must agree to \"%1$s\" before using China Mobile Messaging.</string>
      <string name="dialog_sim_locked_confirm">OK</string>
      <string name="dialog_sim_locked_message">"La tua SIM non è del tutto funzionante con questo telefono perché questo non è in linea con i termini e condizioni del tuo abbonamento. Per qualsaisi domanda o per maggiori informazioni sull'argomento, ti preghiamo di contattare i centri assistenza Xiaomi o il negozio dove hai acquistato il prodotto."</string>
-     <string name="dialog_smart_message_privacy_tips">Smart Messaging services are provided in part by Dianhuabang. Before using Smart Messaging, you must agree to \"%1$s\". Smart Messaging needs to connect to the internet and access your location to work normally. Agree?</string>
-     <string name="dialog_smart_message_privacy_tips_title">Dianhuabang Privacy Policy</string>
+     <string name="dialog_smart_message_privacy_tips">"I servizi Messaggi Smart sono forniti in parte da Dianhuabang. Prima di utilizzare Messaggi Smart, devi accettare \"%1$s\". Messaggi Samrt deve collegarsi ad Internet ed accedere alla tua posizione per funzionare correttamente. Sei d'accordo?"</string>
+     <string name="dialog_smart_message_privacy_tips_title">Informativa Privacy Dianhuabang</string>
      <string name="dialog_title_fake_cell_detect_error">Correzione</string>
      <string name="dialog_title_mx_rcs">Mi Message</string>
      <string name="dialog_title_networking">Termini e Condizioni</string>
@@ -498,7 +498,7 @@
      <string name="pref_summary_notification_body_enabled">"Mostra un'anteprima nella schermata di blocco e nella barra di stato"</string>
      <string name="pref_summary_off_system_mms_priority">"Utilizza un'applicazione di terze parti per inviare/ricevere messaggi"</string>
      <string name="pref_summary_on_system_mms_priority">"L'applicazione di sistema Messaggi riceverà messaggi per prima"</string>
-     <string name="pref_summary_privacy_authority">Toggle this switch to grant or revoke your authorization</string>
+     <string name="pref_summary_privacy_authority">"Usa queto comando per concedere o revocare l'autorizzazione"</string>
      <string name="pref_summary_send_delivery_reports">Invia rapporto di consegna per i messaggi ricevuti</string>
      <string name="pref_summary_wake_up_screen">Attiva lo schermo alla ricezione di un nuovo SMS</string>
      <string name="pref_switch_sdk_setting">Cambia servizio provider smart SMS</string>
@@ -517,14 +517,14 @@
      <string name="pref_title_mms_retrieval_during_national_roaming">Scarica il contenuto degli MMS in roaming nazionale</string>
      <string name="pref_title_mms_retrieval_during_roaming">Reinvio automatico in roaming</string>
      <string name="pref_title_mms_validity_period">Periodo di validità MMS</string>
-     <string name="pref_title_msg_blocked">Blocklist</string>
+     <string name="pref_title_msg_blocked">Lista blocchi</string>
      <string name="pref_title_notification_body_enabled">Mostra anteprima</string>
-     <string name="pref_title_privacy_authority">Authorization</string>
-     <string name="pref_title_privacy_policy_detail">Privacy Policy</string>
+     <string name="pref_title_privacy_authority">Autorizzazione</string>
+     <string name="pref_title_privacy_policy_detail">Informativa sulla Privacy</string>
      <string name="pref_title_ringtone_repeat">Frequenza avviso suoneria</string>
      <string name="pref_title_ringtone_repeat_summary">"Numero di notifiche sonore quando si riceve un SMS a schermo spento: "</string>
      <string name="pref_title_send_delivery_reports">Invia rapporto di consegna</string>
-     <string name="pref_title_smart_msg_privacy_policy">Smart Messaging Privacy Policy</string>
+     <string name="pref_title_smart_msg_privacy_policy">Informativa sulla Privacy Messaggi Smart</string>
      <string name="pref_title_sms_delete">Limite SMS</string>
      <string name="pref_title_sms_validity_period">Periodo di validità SMS</string>
      <string name="pref_title_storage_status">Stato memoria messaggi</string>
@@ -818,7 +818,7 @@
      <string name="to_address_label">"A: "</string>
      <string name="to_label">"A "</string>
      <string name="to_send_wrapper">Sarà inviato alle %s</string>
-     <string name="toast_failed_to_close_priv_auth">"Couldn't revoke authorization. Check your network settings and try again."</string>
+     <string name="toast_failed_to_close_priv_auth">"Impossibile revocare l'autorizzazione. Controlla le impostazioni di rete e prova di nuovo."</string>
      <string name="toast_pending_hangup_msg">Message will be sent after the call ends</string>
      <string name="today">Oggi</string>
      <string name="too_many_attachments">"C'è un limite di %1$s allegati. Verranno aggiunti solo i primi %2$s."</string>

@@ -169,12 +169,12 @@
         <item quantity="one">La password deve contenere almeno una lettera maiuscola</item>
      </plurals>
      <plurals name="lockpassword_password_too_long">
-        <item quantity="other">You can enter up to %d characters</item>
-        <item quantity="one">You can enter up to %d character</item>
+        <item quantity="other">Puoi inserire fino a %d caratteri</item>
+        <item quantity="one">Puoi inserire fino a %d carattere</item>
      </plurals>
      <plurals name="lockpassword_password_too_short">
-        <item quantity="other">Enter at least %d characters</item>
-        <item quantity="one">Enter at least %d character</item>
+        <item quantity="other">Inerisci almeno %d caratteri</item>
+        <item quantity="one">Inserisci almeno %d carattere</item>
      </plurals>
      <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">Il PIN deve essere di %d caratteri</item>

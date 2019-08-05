@@ -36,12 +36,12 @@
      <string name="abc_capital_on">ATTIVA</string>
      <string name="abc_menu_alt_shortcut_label">Alt+</string>
      <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-     <string name="abc_menu_delete_shortcut_label">delete</string>
-     <string name="abc_menu_enter_shortcut_label">enter</string>
-     <string name="abc_menu_function_shortcut_label">Function+</string>
+     <string name="abc_menu_delete_shortcut_label">cancella</string>
+     <string name="abc_menu_enter_shortcut_label">invio</string>
+     <string name="abc_menu_function_shortcut_label">Funzione+</string>
      <string name="abc_menu_meta_shortcut_label">Meta+</string>
      <string name="abc_menu_shift_shortcut_label">Shift+</string>
-     <string name="abc_menu_space_shortcut_label">space</string>
+     <string name="abc_menu_space_shortcut_label">spazio</string>
      <string name="abc_menu_sym_shortcut_label">Sym+</string>
      <string name="abc_prepend_shortcut_label">Menu+</string>
      <string name="abc_search_hint">Ricerca...</string>
@@ -108,12 +108,12 @@
      <string name="app_settings_enable_notification">Mostra notifiche</string>
      <string name="audio_paused_label">In pausa</string>
      <string name="audio_playing_label">In riproduzione</string>
-     <string name="auto_update_name">Auto updates</string>
-     <string name="auto_update_summary">Automatically update apps when connected to Wi-Fi.</string>
-     <string name="btn_close">Close</string>
+     <string name="auto_update_name">Aggiornamenti automatici</string>
+     <string name="auto_update_summary">Aggiorna automaticamente le app quando collegate a Wi-Fi.</string>
+     <string name="btn_close">Chiudi</string>
      <string name="button_ok">OK</string>
      <string name="card_load_failed">Caricamento scheda fallito!</string>
-     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+     <string name="character_counter_content_description">Limite caratteri superato %1$d su %2$d</string>
      <string name="character_counter_pattern">%1$d / %2$d</string>
      <string name="com_facebook_device_auth_instructions">Visita &lt;b>facebook.com/device&lt;/b> ed immetti il codice mostrato in basso.</string>
      <string name="com_facebook_image_download_unknown_error">"Errore imprevisto durante il download dell'immagine."</string>
@@ -145,7 +145,7 @@
      <string name="core_impl_dlg_shortcut_message_on_timing">Hai usato %1$s per più di 5 minuti. Crea un collegamento sulla Home per accedervi più velocemente.</string>
      <string name="core_impl_dlg_shortcut_title">Crea un collegamento in Home per  %1$s </string>
      <string name="create_shortcut">Installa collegamento</string>
-     <string name="crop_image_activity_no_permissions">Cancelling, required permissions are not granted</string>
+     <string name="crop_image_activity_no_permissions">Annullamento, i permessi richiesti non sono stati concessi</string>
      <string name="crop_image_activity_title" />
      <string name="crop_image_menu_crop">Taglia</string>
      <string name="crop_image_menu_flip">Capovolgi</string>
@@ -196,10 +196,10 @@
      <string name="features_picker_activity_menu_show_hidden_file">Mostra file nascosti</string>
      <string name="game_tip">"Rifiuta giochi rischiosi e proteggiti.
 Divertiti ma non diventare dipendente dai giochi."</string>
-     <string name="get_contactlist_tip">\"%1$s\"wants to get contact information.</string>
+     <string name="get_contactlist_tip">\"%1$s\"vuole leggere le informazioni di contatto.</string>
      <string name="h5_pay_dialog_title">Invio richiesta di pagamento su WeChat...</string>
-     <string name="hap_permission_ringtone_desc">set system ringtone</string>
-     <string name="hap_permission_step_counter_desc">get steps data</string>
+     <string name="hap_permission_ringtone_desc">imposta suoneria di sistema</string>
+     <string name="hap_permission_step_counter_desc">recupera i dati sui passi</string>
      <string name="hints_no_any_app">Non hai utilizzato alcuna app</string>
      <string name="inspector_unready">Attendi la connessione di DevTools</string>
      <string name="loading_fail_back">Indietro</string>
@@ -236,7 +236,7 @@ Tocca per riprovare."</string>
      <string name="menu_tv_share">Condividi</string>
      <string name="msg_camera_framework_bug">Spiacenti, la fotocamera Android ha riscontrato un problema. Potrebbe essere necessario riavviare il dispositivo.</string>
      <string name="msg_default_status">Posiziona un codice a barre nel riquadro viewfinder per leggerlo.</string>
-     <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
      <string name="mw_abc_action_bar_home_description">Vai alla home</string>
      <string name="mw_abc_action_bar_up_description">Navigate up</string>
      <string name="mw_abc_action_menu_overflow_description">Altre opzioni</string>
@@ -656,8 +656,8 @@ Are you sure you want to navigate away from this page?"</string>
      <string name="preview_share_failed">Condivisione fallita.</string>
      <string name="preview_share_to">Consividi con:</string>
      <string name="reject_all">Limita tutto</string>
-     <string name="resident_notification_channel_name">Running in the background</string>
-     <string name="resident_notification_desc">%s is running in the background.</string>
+     <string name="resident_notification_channel_name">In esecuzione in background</string>
+     <string name="resident_notification_desc">%s è in esecuzione background.</string>
      <string name="search_menu_title">Cerca</string>
      <string name="send_sms_tip">%1$s vuole inviarti un messaggio breve.</string>
      <string name="set_alarm_tip">\"%1$s\"vuole impostare un allarme.</string>

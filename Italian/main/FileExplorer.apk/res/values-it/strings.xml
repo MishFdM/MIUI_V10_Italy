@@ -50,9 +50,9 @@
      <string name="category_photo">Foto</string>
      <string name="category_picture">Immagini</string>
      <string name="category_recent">Recenti</string>
-     <string name="category_source">Source</string>
+     <string name="category_source">Fonte</string>
      <string name="category_theme">Temi</string>
-     <string name="category_time">Time</string>
+     <string name="category_time">Orario</string>
      <string name="category_type_document">Documenti</string>
      <string name="category_type_meida">Media</string>
      <string name="category_type_other">Altro</string>
@@ -73,7 +73,7 @@
      <string name="connection_lost">Disconnesso</string>
      <string name="copy_failed">Impossibile copiare</string>
      <string name="copy_to">Copia in…</string>
-     <string name="create_folder">Create</string>
+     <string name="create_folder">Creazione</string>
      <string name="create_shortcut_success">Collegamento aggiunto correttamente</string>
      <string name="data_consumption_cancel">Esci</string>
      <string name="data_consumption_checkbox_hint">Non mostrare più</string>
@@ -110,7 +110,7 @@
      <string name="dialog_type_video">Video</string>
      <string name="disk_available">Disponibile:</string>
      <string name="disk_total">Totale:</string>
-     <string name="doc_all">All</string>
+     <string name="doc_all">Tutto</string>
      <string name="doc_epub">EPUB</string>
      <string name="doc_pdf">PDF</string>
      <string name="doc_ppt">PPT</string>
@@ -177,7 +177,7 @@
      <string name="group_title_extra_expire">Per scadere</string>
      <string name="group_title_extra_new">Nuovo</string>
      <string name="home_action_up">Indietro</string>
-     <string name="home_title">Files</string>
+     <string name="home_title">File</string>
      <string name="homepage_tab_category">Categorie</string>
      <string name="homepage_tab_file_view_phone">Memoria</string>
      <string name="homepage_tab_recent">Recenti</string>
@@ -276,8 +276,8 @@
      <string name="operation_show_privacy_policy">Mostra informativa sulla privacy</string>
      <string name="operation_show_sys">Mostra file di sistema e cache</string>
      <string name="operation_unfavorite">Rimuovi dai Preferiti</string>
-     <string name="otg_file_security_confirm">copy to phone</string>
-     <string name="otg_file_security_details">Please copy to phone</string>
+     <string name="otg_file_security_confirm">copia nel telefono</string>
+     <string name="otg_file_security_details">Copia nel telefono</string>
      <string name="otg_file_security_note">OGTSecurity</string>
      <string name="overwrite_msg">\"%s\" è già esistente. Tocca per sostituirlo con il nuovo file.</string>
      <string name="pad">Memoria interna</string>
@@ -304,7 +304,7 @@
      <string name="pick_file">Seleziona file</string>
      <string name="pick_folder">Scegli cartella</string>
      <string name="port_range">"La porta deve essere compresa nell'intervallo 1024–65535"</string>
-     <string name="privacy_policy">Privacy Policy</string>
+     <string name="privacy_policy">Informativa sulla privacy</string>
      <string name="private_files">Nascosti</string>
      <string name="private_folder">Cartella nascosta</string>
      <string name="private_folder_no_file_hints">Tieni premuto sul file o la cartella per nasconderli.</string>
@@ -364,8 +364,8 @@
      <string name="smb_loading">Solo un attimo…</string>
      <string name="sort_size_asc">Dal più piccolo al più grande</string>
      <string name="sort_size_desc">Dal più grande al più piccolo</string>
-     <string name="start_doc">Files</string>
-     <string name="start_phone">Storage</string>
+     <string name="start_doc">File</string>
+     <string name="start_phone">Archiviazione</string>
      <string name="start_server">Avvia</string>
      <string name="stay_awake_summary">"Mantiene lo schermo attivo durante l'utilizzo di FTP"</string>
      <string name="stay_awake_title">Mantieni attivo</string>
@@ -377,7 +377,7 @@
      <string name="storage_usb">Archivio USB</string>
      <string name="storage_warning">Archiviazione esterna non disponibile.</string>
      <string name="sys_size_enable">" liberi"</string>
-     <string name="tab_app">More</string>
+     <string name="tab_app">Altro</string>
      <string name="tab_category">Cerca</string>
      <string name="tab_common_app">Applicazioni base</string>
      <string name="tab_explore">Scopri</string>
@@ -385,8 +385,8 @@
      <string name="tab_more">altro</string>
      <string name="tab_source">APP</string>
      <string name="terabyteShort">TB</string>
-     <string name="text_select_all">Select all</string>
-     <string name="text_select_nothing">Deselect all</string>
+     <string name="text_select_all">Seleziona tutto</string>
+     <string name="text_select_nothing">Deseleziona tutto</string>
      <string name="tip">Attenzione</string>
      <string name="title_app_tags">Applicazioni</string>
      <string name="title_enable_documentsui">Attiva DocumentsUI</string>

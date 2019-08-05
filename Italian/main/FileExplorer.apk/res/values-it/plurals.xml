@@ -165,9 +165,9 @@
         <item quantity="many">Tag %1$s file associati (%2$d elementi)</item>
      </plurals>
      <plurals name="text_group_count">
-        <item quantity="other">%d items</item>
-        <item quantity="zero"> %1$d items</item>
-        <item quantity="one">%d item</item>
+        <item quantity="other">%d elementi</item>
+        <item quantity="zero"> %1$d elementi</item>
+        <item quantity="one">%d elemento</item>
      </plurals>
      <plurals name="total_topic_num">
         <item quantity="other">%1$s argomenti</item>

@@ -200,7 +200,7 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
      <string name="restore_task_in_process">Ripristino…</string>
      <string name="restore_task_unfinished">Impossibile ripristinare</string>
      <string name="restore_unfinished">Ripristino incompleto, riprova più tardi</string>
-     <string name="restoring_data">Restoring data…</string>
+     <string name="restoring_data">Ripristino dati…</string>
      <string name="restoring_file_title_no_progress">Ripristino file…</string>
      <string name="restoring_settings">Ripristino impostazioni…</string>
      <string name="retry">Riprova</string>

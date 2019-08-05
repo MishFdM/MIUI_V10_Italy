@@ -565,13 +565,13 @@ Frequenza Campione"</string>
      <string name="change_pin_system_error">Impossibile impostare il PIN</string>
      <string name="change_pin_title">Cambia il PIN della segreteria</string>
      <string name="charge_length_format">%1$s ago</string>
-     <string name="china_mobile_palm_category">Operator Service</string>
+     <string name="china_mobile_palm_category">Servizio operatore</string>
      <string name="china_mobile_palm_title">CMCC Online Service Hall</string>
      <string name="choose_network_title">Scegli rete</string>
      <string name="choose_profile">Scegli profilo</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debug USB</string>
-     <string name="clear_all_set_button">clear setting</string>
-     <string name="clear_all_set_title">this button is for clear all setting</string>
+     <string name="clear_all_set_button">cancella impostazioni</string>
+     <string name="clear_all_set_title">questo tasto serve per cancellare tutte le impostazioni</string>
      <string name="clh_callFailed_ACM_equal_to_or_greater_than_ACMmax_txt">ACM uguale o maggiore di ACMmax</string>
      <string name="clh_callFailed_access_information_discarded_txt">Informazioni di accesso rifiutate</string>
      <string name="clh_callFailed_bearer_capability_not_authorized_txt">Capactà di trasporto non autorizzata</string>
@@ -882,8 +882,8 @@ Frequenza Campione"</string>
      <string name="entertainment_news_settings">Notizie su intrattenimento e svago</string>
      <string name="eo_disable">Opportunità di lavoro disattivate</string>
      <string name="eo_enable">Opportunità di lavoro attivate</string>
-     <string name="eps_only_set_button">set eps only</string>
-     <string name="eps_only_set_title">this button is for setting eps only</string>
+     <string name="eps_only_set_button">imposta solo eps</string>
+     <string name="eps_only_set_title">questo tasto serve per impostare solo eps</string>
      <string name="error_updating_title">Errore impostazioni chiamate</string>
      <string name="exception_error">Errore di rete o della carta SIM.</string>
      <string name="expand_button_title">Avanzate</string>
@@ -945,7 +945,7 @@ Frequenza Campione"</string>
      <string name="force_resizable_activities_summary">Rendi tutte le attività ridimensionabili per il multi-finestra, senza considerare i valori del manifest.</string>
      <string name="force_rtl_layout_all_locales">Forza direzione layout RTL</string>
      <string name="force_rtl_layout_all_locales_summary">Direzione layout schermo RTL per tutte le lingue</string>
-     <string name="frequecy_num">lte channel num</string>
+     <string name="frequecy_num">nume canale lte</string>
      <string name="fw_change_failed">"Impossibile modificare il numero a cui inoltrare le chiamate.
 Contatta il tuo operatore se questo problema persiste."</string>
      <string name="fw_get_in_vm_failed">"Impossibile recuperare e salvare l'attuale impostazione del numero a cui inoltrare le chiamate.
@@ -1082,9 +1082,9 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="local_weather_enable">Meteo locale attivato</string>
      <string name="lodgings_disable">Alloggi disattivate</string>
      <string name="lodgings_enable">Alloggi attivate</string>
-     <string name="lte_band_sel_setting">band list</string>
-     <string name="lte_band_set_status">lte band set</string>
-     <string name="lte_freq_set_button">set freq and pci</string>
+     <string name="lte_band_sel_setting">lista bande</string>
+     <string name="lte_band_set_status">impostazione bande lte</string>
+     <string name="lte_freq_set_button">imposta freq e pci</string>
      <string name="maintenance_disable">Notizie sulla manutenzione disattivate</string>
      <string name="maintenance_enable">Notizie sulla manutenzione attivate</string>
      <string name="manageConferenceLabel">Gestisci chiamata conferenza</string>
@@ -1152,10 +1152,10 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="mock_location_app_set">Imitazione locazione app: %1$s</string>
      <string name="modem_dialog_body">La rete mobile non è stabile, causa interruzioni o problemi di rete.Inviare una segnalazione a Mi analizzarla? Questa segnalazione potrebbe contenere informazioni sui dati personali. Il tuo rapporto verrà utilizzato unicamente per la risoluzione del problema e non verrà mai condiviso a scopi commerciali.</string>
      <string name="modem_dialog_title">La rete mobile non è stabile</string>
-     <string name="modem_set_title">MODEM SETTING</string>
-     <string name="modem_setting_button_title">Enter into setting manu</string>
-     <string name="modem_setting_info">MODEM SETTING INFO</string>
-     <string name="modem_setting_text_title">modem test property setting</string>
+     <string name="modem_set_title">IMPOSTAZIONI MODEM</string>
+     <string name="modem_setting_button_title">inserisci nel menu impostazioni</string>
+     <string name="modem_setting_info">INFO IMPOSTAZIONI MODEM</string>
+     <string name="modem_setting_text_title">impostazioni proprietà test modem</string>
      <string name="msim_apn_not_set">Non impostato</string>
      <string name="msim_cmcc_dds_switch_not_support">Impossibile invertire schede SIM a causa di restrizioni del gestore.</string>
      <string name="msim_default_setting">Impostazioni predefinite</string>

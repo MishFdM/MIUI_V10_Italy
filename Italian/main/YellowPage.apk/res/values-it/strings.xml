@@ -52,7 +52,7 @@
      <string name="callrecordview_item_op_time_short_incoming">"In entrata: "</string>
      <string name="callrecordview_item_op_time_short_outgoing">"In uscita: "</string>
      <string name="check_network">Mostra impostazioni di rete</string>
-     <string name="china_mobile_notice_msg">"CMCC Online Service Hall is powered by China Mobile. Before using this service, you must agree to %1$s and %2$s. CMCC Online Service Hall needs to connect to the internet and access your device's IMEI to work normally. Agree?"</string>
+     <string name="china_mobile_notice_msg">"CMCC Online Service Hall è supportato da China Mobile. Prima di usare questo servizio, devi accettare %1$s e %2$s. CMCC Online Service Hall deve collegarsi ad internet ed accedere al codice IMEI del tuo dispositivo per funzionare correttamente. Accetti?"</string>
      <string name="china_mobile_palm_hall">CMCC Online Service Hall</string>
      <string name="choose_upload">Scegli il file da caricare</string>
      <string name="colon">": "</string>
@@ -288,7 +288,7 @@ Totale: RMB%3$s"</string>
      <string name="remind_user_suspect_number_message">Alcuni criminali possono rubare le identità di altre persone per compiere truffe, se non sei sicuro/a, richiama per sicurezza. Banche, attività di e-commerce e corrieri non chiedono chiedono password o dati bancari</string>
      <string name="remind_user_suspect_number_title">Fai attenzione alle telefonate fraudolente</string>
      <string name="report_inquiry_mms">SegnalaSMS</string>
-     <string name="request_error">A server error occurred</string>
+     <string name="request_error">Si è verificto un errore del server</string>
      <string name="rmb">RMB</string>
      <string name="scan">Scansiona</string>
      <string name="search_input_hint">Puoi cercare numeri di telefono o servizi</string>

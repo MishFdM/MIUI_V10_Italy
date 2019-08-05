@@ -271,26 +271,26 @@
         <item>Migliore possibile (Bit Rate adattivo)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
-        <item>Short latency</item>
-        <item>Middle latency</item>
-        <item>Long latency</item>
+        <item>Bassa latenza</item>
+        <item>Media latenza</item>
+        <item>Forte latenza</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
-        <item>Short latency (50~100ms)</item>
-        <item>Middle latency (150~200ms)</item>
-        <item>Long latency (300~500ms)</item>
+        <item>Bassa latenza (50~100ms)</item>
+        <item>Media latenza (150~200ms)</item>
+        <item>Forte latenza (300~500ms)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-        <item>Optimized for Connection Quality</item>
-        <item>Balanced Audio And Connection Quality</item>
-        <item>Optimized for Audio Quality</item>
-        <item>Best Effort (Auto Bit Rate)</item>
+        <item>Ottimizzato per qualità di connessione</item>
+        <item>Bilanciato tra audio e qualità connessione</item>
+        <item>Ottimizzato per la qualità audio</item>
+        <item>Miglior resa (Bit Rate Automatico)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Optimized for Connection Quality (400kbps)</item>
-        <item>Balanced Audio And Connection Quality (500/560kbps)</item>
-        <item>Optimized for Audio Quality (900kbps)</item>
-        <item>Best Effort (Auto Bit Rate)</item>
+        <item>Ottimizzato per qualità di connessione (400kbps)</item>
+        <item>Bilanciato tra audio e qualità connessione (500/560kbps)</item>
+        <item>Ottimizzato per la qualità audio (900kbps)</item>
+        <item>Miglior resa (Bit Rate Automatico)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Usa selezione di sistema (predefinito)</item>
@@ -1550,9 +1550,9 @@
         <item>Alto</item>
      </string-array>
      <string-array name="wide_notch_battery_indicator_style_entries">
-        <item>Graphical</item>
-        <item>Percentage (in the icon)</item>
-        <item>Percentage (next to the icon in the Notification shade)</item>
+        <item>Grafico</item>
+        <item>"Percentuale (nell'icona)"</item>
+        <item>"Percentuale (vicino all'icona nel pannello delle notifiche)"</item>
      </string-array>
      <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi preferita</item>
