@@ -1369,7 +1369,9 @@ Si potrebbero verificare errori durante la riproduzione a causa delle limitazion
      <string name="color_led_applications_title">Seleziona app</string>
      <string name="color_led_applications_title_summary">Puoi limitare usando la luce LED per app individuali</string>
      <string name="color_led_battery_title">Mantieni durante la carica</string>
+     <string name="color_led_charging_summary">Will be turned off when the battery is charged</string>
      <string name="color_led_end_time">Orario di fine</string>
+     <string name="color_led_game_mode_summary">Show effects for games when Game Turbo is on</string>
      <string name="color_led_game_mode_title">Game Turbo</string>
      <string name="color_led_hint">"Seleziona lo scenario della luce LED che dovrebbe essere utilizzata. La luce del LED si accenderà quando lo schermo è rivolto verso il basso e la modalità anti disturbo è disattivata."</string>
      <string name="color_led_incall_pulse_title">Lampeggia per le chiamate ricevute</string>
@@ -1380,7 +1382,10 @@ Si potrebbero verificare errori durante la riproduzione a causa delle limitazion
      <string name="color_led_notification_pulse_title">Pulsa per le notifiche</string>
      <string name="color_led_red_more_feature">Effetti speciali</string>
      <string name="color_led_red_package_title">Buste rosse</string>
+     <string name="color_led_red_packets_summary">Show effects for red envelopes from WeChat and QQ when Red envelope assistant is on</string>
+     <string name="color_led_special_scene_title">Special effects</string>
      <string name="color_led_start_time">Orario di avvio</string>
+     <string name="color_led_summary">"Doesn't work in DND mode"</string>
      <string name="color_led_title">Luce LED</string>
      <string name="color_magenta">Magenta</string>
      <string name="color_mode_option_automatic">Automatico</string>
@@ -3309,6 +3314,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="mi_service">Mi Service</string>
      <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
      <string name="mi_shopping_mall">Mi Store</string>
+     <string name="mi_transfer">Mi Mover</string>
      <string name="mi_upi_settings">Mi Pay Account</string>
      <string name="mipush_fake_channel_group_name">Mi Push</string>
      <string name="misc_files">File vari</string>
@@ -6934,17 +6940,10 @@ La memorizzazione delle credenziali potrebbe non essere stata attivata"</string>
      <string name="wifi_wps_setup_title">Imposta protezione Wi-Fi</string>
      <string name="window_animation_scale_title">Scala animazione finestra</string>
      <string name="winscope_trace_quick_settings_title">Traccia Winscope</string>
-     <string name="wireless_button">Carica senza fili altri dispositivi</string>
-     <string name="wireless_charging_settings">Carica senza fili altri dispositivi</string>
-     <string name="wireless_closed">Disattivato</string>
      <string name="wireless_connected">Connesso</string>
      <string name="wireless_networks_settings_title">Wireless e reti</string>
      <string name="wireless_off">Disattivato</string>
      <string name="wireless_on">Attivato</string>
-     <string name="wireless_opened">Attivato</string>
-     <string name="wireless_tip">"Usa il tuo telefono per caricare senza fili altri dispositivi.
-
-Questa funzione verrà disattivat automaicamente se la carica non verrà avviata entro 90 secondi."</string>
      <string name="wizard_back">Indietro</string>
      <string name="wizard_finish">Fine</string>
      <string name="wizard_next">Avanti</string>

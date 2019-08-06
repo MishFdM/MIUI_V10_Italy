@@ -79,7 +79,7 @@
      <string name="error_send_empty_note_to_weibo">Impossibile inviare una nota vuota su Weibo</string>
      <string name="error_unsupport_content">Nella nota è presente un contenuto non supportato, premi per aggiornare il sistema</string>
      <string name="error_widget_exist_for_send_to_desktop">Questa nota è già presente sulla Home</string>
-     <string name="exceed_todo_text_limitation">"La descrizione dell'ooperazione è troppo lunga".</string>
+     <string name="exceed_todo_text_limitation">""La descrizione dell'ooperazione è troppo lunga"."</string>
      <string name="first_enter_custom_folder_hint">Puoi rinominare o eliminare le cartelle</string>
      <string name="fmt_chinese_date">N e</string>
      <string name="folder_exist">Esiste già una cartella con lo stesso nome</string>
@@ -266,7 +266,6 @@ Consenti di registrare audio."</string>
      <string name="todo_schedule_time_mdhm">MM/dd HH:mm</string>
      <string name="todo_schedule_time_today">Today</string>
      <string name="todo_schedule_time_tomorrow">Domani</string>
-     <string name="todo_schedule_time_y">yyyy/</string>
      <string name="todo_schedule_time_yesterday">Ieri</string>
      <string name="todo_schedule_time_ymdhm">MM/dd/yyyy HH:mm</string>
      <string name="todo_search_hint">Ricerca operazioni</string>

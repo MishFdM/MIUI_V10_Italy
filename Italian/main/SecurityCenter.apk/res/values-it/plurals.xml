@@ -288,13 +288,29 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%s miuti rimanenti</item>
         <item quantity="one">%s minuto rimanente</item>
      </plurals>
+     <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d hours remaining</item>
+        <item quantity="one">%d hour remaining</item>
+     </plurals>
+     <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d minutes remaining</item>
+        <item quantity="one">%d minute remaining</item>
+     </plurals>
+     <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d minutes since last charge</item>
+        <item quantity="one">%d minute since last charge</item>
+     </plurals>
+     <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d seconds since last charge</item>
+        <item quantity="one">%d second since last charge</item>
+     </plurals>
      <plurals name="people">
         <item quantity="other">Scaricato da %1$d persone</item>
-		<item quantity="one">Scaricato da %1$d persona</item>
+        <item quantity="one">Scaricato da %1$d persona</item>
      </plurals>
      <plurals name="people_million">
         <item quantity="other">Scaricato da %1$d persone</item>
-		<item quantity="one">Scaricato da %1$d persona</item>
+        <item quantity="one">Scaricato da %1$d persona</item>
      </plurals>
      <plurals name="power_center_battery_day">
         <item quantity="other">"%d giorni "</item>
