@@ -108,7 +108,7 @@
      <string name="gps">Naviga</string>
      <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
      <string name="import_contact">Importa contatti</string>
-     <string name="impunity_declaration_content">"Scanner needs to use your camera and process the images you take while using the app. Don't use Scanner to take photos of the objects containing your personal information. By tapping \"Agree\", you're agreeing to our <font color="#ff32b4ff"><a href="http://privacy.mi.com/all/%1$s">Privacy Policy</a></font> and allow Scanner to connect to the internet."</string>
+     <string name="impunity_declaration_content">"Lo Scanner deve utilizzare la fotocamera ed elaborare le immagini scattate durante l'utilizzo dell'app. Non utilizzarlo per scattare foto su oggetti contenenti le informazioni personali. Premi su \"Concordo\", se stai accettando &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\">l'Informativa sulla Privacy&lt;/a>&lt;/font>  e consenti allo Scanner di utilizzare la connessione internet."</string>
 	 <string name="impunity_declaration_negative_text">Esci</string>
      <string name="impunity_declaration_title">Termini di servizio</string>
      <string name="jd_shopping_title">Search on JD</string>
