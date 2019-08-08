@@ -5,7 +5,7 @@
      <string name="ad_download">Scaricate</string>
      <string name="add_private">Aggiungi file alle cartelle nascoste</string>
      <string name="add_private_files">Aggiungi file</string>
-     <string name="app_function">Manage files on your device</string>
+     <string name="app_function">Gestisci i file sul tuo dispositivo</string>
      <string name="app_name_bluetooth">Bluetooth</string>
      <string name="app_name_camera">Fotocamera</string>
      <string name="app_name_downloadedrom">Pacchetti</string>
@@ -132,7 +132,7 @@
      <string name="error_create_dir">Impossibile creare la cartella</string>
      <string name="error_create_file">Impossibile creare il file</string>
      <string name="error_delete_failed">Impossibile eliminare il file</string>
-     <string name="error_file_already_exists">This file already exists</string>
+     <string name="error_file_already_exists">Questo file è già esistente</string>
      <string name="error_filename_too_long">Nome troppo lungo</string>
      <string name="error_folder_already_exists">Il file è già esistente</string>
      <string name="error_info_cant_send_folder">La cartella non può essere trasferita</string>
@@ -171,9 +171,9 @@
      <string name="ftp_transfer_secure">Trasferimento FTP sicuro</string>
      <string name="ftp_username_and_passworld">Nome utente e password</string>
      <string name="ftp_username_hint">Nome utente</string>
-     <string name="function_file_operation">"For accessing and opening files; "</string>
-     <string name="function_set_private">"For viewing and encrypting files; "</string>
-     <string name="function_use_imei">"For accessing IMEI and encrypting files; "</string>
+     <string name="function_file_operation">"Per accesso e apertura file; "</string>
+     <string name="function_set_private">"Per visualizzazione e crittografia file; "</string>
+     <string name="function_use_imei">"Per accesso IMEI e crittografia file; "</string>
      <string name="gbk_summary">Codifica che migliora la visualizzazione del testo cinese semplificato</string>
      <string name="gbk_title">GBK</string>
      <string name="gigabyteShort">GB</string>

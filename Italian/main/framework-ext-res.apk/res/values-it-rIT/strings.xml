@@ -25,7 +25,7 @@
      <string name="autofill_save_ok">Consenti</string>
      <string name="autofill_save_sub_message">"Potrai gestire le password salvate in Impostaizoni > Impostazioni aggiuntive > Privacy > %s."</string>
      <string name="autofill_save_title">Salva automaticamente le password</string>
-     <string name="autofill_service_name">Manage passwords</string>
+     <string name="autofill_service_name">Gestione password</string>
      <string name="button_text_cancel">Annulla</string>
      <string name="button_text_delete">Elimina</string>
      <string name="button_text_delete_timer">Elimina (%d)</string>

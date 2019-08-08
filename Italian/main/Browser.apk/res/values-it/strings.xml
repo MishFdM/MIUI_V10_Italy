@@ -188,12 +188,12 @@
      <string name="cancle_sync_cloud_tabs">Annulla sincronizzazione</string>
      <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
      <string name="cast_video">Streaming video</string>
-     <string name="channel_complete">Complete</string>
-     <string name="channel_edit">Edit</string>
-     <string name="channel_header_description">Click into,long press edit</string>
-     <string name="channel_header_title">My Channel</string>
-     <string name="channel_more_description">Click to add channel</string>
-     <string name="channel_more_title">More Channel</string>
+     <string name="channel_complete">Completa</string>
+     <string name="channel_edit">Modifica</string>
+     <string name="channel_header_description">Tocca,tieni premuto e modifica</string>
+     <string name="channel_header_title">Il mio canale</string>
+     <string name="channel_more_description">Tocca per aggiungere il canale</string>
+     <string name="channel_more_title">Altri canali</string>
      <string name="check_security_tip_privacy_policy">Informativa sulla Privacy</string>
      <string name="check_security_tip_user_agreement">Accordo Utente</string>
      <string name="checking_now">Verifica in corso...</string>
@@ -540,7 +540,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="more_option">Altre opzioni</string>
      <string name="movie_player_3g_tip_retry">Continua</string>
      <string name="movie_player_loading">In arrivo：%s</string>
-     <string name="multi_window_max_tips">The number of windows has reached the upper limit</string>
+     <string name="multi_window_max_tips">Il numero delle finestre ha raggiunto il imite</string>
      <string name="mw_accessibility_date_picker_month">Mese</string>
      <string name="mw_accessibility_date_picker_week">Settimana</string>
      <string name="mw_accessibility_date_picker_year">Anno</string>
@@ -845,7 +845,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_notifications_title">Notifiche</string>
      <string name="pref_other_title">Altro</string>
      <string name="pref_paper_mode_title">Modalità lettura</string>
-     <string name="pref_personalized_customization">Personalized customization</string>
+     <string name="pref_personalized_customization">Mofifica personalizzata</string>
      <string name="pref_privacy_clear_cache">Cancella cache</string>
      <string name="pref_privacy_clear_cache_dlg">Eliminare i contenuti e i database memorizzati localmente nella cache?</string>
      <string name="pref_privacy_clear_cache_summary">Cancella i contenuti e i database memorizzati localmente nella cache</string>

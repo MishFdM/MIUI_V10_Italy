@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">1 ora fa</item>
      </plurals>
      <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">1 ora fa</item>
      </plurals>
      <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">"Mezz'ora fa"</item>
      </plurals>
      <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">Tra 1 ora</item>
      </plurals>
      <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">"Tea mezz'ora"</item>
      </plurals>
      <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Immediatamente</item>
      </plurals>
      <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">tra %d min</item>
+        <item quantity="one">tra 1 min</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Poco fa</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">%d min fa</item>
+        <item quantity="one">1 min fa</item>
      </plurals>
      <plurals name="add_secret_ensure_message">
         <item quantity="other">Nascondere questi file?</item>
@@ -110,8 +110,8 @@
         <item quantity="one">Salvare %d foto selezionata ed eliminare le restanti?</item>
      </plurals>
      <plurals name="burst_save_confirm_dialog_title">
-        <item quantity="other">Delete %d photos</item>
-        <item quantity="one">Delete %d photo</item>
+        <item quantity="other">Elimina %d foto</item>
+        <item quantity="one">Elimina %d foto</item>
      </plurals>
      <plurals name="burst_save_selected">
         <item quantity="other">Salva le %d foto selezionate</item>
@@ -150,8 +150,8 @@
         <item quantity="one">Eliminare %d foto multipla da Mi Cloud e da questo dispositivo?</item>
      </plurals>
      <plurals name="delete_finish_format">
-        <item quantity="other">%d items deleted</item>
-        <item quantity="one">%d item deleted</item>
+        <item quantity="other">%d elementi eliminati</item>
+        <item quantity="one">%d elemento eliminato</item>
      </plurals>
      <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">Eliminare %d elementi da tutti i dispositivi e Mi Cloud?</item>
@@ -214,27 +214,27 @@
         <item quantity="one">Una foto saltata perché impossibile visualizzare.</item>
      </plurals>
      <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">"Mezz'ora fa"</item>
      </plurals>
      <plurals name="in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">Tra 1 ora</item>
      </plurals>
      <plurals name="in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">"Tra mezz'ora"</item>
      </plurals>
      <plurals name="in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">Subito</item>
      </plurals>
      <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
      </plurals>
      <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">Poco fa</item>
      </plurals>
      <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
      </plurals>
      <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d elementi in attesa di sincronizzazione</item>
