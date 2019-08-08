@@ -1382,7 +1382,7 @@ Si potrebbero verificare errori durante la riproduzione a causa delle limitazion
      <string name="color_led_notification_pulse_title">Pulsa per le notifiche</string>
      <string name="color_led_red_more_feature">Effetti speciali</string>
      <string name="color_led_red_package_title">Buste rosse</string>
-     <string name="color_led_red_packets_summary">Mostra gli effetti per l'assistente per WeChat e QQ quando Assistente Busta Rossa è attivo</string>
+     <string name="color_led_red_packets_summary">"Mostra gli effetti per l'assistente per WeChat e QQ quando Assistente Busta Rossa è attivo"</string>
      <string name="color_led_special_scene_title">Effetti speciali</string>
      <string name="color_led_start_time">Orario di avvio</string>
      <string name="color_led_summary">Non funziona in modalità DND</string>
