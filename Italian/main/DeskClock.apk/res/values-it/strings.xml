@@ -32,6 +32,7 @@
      <string name="alarm_notify_snooze_label">%s (sospesa)</string>
      <string name="alarm_notify_text">Sospendi o disattiva questa sveglia.</string>
      <string name="alarm_repeat">Ripetizione</string>
+     <string name="alarm_ringtone">Alarm ringtones</string>
      <string name="alarm_settings">Impostazioni Sveglia</string>
      <string name="alarm_settings_category_title">Impostazioni sveglia</string>
      <string name="alarm_vibrate">Vibrazione</string>
@@ -57,6 +58,7 @@
      <string name="clock_bg_button_setting_title">Colore di sfondo</string>
      <string name="close_alarm">Disattiva</string>
      <string name="common_settings">Impostazioni</string>
+     <string name="confirm">Confirm</string>
      <string name="confirm_abort">Annullare</string>
      <string name="content_desc_keep_screen">Pulsante \"Mantieni schermo attivo\"</string>
      <string name="control_set_alarm">Imposta sveglia</string>
@@ -121,8 +123,11 @@
      <string name="life_post_setting">Riepilogo mattutino</string>
      <string name="life_post_setting_FBE_remind">A causa di una restrizione del sistema, le informazioni meteo potrebbero non essere visualizzate correttamente dopo il riavvio</string>
      <string name="life_post_setting_close_title">Chiudi riepilogo mattutino</string>
+     <string name="life_post_setting_open_background_subtitle">Show background images for related alarms</string>
+     <string name="life_post_setting_open_background_title">Show background image</string>
      <string name="life_post_setting_open_desc">Disattiva la ripetizione delle sveglie tra le 04:00 e le 10:00 AM per ascoltare le previsioi meteo</string>
      <string name="life_post_setting_open_subtitle">Ricevi informazioni sul meteo alla disattivazione delle sveglie tra le 4:00 e le 9:30</string>
+     <string name="life_post_setting_open_summary">Include weather info in the first alarm turned off between 4:00 and 10:00</string>
      <string name="life_post_setting_open_title">Ricevi riepiloghi mattutini</string>
      <string name="life_post_setting_wake_up_list_title">Cronologia risvegli</string>
      <string name="life_post_wake_up_acumu_day_title">Conteggio giorni</string>
@@ -134,6 +139,7 @@
      <string name="life_post_weather_invalid">Impossibile recuperare informazioni meteo, tocca per riprovare</string>
      <string name="life_post_weather_no_network">Collegati alla rete per aggiornare le informazioni meteo</string>
      <string name="life_post_weather_temperature_centigrade">°</string>
+     <string name="listen_news_privacy"><Data>In order to provide personalized services and include morning news into your alarms, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &lt;a href= %1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
      <string name="loading_ringtone">Caricamento suoneria…</string>
      <string name="menu_add_worldclock">Fuso orario</string>
      <string name="menu_desk_clock">Orologio</string>
@@ -141,12 +147,16 @@
      <string name="menu_item_dock_settings">Impostazioni dock</string>
      <string name="menu_item_sort_by_gmt_offset">Ordina per data</string>
      <string name="menu_item_sort_by_name">Ordina per nome</string>
+     <string name="module_dialog_negative">"Don't agree"</string>
+     <string name="module_dialog_neutral">Got it</string>
+     <string name="module_dialog_positive">Agree</string>
      <string name="module_download_cancel">Non ora</string>
      <string name="module_download_data_msg">"Per rendere disponibili le sveglie intelligenti, i suoni della natura e le sveglie di compleanno, l'orologio dovrà connettersi ad Internet e accedere ai tuoi contatti. Dovrai anche scaricare ulteriore audio. Utilizzare i dati mobili per scaricare altro audio? ""</string>
      <string name="module_download_data_msg_golbal">"Per rendere disponibili le sveglie intelligenti ed i suoni della natura, l'orologio dovrà scaricare ulteriore audio. Utilizzare i dati mobili per scaricare altro audio?"</string>
      <string name="module_download_data_msg_replace">"E' disponibile un aggiornamento audio per le sveglie intelligenti (≈20MB). Collegarsi alla rete e scaricare tramite rete dati mobile?"</string>
      <string name="module_download_data_msg_timer">"L'oroglogio deve scaricare file audio per le sveglie con i suoni ambientali. Sono richiesti ≈20MB di dati su rete mobile per questo download. Scaricare adesso?"</string>
      <string name="module_download_fail">Impossibile scaricare audio addizionale</string>
+     <string name="module_download_failure">"Couldn't download audio. Check your network settings and try again."</string>
      <string name="module_download_msg">"Per rendere disponibili le sveglie intelligenti, i suoni della natura e le sveglie di compleanno, l'orologio dovrà connettersi ad Internet e accedere ai tuoi contatti. Dovrai anche scaricare ulteriore audio. Procedere?"</string>
      <string name="module_download_msg_golbal">"Per rendere disponibili le sveglie intelligenti ed i suoni della natura, l'orologio dovrà scaricare ulteriore audio. Procedere?"</string>
      <string name="module_download_msg_replace">"E' disponibile un aggiornamento audio per le sveglie intelligenti. Collegarsi alla rete e scaricare adesso?"</string>
@@ -158,9 +168,30 @@
      <string name="module_downloading">Scaricamento audio addizionali…</string>
      <string name="module_update_success">"L'audio aggiornato per le sveglie intelligenti MIUI è stato scaricato correttamente. Puoi impostare le sveglie intelligenti MIUI nelle impostazione dell'Orologio."</string>
      <string name="module_update_success_control">Ho capito</string>
+     <string name="module_weather_ringtone_download_data">Weather alarm selects different ringtones according to the current weather. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
+     <string name="module_weather_ringtone_download_data_privacy"><Data>Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download ≈30MB of audio. Before using Clock, you must also read and agree to our &lt;a href= %1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
+     <string name="module_weather_ringtone_download_wifi">Weather alarm selects different ringtones according to the current weather. Clock needs to download audio to make it work. Download now?</string>
+     <string name="module_weather_ringtone_download_wifi_privacy"><Data>Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &lt;a href= %1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
+     <string name="module_weather_ringtone_introduce">Weather alarm selects different ringtones according to the current weather. It also allows you to listen to the current weather info in the morning.</string>
+     <string name="module_weather_ringtone_introduce_global">Weather alarm selects different ringtones according to the current weather.</string>
+     <string name="module_weather_ringtone_update_data">Weather alarm now comes with background music and better voice announcements. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
+     <string name="module_weather_ringtone_update_success">Weather alarm now comes with background music and better voice announcements. You can create a new alarm to try this feature.</string>
+     <string name="module_week_ringtone_download_data">Weekly alarm plays different sounds of nature every day of the week. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
+     <string name="module_week_ringtone_download_data_privacy"><Data>Weekly alarm plays different sounds of nature every day of the week. Clock needs to connect to the internet to download ≈30MB of audio. Before using Clock, you must also read and agree to our &lt;a href= %1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
+     <string name="module_week_ringtone_download_wifi">Weekly alarm plays different sounds of nature every day of the week. Clock needs to download audio to make it work. Download now?</string>
+     <string name="module_week_ringtone_download_wifi_privacy"><Data>Weekly alarm plays different sounds of nature every day of the week. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &lt;a href= %1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
+     <string name="module_week_ringtone_introduce">Weekly alarm plays different sounds of nature every day of the week.</string>
+     <string name="module_week_ringtone_update_data">Weekly alarm plays different sounds of nature every day of the week. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
+     <string name="module_week_ringtone_update_success">Weekly alarm comes with background music for each day of the week. You can create a new alarm to try this feature.</string>
+     <string name="module_white_noise_download_data">Clock needs to download audio files for ambient noise timers. ≈30MB of your mobile data will be required for this download. Download now?</string>
+     <string name="module_white_noise_download_data_privacy"><Data>"In order to download audio files for ambient noise timers (≈30MB) and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &lt;a href= %1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. You're using mobile data now. Agree?"</Data></string>
+     <string name="module_white_noise_download_wifi">Clock needs to download audio files for ambient noise timers. Download now?</string>
+     <string name="module_white_noise_download_wifi_privacy"><Data>In order to download audio files for ambient noise timers and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &lt;a href= %1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> Agree?</Data></string>
      <string name="monday_to_friday">da lunedì a venerdì</string>
      <string name="more_setting">Altre impostazioni</string>
      <string name="more_settings">Altre impostazioni</string>
+     <string name="network_privacy"><Data>In order to get relevant info about local public holidays and adjust alarms, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &lt;a href= %1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
+     <string name="network_privacy_global"><Data>In order to provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &lt;a href= %1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>. Agree?</Data></string>
      <string name="never">Mai</string>
      <string name="no_alarm_setting">Nessun allarme</string>
      <string name="no_worldclock">Nessun orologio</string>
@@ -170,17 +201,28 @@
      <string name="pause">Pausa</string>
      <string name="personal_recommend">Suggerimenti di contenuti personalizzati</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
+     <string name="privacy_policy_title">Privacy Policy</string>
      <string name="remind_ringtone">Suoneria</string>
      <string name="repeat_count">Volte</string>
      <string name="reset">Azzera</string>
      <string name="revert">Ripristina</string>
+     <string name="ringtone_all">All ringtones</string>
+     <string name="ringtone_dew">Morning dew</string>
+     <string name="ringtone_dream">Daydream</string>
+     <string name="ringtone_firefly">Fireflies</string>
+     <string name="ringtone_other">More ringtones</string>
+     <string name="ringtone_weather">Weather alarm</string>
+     <string name="ringtone_week">Weekly alarm</string>
      <string name="search_alarm_clock_keywords">Sveglia;Sveglia;</string>
      <string name="search_menu_title">Cerca</string>
      <string name="search_stopwatch_keywords">Cronometro</string>
      <string name="search_timer_keywords">Timer</string>
      <string name="search_worldclock_keywords">Orario;Fuso orario;Orologio</string>
      <string name="set_alarm">Imposta sveglia</string>
+     <string name="set_alarm_choose_ringtone">Select ringtone</string>
      <string name="set_alarm_done">Fatto</string>
+     <string name="set_alarm_other">Other</string>
+     <string name="setting_alarm_arriving_subtitle">Show notifications before alarms go off</string>
      <string name="setting_alarm_arriving_summary">Invia una notifica prima di suonare</string>
      <string name="setting_alarm_arriving_title">Notifica prima di suonare</string>
      <string name="settings">Impostazioni</string>
@@ -188,6 +230,8 @@
      <string name="shortcut_start_timer">Avvia conto alla rovescia</string>
      <string name="shortcut_stop_watch">Avvia cronometro</string>
      <string name="shut_down_keep_screen">La schermata non sarà mantenuta attiva</string>
+     <string name="shutdown_alarm_alert_enable_summary">Shutdown alarms will go off at least 10 minutes after you power off your device</string>
+     <string name="shutdown_alarm_alert_title">Shutdown alarm</string>
      <string name="shutdown_alarm_disable_summary">La sveglia non si attiverà con dispositivo spento</string>
      <string name="shutdown_alarm_enable_summary">La sveglia si attiverà con dispositivo spento</string>
      <string name="shutdown_alarm_title">Sveglia dopo spegnimento</string>
@@ -212,6 +256,9 @@
      <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
      <string name="stopwatch_lap_empty_text">Nessun giro</string>
      <string name="stopwatch_title">Cronometro</string>
+     <string name="system_permission_phone_desc">For identifying different devices</string>
+     <string name="system_permission_purpose">Alarms, stopwatch, timers, world clock</string>
+     <string name="system_permission_storage_desc">For accessing alarm ringtones</string>
      <string name="system_time_setting">Impostazioni</string>
      <string name="system_time_settings_category_title">Impostazioni sveglia</string>
      <string name="temperature_unit">°C</string>
@@ -232,6 +279,7 @@
      <string name="timer_alert_type_forest">Foresta</string>
      <string name="timer_alert_type_mute">Predefinito</string>
      <string name="timer_alert_type_rain">Pioggerella</string>
+     <string name="timer_alert_type_spring_rain">Summer rain</string>
      <string name="timer_alert_type_stove_fire">Fuoco di stufa</string>
      <string name="timer_alert_type_summer_night">Notte estiva</string>
      <string name="timer_can_continue_in_timer">"Apri il timer per riprendere l'esecuzione"</string>
@@ -269,6 +317,7 @@
      <string name="user_agreement">Accordo utente</string>
      <string name="vibrate_pref_summary">"Vibra quando suona la sveglia"</string>
      <string name="vibrate_when_ringing">Vibra quando suona</string>
+     <string name="volume_button_setting_desc">Assign functions for the Power and Volume +/- buttons</string>
      <string name="volume_button_setting_summary">Imposta il comportamento alla pressione di uno dei due pulsanti</string>
      <string name="volume_button_setting_title">Tasti fisici</string>
      <string name="workday_alarm_clock">Sveglia attiva dal Lun. al Ven.</string>
@@ -281,6 +330,7 @@
      <string name="worldclock_world_time">Fusi orari</string>
      <string name="worldcolock_date_display_prefix">Attuale: </string>
      <string name="worldcolock_timezone_current">Attuale: %1$s</string>
+     <string name="worldcolock_timezone_current_date">MM/dd/yyyy</string>
      <string name="worldcolock_timezone_date">dd MMM</string>
      <string name="worldcolock_timezone_gap">%s O</string>
      <string name="worldcolock_timezone_local">"Identico all'ora locale"</string>

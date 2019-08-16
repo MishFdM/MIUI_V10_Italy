@@ -9,11 +9,17 @@
         <item>Predefinita</item>
         <item>Personalizza</item>
      </string-array>
+     <string-array name="pref_homepage_choices_with_simplehome">
+        <item>Default start page</item>
+        <item>Clean start page</item>
+        <item>Custom</item>
+     </string-array>
      <string-array name="pref_nav_mode_summary">
         <item>Telefono</item>
         <item>Tablet</item>
      </string-array>
      <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Visualizzazione a quadri</item>
         <item>Visualizzazione verticale</item>
         <item>Visualizzazione orizzontale</item>
      </string-array>

@@ -56,6 +56,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Dopo %1$d minuti</item>
         <item quantity="one">Dopo %1$d minuto</item>
      </plurals>
+     <plurals name="ew_alert_second_after">
+        <item quantity="other">In %d seconds</item>
+        <item quantity="one">In %d second</item>
+     </plurals>
      <plurals name="find_applications">
         <item quantity="other">Cerca tra %d app</item>
         <item quantity="one">Cerca tra %d app</item>

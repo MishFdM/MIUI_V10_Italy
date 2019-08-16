@@ -248,6 +248,7 @@
      <string name="multi_selecting_tips">"Tocca un'icona per iniziare"</string>
      <string name="no_detail_page">Nessuna pagina per i dettagli</string>
      <string name="no_space_toast">Nessun spazio</string>
+     <string name="no_space_toast_when_click_widget">Not enough space on this page. Try dragging this item to a different page.</string>
      <string name="normal_wallpaper">Sfondo</string>
      <string name="notification_installed">Installato correttamente</string>
      <string name="notification_open_button">Apri</string>

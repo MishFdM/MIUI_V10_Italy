@@ -2461,6 +2461,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
      <string name="fsg_mistake_touch_summary">In alcune scene, come giochi e video a tutto schermo, gesture è necessario un doppio swipe per avere effetto</string>
      <string name="fsg_mistake_touch_title">Doppio controllo per le gesture</string>
      <string name="full_screen_display">Modalità tutto schermo</string>
+     <string name="full_screen_keyboard_optimization">Enhance keyboard</string>
      <string name="full_transparent_smarrcover_title">Copertura frontale trasparente</string>
      <string name="fullbackup_data_summary">"Esegui automaticamente il backup dei dati del dispositivo (come password Wi-Fi e registro chiamate) e dati applicazioni (come impostazioni e file memorizzati dalle app) in remoto.
 
@@ -2643,6 +2644,16 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="input_assistance">Assistente input</string>
      <string name="input_hint_prefix">Inserisci %1$s</string>
      <string name="input_method">Metodo di inserimento</string>
+     <string name="input_method_function_clipboard">Clipboard and frequent phrases</string>
+     <string name="input_method_function_clipboard_des">Tap to view clipboard contents and frequent phrases</string>
+     <string name="input_method_function_no_function">None</string>
+     <string name="input_method_function_no_function_des">"Don't show any shortcuts"</string>
+     <string name="input_method_function_switch">Switch between keyboards</string>
+     <string name="input_method_function_switch_des">Tap to switch to a different keyboard</string>
+     <string name="input_method_function_voice">Voice input</string>
+     <string name="input_method_function_voice_des">Tap to use voice input</string>
+     <string name="input_method_function_xiaoai">Mi AI voice input</string>
+     <string name="input_method_function_xiaoai_des">Tap to use Mi AI voice input</string>
      <string name="input_method_selector">Selettore metodo di immissione</string>
      <string name="input_method_selector_always_hide_title">Nascondi sempre</string>
      <string name="input_method_selector_always_show_title">Mostra sempre</string>
@@ -2860,6 +2871,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="led_frequence_summary">"Imposta l'intervallo di illuminazione del LED"</string>
      <string name="led_pulse_summary">Lampeggia quando ricevi nuove notifiche</string>
      <string name="led_settings">LED di notifica</string>
+     <string name="left_function_key">Left shortcut</string>
      <string name="legal_information">Informazioni legali</string>
      <string name="legal_workday">Giorni lavorativi</string>
      <string name="legal_workday_invalidate">Lun-Ven (info festività scadute)</string>
@@ -3143,7 +3155,9 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="long_press_home_key">Tieni premuto il tasto Home</string>
      <string name="long_press_menu_key">Tieni premuto il tasto Menu</string>
      <string name="long_press_menu_key_when_lock">Tieni premuto il tasto Menu quando bloccato</string>
+     <string name="long_press_power_key">Long press the Power button</string>
      <string name="long_press_power_key_half_of_second">"Tieni premuto il tasto Accensione per 0.5s per attivare l'Assistente Google"</string>
+     <string name="long_press_power_key_tips"><Data>Long press the Power button &lt;font color=#999999>Faster and more convenient&lt;/font></Data></string>
      <string name="long_press_volume_down">Tieni premuto il tasto volume basso</string>
      <string name="lost_internet_access_cancel">Rimani in Wi-Fi</string>
      <string name="lost_internet_access_persist">Non mostrare più</string>
@@ -3334,6 +3348,8 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_lab_ai_cloud_closed">Precaricamento AI non ancora disponibile.</string>
      <string name="miui_lab_ai_preload_desc">Il precaricamento AI aumenta la velocità di avvio delle app</string>
      <string name="miui_lab_ai_preload_title">Precaricamento AI</string>
+     <string name="miui_lab_aiasst_call_screen_desc">Connect By Tips</string>
+     <string name="miui_lab_aiasst_call_screen_title">Tips Call</string>
      <string name="miui_lab_drive_mode_desc">Utilizza controlli vocali e ascolta i messaggi WeChat</string>
      <string name="miui_lab_drive_mode_title">Modalità auto</string>
      <string name="miui_lab_feature_applied">Applicato</string>
@@ -3691,6 +3707,7 @@ ed esegui il software."</string>
      <string name="noise_suppression">Soppressione del rumore ambientale</string>
      <string name="none">Nessuno</string>
      <string name="normal">Normale</string>
+     <string name="normal_bottom_height_of_keyboard">Regular</string>
      <string name="normal_info">Tutto il volume è normalizzato</string>
      <string name="normal_smartcover_title">Copertura frontale opaca</string>
      <string name="not_battery_optimizing">Ottimizzazione batteria non utilizzata</string>
@@ -4082,6 +4099,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
      <string name="power_usage_old_debug">%1$s rimanenti (vecchio utilizzo)</string>
      <string name="power_usage_summary">Consumo batteria</string>
      <string name="power_usage_summary_title">Batteria</string>
+     <string name="power_usage_summary_title_new">Battery &amp; performance</string>
      <string name="power_wifi">Wi-Fi</string>
      <string name="pre_installed_application">App pre-installate</string>
      <string name="pref_bg_network_title">Connessione in background</string>
@@ -4386,6 +4404,9 @@ Interfaccia UT: %5$s"</string>
      <string name="radio_info_toggle_dns_check_label">Attiva o disattiva verifica DNS</string>
      <string name="radio_info_ul_kbps">Larghezza di banda Upload (kbps):</string>
      <string name="radio_info_voice_network_type_label">Tipo di rete vocale:</string>
+     <string name="raise_bottom_height_of_keyboard">Enhanced</string>
+     <string name="raise_bottom_height_of_keyboard_sub_title">A bar with customizable shortcuts will appear under the keyboard if you switch to Enhanced mode</string>
+     <string name="raise_bottom_height_of_keyboard_title">Adjust keyboard to full screen display</string>
      <string name="rank_title">Classifiche</string>
      <string name="rarely_running">Eseguite di rado (%s)</string>
      <string name="reading_data">Recupero informazioni…</string>
@@ -4499,6 +4520,7 @@ Interfaccia UT: %5$s"</string>
      <string name="retail_demo_reset_title">Password richiesta</string>
      <string name="retry">Riprova</string>
      <string name="rgb_manage_facerecoginition_text">Gestisci dati volto 2D</string>
+     <string name="right_function_key">Right shortcut</string>
      <string name="ring_volume_option_title">Volume suoneria</string>
      <string name="ring_volume_title">Volume suoneria</string>
      <string name="ringtone_slot_setting_title">Impostazioni scheda singola</string>
@@ -6986,8 +7008,7 @@ La memorizzazione delle credenziali potrebbe non essere stata attivata"</string>
      <string name="xiaomi_account">Mi Account</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xiaomi_cloud_service_description">Mi Cloud sincronizza i contatti, le foto, ed esegue il backup delle tue applicazioni e impostazioni, aiutandoti a trovare il tuo dispositivo con la funzionalità Trova dispositivo.</string>
-     <string name="xiaomi_cloud_service_description_contact">contatti e</string>
-     <string name="xiaomi_cloud_service_description_format">Mi Cloud sincronizza le tue foto %s, eseguie il backup di app e impostazioni e ti aiuta a ritrovare il telefono con Trova Dispositivo.</string>
+     <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud syncs your photos, backs up your apps and settings, and helps you find your phone using Find device.</string>
      <string name="xiaomi_cloud_service_disabled">Disattivato</string>
      <string name="xiaomi_cloud_service_unknown">Sconosciuto</string>
      <string name="xiaomi_money_service">Mi Credit</string>

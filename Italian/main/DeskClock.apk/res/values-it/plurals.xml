@@ -36,6 +36,18 @@
         <item quantity="other">Intervallo sospensione modificato in %d minuti</item>
         <item quantity="one">Intervallo sospensione modificato in %d minuto</item>
      </plurals>
+     <plurals name="snooze_duration_count">
+        <item quantity="other">Go off %1$s times</item>
+        <item quantity="one">Go off %1$s time</item>
+     </plurals>
+     <plurals name="snooze_duration_desc">
+        <item quantity="other">Every %1$s min, go off %2$s times</item>
+        <item quantity="one">Every %1$s min, go off %2$s time</item>
+     </plurals>
+     <plurals name="snooze_duration_min">
+        <item quantity="other">Every %1$s mins</item>
+        <item quantity="one">Every %1$s min</item>
+     </plurals>
      <plurals name="snooze_duration_summary">
         <item quantity="other">La sveglia verrà disattivata %2$s volte (%1$s min. ciascuna)</item>
         <item quantity="one">La sveglia verrà disattivata %2$s volte (%1$s min.)</item>

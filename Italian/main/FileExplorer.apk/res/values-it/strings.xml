@@ -177,10 +177,13 @@
      <string name="gbk_summary">Codifica che migliora la visualizzazione del testo cinese semplificato</string>
      <string name="gbk_title">GBK</string>
      <string name="gigabyteShort">GB</string>
+     <string name="grid_mode">Grid view</string>
      <string name="group_title">%2$s da %1$s</string>
      <string name="group_title_extra_backup">Backup</string>
      <string name="group_title_extra_expire">Per scadere</string>
      <string name="group_title_extra_new">Nuovo</string>
+     <string name="hint_switch_to_grid_mode">Switched to grid view</string>
+     <string name="hint_switch_to_list_mode">Switched to list view</string>
      <string name="home_action_up">Indietro</string>
      <string name="home_title">File</string>
      <string name="homepage_tab_category">Categorie</string>
@@ -194,6 +197,7 @@
      <string name="instruction_pre_phone">Tocca per avviare il server FTP</string>
      <string name="just_now">poco fa</string>
      <string name="kilobyteShort">KB</string>
+     <string name="list_mode">List view</string>
      <string name="load_more">Altro</string>
      <string name="loading">Caricamento…</string>
      <string name="local_image">Foto</string>
@@ -381,6 +385,7 @@
      <string name="storage_sd_card">Scheda SD</string>
      <string name="storage_usb">Archivio USB</string>
      <string name="storage_warning">Archiviazione esterna non disponibile.</string>
+     <string name="switch_doc_type">Select format</string>
      <string name="sys_size_enable">" liberi"</string>
      <string name="tab_app">Altro</string>
      <string name="tab_category">Cerca</string>

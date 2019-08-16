@@ -26,6 +26,8 @@
      <string name="autofill_save_sub_message">"Potrai gestire le password salvate in Impostaizoni > Impostazioni aggiuntive > Privacy > %s."</string>
      <string name="autofill_save_title">Salva automaticamente le password</string>
      <string name="autofill_service_name">Gestione password</string>
+     <string name="btn_cancel">Cancel</string>
+     <string name="btn_sure">OK</string>
      <string name="button_text_cancel">Annulla</string>
      <string name="button_text_delete">Elimina</string>
      <string name="button_text_delete_timer">Elimina (%d)</string>
@@ -36,20 +38,29 @@
      <string name="cancel_action">Annulla</string>
      <string name="close">Off</string>
      <string name="configure_input_methods">Scegli tastiere</string>
+     <string name="confirm_cancel_task_files">Cancel sending files to %1$s?</string>
+     <string name="confirm_cancel_task_images">Cancel sending images to %1$s?</string>
      <string name="content_description_dial">Chiama</string>
      <string name="content_description_search">Cerca</string>
      <string name="content_description_share">Condividi</string>
      <string name="content_description_translate">Traduci</string>
      <string name="content_description_web_url">Naviga</string>
      <string name="copy">Copia</string>
+     <string name="customer_location_judgment">China</string>
      <string name="cut">Taglia</string>
+     <string name="default_device_name">Unknown device</string>
      <string name="default_name">Predefinito</string>
      <string name="description_title">Modalità silenziosa</string>
+     <string name="device_type_pc">Computer</string>
      <string name="eighthours">8 ore</string>
      <string name="enable_livetalk_summary">¥ 0.05 al minuto per chiamate nazionali</string>
      <string name="enable_livetalk_title">Attiva pacchetto di ricarica</string>
+     <string name="enable_midrop">Turn on</string>
      <string name="fc_dialog_body">"Inviare il resoconto a Xiaomi per l'analisi? Questo rapporto potrebbe contenere informazioni di identificazione personali. Il tuo rapporto verrà utilizzato per aiutare la risoluzione di questo problema."</string>
      <string name="fc_dialog_jump_to_preview">Mostra il riassunto</string>
+     <string name="file_cannot_print">"Can't print this item."</string>
+     <string name="file_cannot_screen_throw">"Can't cast this item."</string>
+     <string name="file_sending">Transferring files…</string>
      <string name="first_back_long_press_message">"Tieni premuto Indietro per chiudere il processo attivo ed i servizi ad esso collegati.
 
 Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</string>
@@ -62,6 +73,7 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Vai nelle impostazioni</string>
      <string name="fp_nav_center_action_choose_dlg_title">Personalizza il tasto Home</string>
      <string name="frequent_phrases">Frasi comuni</string>
+     <string name="functions_are_being_developed">This feature will be available soon. Stay tuned!</string>
      <string name="global_actions_airplane_mode">Modalità Aereo</string>
      <string name="global_actions_reboot">Riavvia</string>
      <string name="global_actions_shutdown">Spegni</string>
@@ -71,6 +83,11 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="handy_mode_summary">Tocca lo spazio vuoto per chiudere</string>
      <string name="handy_mode_title">Uso con una mano</string>
      <string name="ignore_home_when_fingerprint_enrolling_msg">Posiziona il dito sul tasto Home</string>
+     <string name="input_method_edit_phrase_text">Edit frequent phrases</string>
+     <string name="input_method_no_content_text">No items here yet</string>
+     <string name="input_method_switch_settings_text">Keyboard settings</string>
+     <string name="input_method_tab_clipboard_text">Clipboard</string>
+     <string name="input_method_tab_phrase_text">Frequent phrases</string>
      <string name="internal_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate nazionali</string>
      <string name="international_livetalk_enable">Pacchetti di ricarica per effettuare le chiamate internazionali</string>
      <string name="key_btn_ok">OK</string>
@@ -85,6 +102,7 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="maml_component_customization_title">Impostazioni</string>
      <string name="memory_clear_nothing_result">RAM già ottimizzata</string>
      <string name="memory_clear_result">%1$sB cancellati</string>
+     <string name="mi_drop">Mi Share</string>
      <string name="miui">MIUI</string>
      <string name="miui_forbid_poweroff_when_device_locked">Impossibile spegnere. il dispositivo è bloccato</string>
      <string name="miui_screen_ratio_hint">Problemi proporzioni schermo</string>
@@ -97,10 +115,12 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="miui_warning_button_ok">OK</string>
      <string name="miui_warning_tip_info">Si è verificato un errore con %1$s. Chiudere adesso questa app?</string>
      <string name="onehour">30 minuti</string>
+     <string name="oppo">OPPO</string>
      <string name="package_delete_confirm_step_1">Eliminare %s?</string>
      <string name="package_delete_confirm_step_2">Eliminando questa app potresti causare instabilità del sistema.</string>
      <string name="package_delete_confirm_step_3">Non potrai utilizzare questa app una volta eliminata.</string>
      <string name="paste">Incolla</string>
+     <string name="pc_device_model_name">Computer</string>
      <string name="perm_send_push_dspt">Consenti messaggi Mi Push</string>
      <string name="perm_send_push_lab">Invia messaggio Push</string>
      <string name="permdesc_manageLocationPolicy">"Consenti all'applicazione di gestire le autorizzazioni sulla posizione e definisci regole specifiche per ogni app."</string>
@@ -133,6 +153,7 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="resolver_other_method">Altre opzioni</string>
      <string name="resolver_recommend_options_tag">Opzioni suggerite</string>
      <string name="resource_select">Seleziona</string>
+     <string name="scanning_device_tips">Searching for devices nearby… Make sure the other device is in discoverable mode.</string>
      <string name="screen_button_notification_text">Per attivarli premi contemporaneamente i tasti Home e Power.</string>
      <string name="screen_button_notification_title">I tasti di navigazione sono disattivati</string>
      <string name="screen_on_proximity_sensor_hint">Disattiva questa funzionalità, premi il tasto del Volume Su.</string>
@@ -154,6 +175,7 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="security_permission_xiaomi_account_missed_text">"Inserisci l'ID del tuo Mi Account"</string>
      <string name="select">Seleziona</string>
      <string name="select_all">Seleziona tutto</string>
+     <string name="send_files_to">Send items to</string>
      <string name="set_password_action">Imposta password</string>
      <string name="set_password_message">Impostare una nuova password?</string>
      <string name="set_password_title">Imposta password</string>
@@ -164,6 +186,10 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="sim_added_reboot_title">La SIM verrà attivata dopo il riavvio del dispositivo.</string>
      <string name="sim_lock_non_ais_msg">La tua SIM non è completamente funzionante con questo telefono perché non risponde ai termini e condizioni del tuo abbonamento. Per maggiori informazioni, contatta i centri assistenza Xiaomi o i negozio da cui hai acquistato il prodotto."</string>
      <string name="sim_lock_now_ais_title">SIM%1$d</string>
+     <string name="slavewifi">Dual band WLAN</string>
+     <string name="slavewifi_disconnect">Disconnect</string>
+     <string name="slavewifi_notification_title">Using dual band WLAN</string>
+     <string name="slavewifi_settings">Tap to change settings</string>
      <string name="softap_notifif_summary">%d connesso</string>
      <string name="softap_notifif_title">Hotspot \"%s\" attivo</string>
      <string name="standard">Silenzioso</string>
@@ -203,6 +229,9 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="takeback_camera_front_failed">Impossibile chiudere la fotocamera frontale. Prova di nuovo</string>
      <string name="talk_back_water_mark_string1">TalkBack è attivo</string>
      <string name="talk_back_water_mark_string2">Mantieni premuti i pulsanti \"Volume +\" e \"Volume-\" per 3 secondi, per spegnere</string>
+     <string name="throwing_print">Print</string>
+     <string name="throwing_screen">Cast</string>
+     <string name="tips_prompt_enable_midrop">Share files with devices nearby</string>
      <string name="total">Non disturbare</string>
      <string name="total_description">[DND] Silenzia i suoni e disattiva la vibrazione per tutti gli elementi ad esclusione della sveglia</string>
      <string name="total_title">Non disturbare</string>
@@ -212,9 +241,12 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="turn_off">Spegni</string>
      <string name="twohours">1 ora</string>
      <string name="unknown_caller">Numero sconosciuto</string>
+     <string name="unrecognized_manufacture">Unknown</string>
+     <string name="unrecognized_model">Unknown device</string>
      <string name="user_switching_dialog_switch_into_kid_space">Passaggio allo spazio Bambini…</string>
      <string name="user_switching_dialog_switch_out_kid_space">Uscita dallo spazio Bambini…</string>
      <string name="user_switching_dialog_text">Cambio…</string>
+     <string name="vivo">vivo</string>
      <string name="voice_begin">Cosa stai cercando?</string>
      <string name="voice_button_action_down">Rilascia per cercare</string>
      <string name="voice_button_action_up">Premi per parlare</string>
@@ -222,6 +254,10 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="voice_input_error_other">Si è verificato un errore. Aspetta un minuto o due e riprova.</string>
      <string name="wifi_assistant_wifi_no_internet">Questa rete Wi-Fi non ha accesso ad Internet</string>
      <string name="wifi_assistant_wifi_no_internet_detail">Tocca per visualizzare i dettagli</string>
+     <string name="wireless_charging_notification_message1">"Couldn't find wireless devices to charge. Reverse wireless charging is turned off now."</string>
+     <string name="wireless_charging_notification_message2">The battery is less than 30% charged. Reverse wireless charging is turned off now.</string>
+     <string name="wireless_charging_notification_message3">An error occurred during charging. Reverse wireless charging is turned off now.</string>
+     <string name="wireless_charging_notification_titile">Turned off reverse wireless charging</string>
      <string name="xspace_head">App clonate</string>
      <string name="xspace_resolver_activity_title">Seleziona app</string>
 </resources>

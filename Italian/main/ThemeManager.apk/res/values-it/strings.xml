@@ -69,6 +69,11 @@
      <string name="audio_duration_minutes_format">%1$d minuti</string>
      <string name="audio_duration_seconds_format">%1$d secondi</string>
      <string name="audition_ringtone">Riprpoduci</string>
+     <string name="author_attention">Follow</string>
+     <string name="author_attention_success">Followed successfully</string>
+     <string name="author_dialog_message">Unfollow this account now?</string>
+     <string name="author_dynamic">Status</string>
+     <string name="author_dynamic_no_resource">"Couldn't find results"</string>
      <string name="automatically_update_using_theme_tips">Aggiorna automaticamente la prossima volta</string>
      <string name="backup_theme_dialog_message">Eseguire il backup del tema corrente?</string>
      <string name="backup_theme_dialog_ok">Backup</string>
@@ -119,6 +124,9 @@
      <string name="description_version_szie">Versione: %1$s Dimensione: %2$s</string>
      <string name="desktop_effects">Effetti home</string>
      <string name="desktop_wallpaper">Schermata Home</string>
+     <string name="detail_author_attention_head">Follow some of our most outstanding designers</string>
+     <string name="detail_author_fans">"Followers: "</string>
+     <string name="detail_author_works">"Items: "</string>
      <string name="detail_recommend_title">Consigliati</string>
      <string name="dev_options">OPZIONI SVILUPPATORE</string>
      <string name="dev_options_summary">Risorse web</string>
@@ -265,7 +273,6 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="lockscreen_wallpaper">Schermata di blocco</string>
      <string name="lockstyle_personal_settings">Personalizza</string>
      <string name="long_click_can_hide_resource">Tieni premuto per nascondere i temi</string>
-     <string name="loop_wallpaper_is_here">Slideshow sfondi disponibile</string>
      <string name="mi_wallpaper">Sfondo MIUI</string>
      <string name="miuishare_account_activate_confirmation">Attiva Mi Account</string>
      <string name="miuishare_account_activate_ok">Attiva</string>
@@ -356,6 +363,7 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="resource_alarm_default">Sveglia</string>
      <string name="resource_app_name">Ricerca Browser</string>
      <string name="resource_apply">Applica</string>
+     <string name="resource_apply_trial">Apply</string>
      <string name="resource_back">Indietro</string>
      <string name="resource_buy">Acquista</string>
      <string name="resource_can_not_selected">%1$s non è stato selezionato.</string>
@@ -427,6 +435,7 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="resource_download">Download</string>
      <string name="resource_download_notification_title_many">%1$s temi scaricati</string>
      <string name="resource_download_notification_title_one">Temi scaricati</string>
+     <string name="resource_download_trial">Try</string>
      <string name="resource_downloaded_title">Risorse scaricate</string>
      <string name="resource_downloading">Download in corso</string>
      <string name="resource_exchange">Riscatta codice</string>
@@ -765,6 +774,8 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="wallpaper_loop_title">Slideshow sfondi</string>
      <string name="wallpaper_loop_title_desk_wallpaper">Slideshow sfondi Home</string>
      <string name="wallpaper_loop_title_lock_walpaper">Slideshow sfondi Schermata di Blocco</string>
+     <string name="wallpaper_no_favorite">No items here yet.</string>
+     <string name="wallpaper_no_record">No items here yet.</string>
      <string name="wallpaper_online">Sfondi online</string>
      <string name="wallpaper_online_no_more">Per adesso è tutto</string>
      <string name="wallpaper_online_tip">Collegati alla rete per veere altri elementi</string>

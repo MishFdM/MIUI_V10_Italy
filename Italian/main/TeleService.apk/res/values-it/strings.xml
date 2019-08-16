@@ -1080,6 +1080,7 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="local_enable">Notizie locali attivate</string>
      <string name="local_weather_disable">Meteo locale disattivato</string>
      <string name="local_weather_enable">Meteo locale attivato</string>
+     <string name="location">Area</string>
      <string name="lodgings_disable">Alloggi disattivate</string>
      <string name="lodgings_enable">Alloggi attivate</string>
      <string name="lte_band_sel_setting">lista bande</string>
@@ -1280,6 +1281,7 @@ Sarà usata al suo posto la rete preferita."</string>
      <string name="open_miui">Apri</string>
      <string name="opened_dual_4g_confirm_prompt">"Sembra che tu abbia una SIM che supporta solo il 4G. E' stato attivato automaticamente il dual 4G."</string>
      <string name="opened_dual_4g_confirm_prompt_with_sim">La SIM %1$s supporta solo il 4G. Per assicurarsi che la tua SIM funzioni correttamente, è stato attivato il dual 4G.</string>
+     <string name="operator">Carrier</string>
      <string name="optional_summary">Opzionale</string>
      <string name="ota_activate">Attivato</string>
      <string name="ota_call_end">Indietro</string>
@@ -1665,6 +1667,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="sip_system_decide">Automatico</string>
      <string name="smart_divert_summary">Impostazioni CFNRc</string>
      <string name="smart_divert_title">Smart-Divert</string>
+     <string name="smsc_dialog_message">"Make sure the number you enter is correct. Otherwise, you won't be able to send or receive SMS. Contact your carrier to confirm your SMSC number."</string>
      <string name="speed_label_fast">Veloce</string>
      <string name="speed_label_medium">Medio</string>
      <string name="speed_label_okay">OK</string>

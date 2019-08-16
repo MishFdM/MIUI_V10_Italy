@@ -63,7 +63,7 @@
      <string name="other_settings_auto_update_summary">"MIUI sceglierà il tempo di attesa per scaricare ed installare gli aggiornamenti."</string>
      <string name="other_settings_enhanced_lockscreen">Carousel sfondi</string>
      <string name="other_settings_enhanced_lockscreen_privacy_index">Informativa Privacy</string>
-     <string name="other_settings_enhanced_lockscreen_summary">Ricevi ogni giorno immagini e storie selezionate, direttamente sulla schermata di blocco. Accetta i Termini e Condizioni.</string>
+     <string name="other_settings_enhanced_lockscreen_summary">Ricevi quotidianamente immagini o storie sulla schermata di blocco. %1$s e %2$s</string>
      <string name="other_settings_enhanced_lockscreen_summary_index">Termini e Condizioni</string>
      <string name="other_settings_location">Localizzazione</string>
      <string name="other_settings_location_summary">Consenti alle applicazioni di utilizzare la tua posizione</string>
@@ -100,6 +100,7 @@ Leggi questo documento per la tastiera: "</string>
      <string name="summary_not_set">Non impostato</string>
      <string name="system_navigation_mode">Modalità di navigazione di sistema</string>
      <string name="terms_of_use">Condizioni del Servizio</string>
+     <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
      <string name="terms_of_use_label">"La tua privacy è molto importante per noi. Leggi i nostri Termini di servizio e la Normativa sulla privacy per sapere quali informazioni raccogliamo, come le usiamo e quali sono le opzioni disponibili.
      
 Devi accettare i nostri Termini di servizio e l'Informativa sulla Privacy prima di poter utilizzare la MIUI. Le componenti %s ed il Mi Account si connetteranno ad Internet e acquisiranno la tua posizione."</string>

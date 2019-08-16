@@ -346,8 +346,6 @@
      <string name="block_notification_content_text">"%1$s notifiche non verranno più mostrate. Puoi modificare nelle Impostazioni."</string>
      <string name="block_notification_desc">"Le notifiche dell'app non verranno più mostrate. Puoi modificare nelle Impostazioni."</string>
      <string name="block_notification_text">Nascondi</string>
-     <string name="block_record_notification_text">%1$s. Tocca per vedere</string>
-     <string name="block_record_notification_title">Blocca elemento</string>
      <string name="bluetooth_a2dp_profile_summary_connected">Connesso ad audio media</string>
      <string name="bluetooth_a2dp_profile_summary_use_for">Usa per audio media</string>
      <string name="bluetooth_active_battery_level">Attivo, batteria %1$s</string>
@@ -559,6 +557,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="description_direction_left">Scorri a sinistra per %s.</string>
      <string name="description_direction_up">Scorri in alto per %s.</string>
      <string name="description_image_button_answer">Rispondi</string>
+     <string name="description_image_button_bubble_answer">Speaker</string>
      <string name="description_image_button_reject">Rifiuta</string>
      <string name="description_image_icon_sim_card">SIM %1$d</string>
      <string name="description_target_search">Cerca</string>
@@ -573,7 +572,6 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="development_settings_title">Opzioni sviluppatore</string>
      <string name="digital_clock_dot">:</string>
      <string name="direct_boot_unaware_dialog_message">Nota: dopo un reboot, questa app non può avviarsi finché non sblocchi il telefono</string>
-     <string name="disable_notification_summary">Non mostrare mai notifiche per questa app.</string>
      <string name="disable_notification_title">Blocca notifiche</string>
      <string name="disable_overlays">Disabilita overlay HW</string>
      <string name="disable_overlays_summary">Usa sempre GPU per la composizione dello schermo</string>
@@ -635,7 +633,6 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="enabled_by_admin">"Abilitato dall'amministratore"</string>
      <string name="ethernet_label">LAN</string>
      <string name="expand_button_title">Avanzate</string>
-     <string name="expanded_confirm_disable_notification">Conferma</string>
      <string name="expanded_header_battery_charged">Caricato</string>
      <string name="expanded_header_battery_charging">In carica...</string>
      <string name="expanded_header_battery_charging_with_time">%s fino a carica completa</string>
@@ -1348,6 +1345,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="qs_dnd_replace">Sostituisci</string>
      <string name="qs_dnd_until">Fino a %s</string>
      <string name="qs_edit">Modifica</string>
+     <string name="qs_open_night_mode_alert_summary">"Certain display settings aren't compatible with Dark mode. However, they will be restored once you turn Dark mode off."</string>
      <string name="qs_paging">Usa le nuove Impostazioni Veloci</string>
      <string name="qs_rearrange">Riorganizza le Impostazioni Veloci</string>
      <string name="quick_settings">Impostazioni Veloci</string>
@@ -1417,6 +1415,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="quick_settings_night_secondary_label_on_at">Attivo a %s</string>
      <string name="quick_settings_night_secondary_label_on_at_sunset">Attivo al tramonto</string>
      <string name="quick_settings_night_secondary_label_until_sunrise">Fino al tramonto</string>
+     <string name="quick_settings_nightmode_label">Dark mode</string>
      <string name="quick_settings_notifications_label">Notifiche</string>
      <string name="quick_settings_papermode_label">Lettura</string>
      <string name="quick_settings_powermode_label">Modalità prestazioni</string>

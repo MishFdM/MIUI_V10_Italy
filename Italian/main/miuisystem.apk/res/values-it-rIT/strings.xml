@@ -14,6 +14,7 @@
      <string name="autumn_equinox">"Equinozio d'autunno"</string>
      <string name="beep">Beep</string>
      <string name="bells">Bells</string>
+     <string name="birdcicada_preview">Nature sound 2</string>
      <string name="blues">Blues</string>
      <string name="bottle">Bottiglia</string>
      <string name="breeze">Brezza</string>
@@ -193,6 +194,7 @@
      <string name="vip_login">Tocca per accedere</string>
      <string name="vip_not_login">Accesso non eseguito</string>
      <string name="vip_sign">Firma:</string>
+     <string name="waterdrop_preview">Nature sound 1</string>
      <string name="white_dews" />
      <string name="winter_begins">Inizio inverno</string>
      <string name="winter_solstice">"Solstizio d'inverno"</string>

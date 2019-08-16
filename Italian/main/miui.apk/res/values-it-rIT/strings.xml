@@ -482,6 +482,7 @@
      <string name="saturday">sabato</string>
      <string name="saturday_short">sab</string>
      <string name="saturday_shortest">S</string>
+     <string name="search_action_mode_cancel">Cancel</string>
      <string name="search_input_description">cerca</string>
      <string name="search_mode_button_back_description">indietro</string>
      <string name="select_all">Seleziona tutto</string>

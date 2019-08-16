@@ -45,6 +45,10 @@
         <item>"Oggi: "</item>
         <item>"Questo mese: "</item>
      </string-array>
+     <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Yes</item>
+        <item>No</item>
+     </string-array>
      <string-array name="lock_mode">
         <item>Dopo aver bloccato lo schermo</item>
         <item>"Dopo aver bloccato lo schermo e chiuso l'app"</item>
@@ -57,6 +61,14 @@
      <string-array name="over_limit_traffic_waring_style">
         <item>Mostra avviso</item>
         <item>Avvisa e disattiva la connessione dati</item>
+     </string-array>
+     <string-array name="pc_settings_thermal_entries">
+        <item>Default</item>
+        <item>Prioritize performance</item>
+     </string-array>
+     <string-array name="pc_settings_thermal_summaries">
+        <item>Using default temperature control mode</item>
+        <item>Prioritizing performance</item>
      </string-array>
      <string-array name="roaming_network_type">
         <item>Sempre</item>
